@@ -1,0 +1,101 @@
+[rospy.client][INFO] 2017-09-26 18:38:22,900: init_node, name[/rqt_reconfigure], pid[37881]
+[xmlrpc][INFO] 2017-09-26 18:38:22,902: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2017-09-26 18:38:22,903: Started XML-RPC server [http://ubuntu:33297/]
+[rospy.init][INFO] 2017-09-26 18:38:22,904: ROS Slave URI: [http://ubuntu:33297/]
+[rospy.impl.masterslave][INFO] 2017-09-26 18:38:22,903: _ready: http://ubuntu:33297/
+[xmlrpc][INFO] 2017-09-26 18:38:22,904: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2017-09-26 18:38:22,905: Registering with master node http://localhost:11311
+[rospy.init][INFO] 2017-09-26 18:38:23,004: registered with master
+[rospy.rosout][INFO] 2017-09-26 18:38:23,004: initializing /rosout core topic
+[rospy.rosout][INFO] 2017-09-26 18:38:23,007: connected to core topic /rosout
+[rospy.simtime][INFO] 2017-09-26 18:38:23,009: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2017-09-26 18:38:23,320: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.internal][INFO] 2017-09-26 18:38:23,579: topic[/camera/image_raw/compressed/parameter_descriptions] adding connection to [http://ubuntu:41935/], count 0
+[rospy.internal][INFO] 2017-09-26 18:38:23,952: topic[/camera/image_raw/compressedDepth/parameter_updates] adding connection to [http://ubuntu:41935/], count 0
+[rospy.internal][INFO] 2017-09-26 18:38:23,992: topic[/image/theora/parameter_updates] adding connection to [http://ubuntu:42603/], count 0
+[rospy.internal][INFO] 2017-09-26 18:38:24,010: topic[/view/parameter_descriptions] adding connection to [http://ubuntu:45991/], count 0
+[rospy.internal][INFO] 2017-09-26 18:38:24,034: topic[/view/parameter_updates] adding connection to [http://ubuntu:45991/], count 0
+[rospy.internal][INFO] 2017-09-26 18:38:24,049: topic[/image/compressedDepth/parameter_updates] adding connection to [http://ubuntu:42603/], count 0
+[rospy.internal][INFO] 2017-09-26 18:38:24,059: topic[/image/marked/theora/parameter_updates] adding connection to [http://ubuntu:45991/], count 0
+[rospy.internal][INFO] 2017-09-26 18:38:24,093: topic[/camera/image_raw/theora/parameter_updates] adding connection to [http://ubuntu:41935/], count 0
+[rospy.internal][INFO] 2017-09-26 18:38:24,111: topic[/image/marked/compressedDepth/parameter_updates] adding connection to [http://ubuntu:45991/], count 0
+[rospy.internal][INFO] 2017-09-26 18:38:24,144: topic[/image_marked/theora/parameter_updates] adding connection to [http://ubuntu:45991/], count 0
+[rospy.internal][INFO] 2017-09-26 18:38:24,182: topic[/image/marked/compressed/parameter_updates] adding connection to [http://ubuntu:45991/], count 0
+[rospy.internal][INFO] 2017-09-26 18:38:24,191: topic[/image_marked/theora/parameter_descriptions] adding connection to [http://ubuntu:45991/], count 0
+[rospy.internal][INFO] 2017-09-26 18:38:24,202: topic[/image_marked/compressedDepth/parameter_updates] adding connection to [http://ubuntu:45991/], count 0
+[rospy.internal][INFO] 2017-09-26 18:38:24,217: topic[/image_marked/compressedDepth/parameter_descriptions] adding connection to [http://ubuntu:45991/], count 0
+[rospy.internal][INFO] 2017-09-26 18:38:24,222: topic[/image/compressed/parameter_updates] adding connection to [http://ubuntu:42603/], count 0
+[rospy.internal][INFO] 2017-09-26 18:38:24,233: topic[/image_marked/compressed/parameter_updates] adding connection to [http://ubuntu:45991/], count 0
+[rospy.internal][INFO] 2017-09-26 18:38:24,243: topic[/image_marked/compressed/parameter_descriptions] adding connection to [http://ubuntu:45991/], count 0
+[rospy.internal][INFO] 2017-09-26 18:38:24,247: topic[/image/theora/parameter_descriptions] adding connection to [http://ubuntu:42603/], count 0
+[rospy.internal][INFO] 2017-09-26 18:38:24,284: topic[/image/marked/theora/parameter_descriptions] adding connection to [http://ubuntu:45991/], count 0
+[rospy.internal][INFO] 2017-09-26 18:38:24,294: topic[/camera/image_raw/theora/parameter_descriptions] adding connection to [http://ubuntu:41935/], count 0
+[rospy.internal][INFO] 2017-09-26 18:38:24,318: topic[/image/marked/compressedDepth/parameter_descriptions] adding connection to [http://ubuntu:45991/], count 0
+[rospy.internal][INFO] 2017-09-26 18:38:24,343: topic[/image/marked/compressed/parameter_descriptions] adding connection to [http://ubuntu:45991/], count 0
+[rospy.internal][INFO] 2017-09-26 18:38:24,402: topic[/image/compressedDepth/parameter_descriptions] adding connection to [http://ubuntu:42603/], count 0
+[rospy.internal][INFO] 2017-09-26 18:38:24,440: topic[/image/compressed/parameter_descriptions] adding connection to [http://ubuntu:42603/], count 0
+[rospy.internal][INFO] 2017-09-26 18:38:24,503: topic[/camera/image_raw/compressedDepth/parameter_descriptions] adding connection to [http://ubuntu:41935/], count 0
+[rospy.internal][INFO] 2017-09-26 18:38:24,517: topic[/camera/image_raw/compressed/parameter_updates] adding connection to [http://ubuntu:41935/], count 0
+[rospy.internal][INFO] 2017-09-26 18:39:17,434: topic impl's ref count is zero, deleting topic /image_marked/compressed/parameter_descriptions...
+[rospy.internal][INFO] 2017-09-26 18:39:17,436: topic[/image_marked/compressed/parameter_descriptions] removing connection to http://ubuntu:45991/
+[rospy.internal][WARNING] 2017-09-26 18:39:17,439: Unknown error initiating TCP/IP socket to ubuntu:36150 (http://ubuntu:45991/): Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 558, in connect
+    self.local_endpoint = self.socket.getsockname()
+AttributeError: 'NoneType' object has no attribute 'getsockname'
+
+[rospy.internal][INFO] 2017-09-26 18:39:17,439: topic impl's ref count is zero, deleting topic /image_marked/compressed/parameter_updates...
+[rospy.internal][INFO] 2017-09-26 18:39:17,442: topic[/image_marked/compressed/parameter_updates] removing connection to http://ubuntu:45991/
+[rospy.internal][INFO] 2017-09-26 18:39:18,006: topic[/image_marked/compressed/parameter_updates] adding connection to [http://ubuntu:45991/], count 0
+[rospy.internal][INFO] 2017-09-26 18:39:18,007: topic[/image_marked/compressed/parameter_descriptions] adding connection to [http://ubuntu:45991/], count 0
+[rospy.internal][INFO] 2017-09-26 18:39:18,476: topic impl's ref count is zero, deleting topic /image_marked/compressed/parameter_descriptions...
+[rospy.internal][INFO] 2017-09-26 18:39:18,477: topic[/image_marked/compressed/parameter_descriptions] removing connection to http://ubuntu:45991/
+[rospy.internal][INFO] 2017-09-26 18:39:18,479: topic impl's ref count is zero, deleting topic /image_marked/compressed/parameter_updates...
+[rospy.internal][INFO] 2017-09-26 18:39:18,479: topic[/image_marked/compressed/parameter_updates] removing connection to http://ubuntu:45991/
+[rospy.internal][WARNING] 2017-09-26 18:39:18,481: Unknown error initiating TCP/IP socket to ubuntu:36150 (http://ubuntu:45991/): Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 558, in connect
+    self.local_endpoint = self.socket.getsockname()
+AttributeError: 'NoneType' object has no attribute 'getsockname'
+
+[rospy.internal][WARNING] 2017-09-26 18:39:18,481: Unknown error initiating TCP/IP socket to ubuntu:36150 (http://ubuntu:45991/): Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 558, in connect
+    self.local_endpoint = self.socket.getsockname()
+AttributeError: 'NoneType' object has no attribute 'getsockname'
+
+[rospy.internal][INFO] 2017-09-26 18:39:18,983: topic[/image_marked/compressed/parameter_updates] adding connection to [http://ubuntu:45991/], count 0
+[rospy.internal][INFO] 2017-09-26 18:39:18,984: topic[/image_marked/compressed/parameter_descriptions] adding connection to [http://ubuntu:45991/], count 0
+[rospy.internal][INFO] 2017-09-26 18:39:33,994: topic impl's ref count is zero, deleting topic /image_marked/compressed/parameter_descriptions...
+[rospy.internal][INFO] 2017-09-26 18:39:33,996: topic[/image_marked/compressed/parameter_descriptions] removing connection to http://ubuntu:45991/
+[rospy.internal][INFO] 2017-09-26 18:39:33,999: topic impl's ref count is zero, deleting topic /image_marked/compressed/parameter_updates...
+[rospy.internal][INFO] 2017-09-26 18:39:34,004: topic[/image_marked/compressed/parameter_updates] removing connection to http://ubuntu:45991/
+[rospy.core][INFO] 2017-09-26 18:39:34,086: signal_shutdown [atexit]
+[rospy.internal][INFO] 2017-09-26 18:39:34,134: topic[/rosout] removing connection to /rosout
+[rospy.internal][INFO] 2017-09-26 18:39:34,136: topic[/image/marked/compressed/parameter_descriptions] removing connection to http://ubuntu:45991/
+[rospy.internal][INFO] 2017-09-26 18:39:34,137: topic[/camera/image_raw/theora/parameter_descriptions] removing connection to http://ubuntu:41935/
+[rospy.internal][INFO] 2017-09-26 18:39:34,138: topic[/image/marked/theora/parameter_descriptions] removing connection to http://ubuntu:45991/
+[rospy.internal][INFO] 2017-09-26 18:39:34,140: topic[/image_marked/theora/parameter_descriptions] removing connection to http://ubuntu:45991/
+[rospy.internal][INFO] 2017-09-26 18:39:34,150: topic[/image/theora/parameter_descriptions] removing connection to http://ubuntu:42603/
+[rospy.internal][INFO] 2017-09-26 18:39:34,153: topic[/image_marked/compressedDepth/parameter_descriptions] removing connection to http://ubuntu:45991/
+[rospy.internal][INFO] 2017-09-26 18:39:34,164: topic[/image/compressedDepth/parameter_updates] removing connection to http://ubuntu:42603/
+[rospy.internal][INFO] 2017-09-26 18:39:34,173: topic[/camera/image_raw/compressed/parameter_descriptions] removing connection to http://ubuntu:41935/
+[rospy.internal][INFO] 2017-09-26 18:39:34,177: topic[/image_marked/compressedDepth/parameter_updates] removing connection to http://ubuntu:45991/
+[rospy.internal][INFO] 2017-09-26 18:39:34,178: topic[/image/compressed/parameter_descriptions] removing connection to http://ubuntu:42603/
+[rospy.internal][WARNING] 2017-09-26 18:39:34,190: Unknown error initiating TCP/IP socket to ubuntu:58462 (http://ubuntu:42603/): Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 558, in connect
+    self.local_endpoint = self.socket.getsockname()
+AttributeError: 'NoneType' object has no attribute 'getsockname'
+
+[rospy.internal][INFO] 2017-09-26 18:39:34,194: topic[/image/marked/theora/parameter_updates] removing connection to http://ubuntu:45991/
+[rospy.internal][INFO] 2017-09-26 18:39:34,195: topic[/image/compressedDepth/parameter_descriptions] removing connection to http://ubuntu:42603/
+[rospy.internal][INFO] 2017-09-26 18:39:34,199: topic[/image/marked/compressedDepth/parameter_descriptions] removing connection to http://ubuntu:45991/
+[rospy.internal][INFO] 2017-09-26 18:39:34,203: topic[/camera/image_raw/compressedDepth/parameter_descriptions] removing connection to http://ubuntu:41935/
+[rospy.internal][INFO] 2017-09-26 18:39:34,215: topic[/camera/image_raw/compressedDepth/parameter_updates] removing connection to http://ubuntu:41935/
+[rospy.internal][INFO] 2017-09-26 18:39:34,218: topic[/camera/image_raw/theora/parameter_updates] removing connection to http://ubuntu:41935/
+[rospy.internal][INFO] 2017-09-26 18:39:34,224: topic[/camera/image_raw/compressed/parameter_updates] removing connection to http://ubuntu:41935/
+[rospy.internal][INFO] 2017-09-26 18:39:34,227: topic[/view/parameter_updates] removing connection to http://ubuntu:45991/
+[rospy.internal][INFO] 2017-09-26 18:39:34,228: topic[/image_marked/theora/parameter_updates] removing connection to http://ubuntu:45991/
+[rospy.internal][INFO] 2017-09-26 18:39:34,234: topic[/image/marked/compressed/parameter_updates] removing connection to http://ubuntu:45991/
+[rospy.internal][INFO] 2017-09-26 18:39:34,237: topic[/image/marked/compressedDepth/parameter_updates] removing connection to http://ubuntu:45991/
+[rospy.internal][INFO] 2017-09-26 18:39:34,239: topic[/view/parameter_descriptions] removing connection to http://ubuntu:45991/
+[rospy.internal][INFO] 2017-09-26 18:39:34,240: topic[/image/compressed/parameter_updates] removing connection to http://ubuntu:42603/
+[rospy.internal][INFO] 2017-09-26 18:39:34,243: topic[/image/theora/parameter_updates] removing connection to http://ubuntu:42603/
+[rospy.impl.masterslave][INFO] 2017-09-26 18:39:34,244: atexit

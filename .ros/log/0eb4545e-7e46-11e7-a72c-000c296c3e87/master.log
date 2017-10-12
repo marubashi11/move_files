@@ -1,0 +1,182 @@
+[rosmaster.main][INFO] 2017-08-10 20:35:02,381: initialization complete, waiting for shutdown
+[rosmaster.main][INFO] 2017-08-10 20:35:02,381: Starting ROS Master Node
+[xmlrpc][INFO] 2017-08-10 20:35:02,382: XML-RPC server binding to 0.0.0.0:11311
+[xmlrpc][INFO] 2017-08-10 20:35:02,382: Started XML-RPC server [http://ubuntu:11311/]
+[xmlrpc][INFO] 2017-08-10 20:35:02,382: xml rpc node: starting XML-RPC server
+[rosmaster.master][INFO] 2017-08-10 20:35:02,382: Master initialized: port[11311], uri[http://ubuntu:11311/]
+[rosmaster.master][INFO] 2017-08-10 20:35:02,485: +PARAM [/run_id] by /roslaunch
+[rosmaster.master][INFO] 2017-08-10 20:35:02,498: +PARAM [/roslaunch/uris/host_ubuntu__45622] by /roslaunch
+[rosmaster.master][INFO] 2017-08-10 20:35:02,600: +PARAM [/rosversion] by /roslaunch
+[rosmaster.master][INFO] 2017-08-10 20:35:02,600: +PARAM [/rosdistro] by /roslaunch
+[rosmaster.master][INFO] 2017-08-10 20:35:02,693: +SERVICE [/rosout/get_loggers] /rosout http://ubuntu:43959/
+[rosmaster.master][INFO] 2017-08-10 20:35:02,694: +SERVICE [/rosout/set_logger_level] /rosout http://ubuntu:43959/
+[rosmaster.master][INFO] 2017-08-10 20:35:02,698: +PUB [/rosout_agg] /rosout http://ubuntu:43959/
+[rosmaster.master][INFO] 2017-08-10 20:35:02,703: +SUB [/rosout] /rosout http://ubuntu:43959/
+[rosmaster.master][INFO] 2017-08-10 20:35:46,701: +PUB [/rosout] /rqt_gui_py_node_3251 http://ubuntu:42109/
+[rosmaster.master][INFO] 2017-08-10 20:35:46,711: +SERVICE [/rqt_gui_py_node_3251/get_loggers] /rqt_gui_py_node_3251 http://ubuntu:42109/
+[rosmaster.master][INFO] 2017-08-10 20:35:46,716: +SERVICE [/rqt_gui_py_node_3251/set_logger_level] /rqt_gui_py_node_3251 http://ubuntu:42109/
+[rosmaster.master][INFO] 2017-08-10 20:35:46,725: publisherUpdate[/rosout] -> http://ubuntu:43959/ ['http://ubuntu:42109/']
+[rosmaster.master][INFO] 2017-08-10 20:35:46,732: publisherUpdate[/rosout] -> http://ubuntu:43959/ ['http://ubuntu:42109/']: sec=0.01, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-08-10 20:35:46,845: +SUB [/statistics] /rqt_gui_py_node_3251 http://ubuntu:42109/
+[rosmaster.master][INFO] 2017-08-10 20:42:12,199: +PUB [/rosout] /turtlesim http://ubuntu:37944/
+[rosmaster.master][INFO] 2017-08-10 20:42:12,214: +SERVICE [/turtlesim/get_loggers] /turtlesim http://ubuntu:37944/
+[rosmaster.master][INFO] 2017-08-10 20:42:12,216: +SERVICE [/turtlesim/set_logger_level] /turtlesim http://ubuntu:37944/
+[rosmaster.master][INFO] 2017-08-10 20:42:12,220: +PARAM [/background_r] by /turtlesim
+[rosmaster.master][INFO] 2017-08-10 20:42:12,222: +PARAM [/background_g] by /turtlesim
+[rosmaster.master][INFO] 2017-08-10 20:42:12,222: +PARAM [/background_b] by /turtlesim
+[rosmaster.master][INFO] 2017-08-10 20:42:12,251: +SERVICE [/clear] /turtlesim http://ubuntu:37944/
+[rosmaster.master][INFO] 2017-08-10 20:42:12,252: +SERVICE [/reset] /turtlesim http://ubuntu:37944/
+[rosmaster.master][INFO] 2017-08-10 20:42:12,252: +SERVICE [/spawn] /turtlesim http://ubuntu:37944/
+[rosmaster.master][INFO] 2017-08-10 20:42:12,253: +SERVICE [/kill] /turtlesim http://ubuntu:37944/
+[rosmaster.master][INFO] 2017-08-10 20:42:12,258: +SUB [/turtle1/cmd_vel] /turtlesim http://ubuntu:37944/
+[rosmaster.master][INFO] 2017-08-10 20:42:12,259: +PUB [/turtle1/pose] /turtlesim http://ubuntu:37944/
+[rosmaster.master][INFO] 2017-08-10 20:42:12,260: +PUB [/turtle1/color_sensor] /turtlesim http://ubuntu:37944/
+[rosmaster.master][INFO] 2017-08-10 20:42:12,261: +SERVICE [/turtle1/set_pen] /turtlesim http://ubuntu:37944/
+[rosmaster.master][INFO] 2017-08-10 20:42:12,262: +SERVICE [/turtle1/teleport_relative] /turtlesim http://ubuntu:37944/
+[rosmaster.master][INFO] 2017-08-10 20:42:12,263: +SERVICE [/turtle1/teleport_absolute] /turtlesim http://ubuntu:37944/
+[rosmaster.master][INFO] 2017-08-10 20:42:12,286: publisherUpdate[/rosout] -> http://ubuntu:43959/ ['http://ubuntu:42109/', 'http://ubuntu:37944/']
+[rosmaster.master][INFO] 2017-08-10 20:42:12,318: publisherUpdate[/rosout] -> http://ubuntu:43959/ ['http://ubuntu:42109/', 'http://ubuntu:37944/']: sec=0.03, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-08-10 21:00:22,148: +PUB [/rosout] /teleop_turtle http://ubuntu:35341/
+[rosmaster.master][INFO] 2017-08-10 21:00:22,151: +SERVICE [/teleop_turtle/get_loggers] /teleop_turtle http://ubuntu:35341/
+[rosmaster.master][INFO] 2017-08-10 21:00:22,152: +SERVICE [/teleop_turtle/set_logger_level] /teleop_turtle http://ubuntu:35341/
+[rosmaster.master][INFO] 2017-08-10 21:00:22,154: +PUB [/turtle1/cmd_vel] /teleop_turtle http://ubuntu:35341/
+[rosmaster.master][INFO] 2017-08-10 21:00:22,168: publisherUpdate[/rosout] -> http://ubuntu:43959/ ['http://ubuntu:42109/', 'http://ubuntu:37944/', 'http://ubuntu:35341/']
+[rosmaster.master][INFO] 2017-08-10 21:00:22,171: publisherUpdate[/turtle1/cmd_vel] -> http://ubuntu:37944/ ['http://ubuntu:35341/']
+[rosmaster.master][INFO] 2017-08-10 21:00:22,178: publisherUpdate[/rosout] -> http://ubuntu:43959/ ['http://ubuntu:42109/', 'http://ubuntu:37944/', 'http://ubuntu:35341/']: sec=0.01, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-08-10 21:00:22,180: publisherUpdate[/turtle1/cmd_vel] -> http://ubuntu:37944/ ['http://ubuntu:35341/']: sec=0.01, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-08-10 21:01:37,300: +PUB [/rosout] /rosservice_17739_1502424097239 http://ubuntu:43224/
+[rosmaster.master][INFO] 2017-08-10 21:01:37,303: +SERVICE [/rosservice_17739_1502424097239/get_loggers] /rosservice_17739_1502424097239 http://ubuntu:43224/
+[rosmaster.master][INFO] 2017-08-10 21:01:37,304: +SERVICE [/rosservice_17739_1502424097239/set_logger_level] /rosservice_17739_1502424097239 http://ubuntu:43224/
+[rosmaster.master][INFO] 2017-08-10 21:01:37,319: publisherUpdate[/rosout] -> http://ubuntu:43959/ ['http://ubuntu:42109/', 'http://ubuntu:37944/', 'http://ubuntu:35341/', 'http://ubuntu:43224/']
+[rosmaster.master][INFO] 2017-08-10 21:01:37,322: publisherUpdate[/rosout] -> http://ubuntu:43959/ ['http://ubuntu:42109/', 'http://ubuntu:37944/', 'http://ubuntu:35341/', 'http://ubuntu:43224/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-08-10 21:01:37,431: -PUB [/rosout] /rosservice_17739_1502424097239 http://ubuntu:43224/
+[rosmaster.master][INFO] 2017-08-10 21:01:37,432: -SERVICE [/rosservice_17739_1502424097239/set_logger_level] /rosservice_17739_1502424097239 rosrpc://ubuntu:34091
+[rosmaster.master][INFO] 2017-08-10 21:01:37,432: -SERVICE [/rosservice_17739_1502424097239/get_loggers] /rosservice_17739_1502424097239 rosrpc://ubuntu:34091
+[rosmaster.master][INFO] 2017-08-10 21:01:37,480: publisherUpdate[/rosout] -> http://ubuntu:43959/ ['http://ubuntu:42109/', 'http://ubuntu:37944/', 'http://ubuntu:35341/']
+[rosmaster.master][INFO] 2017-08-10 21:01:37,484: publisherUpdate[/rosout] -> http://ubuntu:43959/ ['http://ubuntu:42109/', 'http://ubuntu:37944/', 'http://ubuntu:35341/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-08-10 21:07:43,076: +PUB [/rosout] /rosservice_17805_1502424463048 http://ubuntu:41873/
+[rosmaster.master][INFO] 2017-08-10 21:07:43,079: +SERVICE [/rosservice_17805_1502424463048/get_loggers] /rosservice_17805_1502424463048 http://ubuntu:41873/
+[rosmaster.master][INFO] 2017-08-10 21:07:43,080: +SERVICE [/rosservice_17805_1502424463048/set_logger_level] /rosservice_17805_1502424463048 http://ubuntu:41873/
+[rosmaster.master][INFO] 2017-08-10 21:07:43,096: publisherUpdate[/rosout] -> http://ubuntu:43959/ ['http://ubuntu:42109/', 'http://ubuntu:37944/', 'http://ubuntu:35341/', 'http://ubuntu:41873/']
+[rosmaster.master][INFO] 2017-08-10 21:07:43,097: publisherUpdate[/rosout] -> http://ubuntu:43959/ ['http://ubuntu:42109/', 'http://ubuntu:37944/', 'http://ubuntu:35341/', 'http://ubuntu:41873/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-08-10 21:07:43,100: +SUB [/turtle2/cmd_vel] /turtlesim http://ubuntu:37944/
+[rosmaster.master][INFO] 2017-08-10 21:07:43,101: +PUB [/turtle2/pose] /turtlesim http://ubuntu:37944/
+[rosmaster.master][INFO] 2017-08-10 21:07:43,102: +PUB [/turtle2/color_sensor] /turtlesim http://ubuntu:37944/
+[rosmaster.master][INFO] 2017-08-10 21:07:43,102: +SERVICE [/turtle2/set_pen] /turtlesim http://ubuntu:37944/
+[rosmaster.master][INFO] 2017-08-10 21:07:43,103: +SERVICE [/turtle2/teleport_relative] /turtlesim http://ubuntu:37944/
+[rosmaster.master][INFO] 2017-08-10 21:07:43,104: +SERVICE [/turtle2/teleport_absolute] /turtlesim http://ubuntu:37944/
+[rosmaster.master][INFO] 2017-08-10 21:07:43,110: -PUB [/rosout] /rosservice_17805_1502424463048 http://ubuntu:41873/
+[rosmaster.master][INFO] 2017-08-10 21:07:43,110: -SERVICE [/rosservice_17805_1502424463048/set_logger_level] /rosservice_17805_1502424463048 rosrpc://ubuntu:40141
+[rosmaster.master][INFO] 2017-08-10 21:07:43,110: -SERVICE [/rosservice_17805_1502424463048/get_loggers] /rosservice_17805_1502424463048 rosrpc://ubuntu:40141
+[rosmaster.master][INFO] 2017-08-10 21:07:43,198: publisherUpdate[/rosout] -> http://ubuntu:43959/ ['http://ubuntu:42109/', 'http://ubuntu:37944/', 'http://ubuntu:35341/']
+[rosmaster.master][INFO] 2017-08-10 21:07:43,200: publisherUpdate[/rosout] -> http://ubuntu:43959/ ['http://ubuntu:42109/', 'http://ubuntu:37944/', 'http://ubuntu:35341/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-08-10 21:22:40,243: +PARAM [/background_g] by /rosparam-17885
+[rosmaster.master][INFO] 2017-08-10 21:22:49,419: +PUB [/rosout] /rosservice_17889_1502425369289 http://ubuntu:37285/
+[rosmaster.master][INFO] 2017-08-10 21:22:49,428: +SERVICE [/rosservice_17889_1502425369289/get_loggers] /rosservice_17889_1502425369289 http://ubuntu:37285/
+[rosmaster.master][INFO] 2017-08-10 21:22:49,432: +SERVICE [/rosservice_17889_1502425369289/set_logger_level] /rosservice_17889_1502425369289 http://ubuntu:37285/
+[rosmaster.master][INFO] 2017-08-10 21:22:49,434: publisherUpdate[/rosout] -> http://ubuntu:43959/ ['http://ubuntu:42109/', 'http://ubuntu:37944/', 'http://ubuntu:35341/', 'http://ubuntu:37285/']
+[rosmaster.master][INFO] 2017-08-10 21:22:49,438: publisherUpdate[/rosout] -> http://ubuntu:43959/ ['http://ubuntu:42109/', 'http://ubuntu:37944/', 'http://ubuntu:35341/', 'http://ubuntu:37285/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-08-10 21:22:49,539: -PUB [/rosout] /rosservice_17889_1502425369289 http://ubuntu:37285/
+[rosmaster.master][INFO] 2017-08-10 21:22:49,540: -SERVICE [/rosservice_17889_1502425369289/set_logger_level] /rosservice_17889_1502425369289 rosrpc://ubuntu:33323
+[rosmaster.master][INFO] 2017-08-10 21:22:49,540: -SERVICE [/rosservice_17889_1502425369289/get_loggers] /rosservice_17889_1502425369289 rosrpc://ubuntu:33323
+[rosmaster.master][INFO] 2017-08-10 21:22:49,644: publisherUpdate[/rosout] -> http://ubuntu:43959/ ['http://ubuntu:42109/', 'http://ubuntu:37944/', 'http://ubuntu:35341/']
+[rosmaster.master][INFO] 2017-08-10 21:22:49,647: publisherUpdate[/rosout] -> http://ubuntu:43959/ ['http://ubuntu:42109/', 'http://ubuntu:37944/', 'http://ubuntu:35341/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-08-10 21:23:12,694: +PARAM [/background_g] by /rosparam-17910
+[rosmaster.master][INFO] 2017-08-10 21:23:21,972: +PARAM [/background_b] by /rosparam-17915
+[rosmaster.master][INFO] 2017-08-10 21:23:29,126: +PARAM [/background_r] by /rosparam-17921
+[rosmaster.master][INFO] 2017-08-10 21:23:38,487: +PUB [/rosout] /rosservice_17925_1502425418463 http://ubuntu:41477/
+[rosmaster.master][INFO] 2017-08-10 21:23:38,490: +SERVICE [/rosservice_17925_1502425418463/get_loggers] /rosservice_17925_1502425418463 http://ubuntu:41477/
+[rosmaster.master][INFO] 2017-08-10 21:23:38,493: +SERVICE [/rosservice_17925_1502425418463/set_logger_level] /rosservice_17925_1502425418463 http://ubuntu:41477/
+[rosmaster.master][INFO] 2017-08-10 21:23:38,510: -PUB [/rosout] /rosservice_17925_1502425418463 http://ubuntu:41477/
+[rosmaster.master][INFO] 2017-08-10 21:23:38,510: -SERVICE [/rosservice_17925_1502425418463/set_logger_level] /rosservice_17925_1502425418463 rosrpc://ubuntu:36754
+[rosmaster.master][INFO] 2017-08-10 21:23:38,510: -SERVICE [/rosservice_17925_1502425418463/get_loggers] /rosservice_17925_1502425418463 rosrpc://ubuntu:36754
+[rosmaster.master][INFO] 2017-08-10 21:23:38,575: publisherUpdate[/rosout] -> http://ubuntu:43959/ ['http://ubuntu:42109/', 'http://ubuntu:37944/', 'http://ubuntu:35341/', 'http://ubuntu:41477/']
+[rosmaster.master][INFO] 2017-08-10 21:23:38,577: publisherUpdate[/rosout] -> http://ubuntu:43959/ ['http://ubuntu:42109/', 'http://ubuntu:37944/', 'http://ubuntu:35341/', 'http://ubuntu:41477/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-08-10 21:23:38,577: publisherUpdate[/rosout] -> http://ubuntu:43959/ ['http://ubuntu:42109/', 'http://ubuntu:37944/', 'http://ubuntu:35341/']
+[rosmaster.master][INFO] 2017-08-10 21:23:38,578: publisherUpdate[/rosout] -> http://ubuntu:43959/ ['http://ubuntu:42109/', 'http://ubuntu:37944/', 'http://ubuntu:35341/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-08-10 21:25:10,351: +PARAM [/background_b] by /rosparam-17951
+[rosmaster.master][INFO] 2017-08-10 21:25:14,586: +PUB [/rosout] /rosservice_17955_1502425514459 http://ubuntu:32870/
+[rosmaster.master][INFO] 2017-08-10 21:25:14,589: +SERVICE [/rosservice_17955_1502425514459/get_loggers] /rosservice_17955_1502425514459 http://ubuntu:32870/
+[rosmaster.master][INFO] 2017-08-10 21:25:14,590: +SERVICE [/rosservice_17955_1502425514459/set_logger_level] /rosservice_17955_1502425514459 http://ubuntu:32870/
+[rosmaster.master][INFO] 2017-08-10 21:25:14,612: -PUB [/rosout] /rosservice_17955_1502425514459 http://ubuntu:32870/
+[rosmaster.master][INFO] 2017-08-10 21:25:14,612: -SERVICE [/rosservice_17955_1502425514459/set_logger_level] /rosservice_17955_1502425514459 rosrpc://ubuntu:40723
+[rosmaster.master][INFO] 2017-08-10 21:25:14,612: -SERVICE [/rosservice_17955_1502425514459/get_loggers] /rosservice_17955_1502425514459 rosrpc://ubuntu:40723
+[rosmaster.master][INFO] 2017-08-10 21:25:14,672: publisherUpdate[/rosout] -> http://ubuntu:43959/ ['http://ubuntu:42109/', 'http://ubuntu:37944/', 'http://ubuntu:35341/', 'http://ubuntu:32870/']
+[rosmaster.master][INFO] 2017-08-10 21:25:14,673: publisherUpdate[/rosout] -> http://ubuntu:43959/ ['http://ubuntu:42109/', 'http://ubuntu:37944/', 'http://ubuntu:35341/', 'http://ubuntu:32870/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-08-10 21:25:14,674: publisherUpdate[/rosout] -> http://ubuntu:43959/ ['http://ubuntu:42109/', 'http://ubuntu:37944/', 'http://ubuntu:35341/']
+[rosmaster.master][INFO] 2017-08-10 21:25:14,674: publisherUpdate[/rosout] -> http://ubuntu:43959/ ['http://ubuntu:42109/', 'http://ubuntu:37944/', 'http://ubuntu:35341/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-08-10 21:26:04,251: +PARAM [/background_r] by /rosparam-17977
+[rosmaster.master][INFO] 2017-08-10 21:26:12,279: +PARAM [/background_g] by /rosparam-17981
+[rosmaster.master][INFO] 2017-08-10 21:26:16,183: +PUB [/rosout] /rosservice_17985_1502425576055 http://ubuntu:42078/
+[rosmaster.master][INFO] 2017-08-10 21:26:16,186: +SERVICE [/rosservice_17985_1502425576055/get_loggers] /rosservice_17985_1502425576055 http://ubuntu:42078/
+[rosmaster.master][INFO] 2017-08-10 21:26:16,188: +SERVICE [/rosservice_17985_1502425576055/set_logger_level] /rosservice_17985_1502425576055 http://ubuntu:42078/
+[rosmaster.master][INFO] 2017-08-10 21:26:16,207: -PUB [/rosout] /rosservice_17985_1502425576055 http://ubuntu:42078/
+[rosmaster.master][INFO] 2017-08-10 21:26:16,208: -SERVICE [/rosservice_17985_1502425576055/get_loggers] /rosservice_17985_1502425576055 rosrpc://ubuntu:32841
+[rosmaster.master][INFO] 2017-08-10 21:26:16,208: -SERVICE [/rosservice_17985_1502425576055/set_logger_level] /rosservice_17985_1502425576055 rosrpc://ubuntu:32841
+[rosmaster.master][INFO] 2017-08-10 21:26:16,241: publisherUpdate[/rosout] -> http://ubuntu:43959/ ['http://ubuntu:42109/', 'http://ubuntu:37944/', 'http://ubuntu:35341/', 'http://ubuntu:42078/']
+[rosmaster.master][INFO] 2017-08-10 21:26:16,242: publisherUpdate[/rosout] -> http://ubuntu:43959/ ['http://ubuntu:42109/', 'http://ubuntu:37944/', 'http://ubuntu:35341/', 'http://ubuntu:42078/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-08-10 21:26:16,242: publisherUpdate[/rosout] -> http://ubuntu:43959/ ['http://ubuntu:42109/', 'http://ubuntu:37944/', 'http://ubuntu:35341/']
+[rosmaster.master][INFO] 2017-08-10 21:26:16,243: publisherUpdate[/rosout] -> http://ubuntu:43959/ ['http://ubuntu:42109/', 'http://ubuntu:37944/', 'http://ubuntu:35341/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-08-10 21:31:44,300: -SUB [/statistics] /rqt_gui_py_node_3251 http://ubuntu:42109/
+[rosmaster.master][INFO] 2017-08-10 21:31:44,300: -PUB [/rosout] /rqt_gui_py_node_3251 http://ubuntu:42109/
+[rosmaster.master][INFO] 2017-08-10 21:31:44,300: -SERVICE [/rqt_gui_py_node_3251/set_logger_level] /rqt_gui_py_node_3251 rosrpc://ubuntu:36766
+[rosmaster.master][INFO] 2017-08-10 21:31:44,302: -SERVICE [/rqt_gui_py_node_3251/get_loggers] /rqt_gui_py_node_3251 rosrpc://ubuntu:36766
+[rosmaster.master][INFO] 2017-08-10 21:31:44,339: publisherUpdate[/rosout] -> http://ubuntu:43959/ ['http://ubuntu:37944/', 'http://ubuntu:35341/']
+[rosmaster.master][INFO] 2017-08-10 21:31:44,340: publisherUpdate[/rosout] -> http://ubuntu:43959/ ['http://ubuntu:37944/', 'http://ubuntu:35341/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-08-10 21:37:23,082: +PUB [/rosout] /rqt_gui_py_node_18277 http://ubuntu:38219/
+[rosmaster.master][INFO] 2017-08-10 21:37:23,088: +SERVICE [/rqt_gui_py_node_18277/get_loggers] /rqt_gui_py_node_18277 http://ubuntu:38219/
+[rosmaster.master][INFO] 2017-08-10 21:37:23,089: +SERVICE [/rqt_gui_py_node_18277/set_logger_level] /rqt_gui_py_node_18277 http://ubuntu:38219/
+[rosmaster.master][INFO] 2017-08-10 21:37:23,161: publisherUpdate[/rosout] -> http://ubuntu:43959/ ['http://ubuntu:37944/', 'http://ubuntu:35341/', 'http://ubuntu:38219/']
+[rosmaster.master][INFO] 2017-08-10 21:37:23,163: publisherUpdate[/rosout] -> http://ubuntu:43959/ ['http://ubuntu:37944/', 'http://ubuntu:35341/', 'http://ubuntu:38219/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-08-10 21:37:23,317: +SUB [/rosout_agg] /rqt_gui_py_node_18277 http://ubuntu:38219/
+[rosmaster.master][INFO] 2017-08-10 21:38:03,619: +PUB [/rosout] /rqt_gui_py_node_18314 http://ubuntu:43560/
+[rosmaster.master][INFO] 2017-08-10 21:38:03,624: +SERVICE [/rqt_gui_py_node_18314/get_loggers] /rqt_gui_py_node_18314 http://ubuntu:43560/
+[rosmaster.master][INFO] 2017-08-10 21:38:03,625: publisherUpdate[/rosout] -> http://ubuntu:43959/ ['http://ubuntu:37944/', 'http://ubuntu:35341/', 'http://ubuntu:38219/', 'http://ubuntu:43560/']
+[rosmaster.master][INFO] 2017-08-10 21:38:03,636: publisherUpdate[/rosout] -> http://ubuntu:43959/ ['http://ubuntu:37944/', 'http://ubuntu:35341/', 'http://ubuntu:38219/', 'http://ubuntu:43560/']: sec=0.01, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-08-10 21:38:03,636: +SERVICE [/rqt_gui_py_node_18314/set_logger_level] /rqt_gui_py_node_18314 http://ubuntu:43560/
+[rosmaster.master][INFO] 2017-08-10 21:39:51,269: +PUB [/rosout] /turtlesim http://ubuntu:45373/
+[rosmaster.master][INFO] 2017-08-10 21:39:51,274: +SERVICE [/turtlesim/get_loggers] /turtlesim http://ubuntu:45373/
+[rosmaster.master][INFO] 2017-08-10 21:39:51,276: +SERVICE [/turtlesim/set_logger_level] /turtlesim http://ubuntu:45373/
+[rosmaster.master][INFO] 2017-08-10 21:39:51,281: +PARAM [/background_r] by /turtlesim
+[rosmaster.master][INFO] 2017-08-10 21:39:51,282: +PARAM [/background_g] by /turtlesim
+[rosmaster.master][INFO] 2017-08-10 21:39:51,284: +PARAM [/background_b] by /turtlesim
+[rosmaster.master][INFO] 2017-08-10 21:39:51,317: +SERVICE [/clear] /turtlesim http://ubuntu:45373/
+[rosmaster.master][INFO] 2017-08-10 21:39:51,319: +SERVICE [/reset] /turtlesim http://ubuntu:45373/
+[rosmaster.master][INFO] 2017-08-10 21:39:51,320: +SERVICE [/spawn] /turtlesim http://ubuntu:45373/
+[rosmaster.master][INFO] 2017-08-10 21:39:51,320: +SERVICE [/kill] /turtlesim http://ubuntu:45373/
+[rosmaster.master][INFO] 2017-08-10 21:39:51,325: +SUB [/turtle1/cmd_vel] /turtlesim http://ubuntu:45373/
+[rosmaster.master][INFO] 2017-08-10 21:39:51,327: +PUB [/turtle1/pose] /turtlesim http://ubuntu:45373/
+[rosmaster.master][INFO] 2017-08-10 21:39:51,328: +PUB [/turtle1/color_sensor] /turtlesim http://ubuntu:45373/
+[rosmaster.master][INFO] 2017-08-10 21:39:51,328: +SERVICE [/turtle1/set_pen] /turtlesim http://ubuntu:45373/
+[rosmaster.master][INFO] 2017-08-10 21:39:51,329: +SERVICE [/turtle1/teleport_relative] /turtlesim http://ubuntu:45373/
+[rosmaster.master][INFO] 2017-08-10 21:39:51,330: +SERVICE [/turtle1/teleport_absolute] /turtlesim http://ubuntu:45373/
+[rosmaster.master][INFO] 2017-08-10 21:39:51,350: publisherUpdate[/rosout] -> http://ubuntu:43959/ ['http://ubuntu:35341/', 'http://ubuntu:38219/', 'http://ubuntu:43560/', 'http://ubuntu:45373/']
+[rosmaster.master][INFO] 2017-08-10 21:39:51,353: publisherUpdate[/rosout] -> http://ubuntu:43959/ ['http://ubuntu:35341/', 'http://ubuntu:38219/', 'http://ubuntu:43560/', 'http://ubuntu:45373/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-08-10 21:50:39,348: +SERVICE [/rostopic_18636_1502427039003/get_loggers] /rostopic_18636_1502427039003 http://ubuntu:34001/
+[rosmaster.master][INFO] 2017-08-10 21:50:39,360: +SERVICE [/rostopic_18636_1502427039003/set_logger_level] /rostopic_18636_1502427039003 http://ubuntu:34001/
+[rosmaster.master][INFO] 2017-08-10 21:50:39,364: +PUB [/turtle1/cmd_vel] /rostopic_18636_1502427039003 http://ubuntu:34001/
+[rosmaster.master][INFO] 2017-08-10 21:50:39,452: publisherUpdate[/turtle1/cmd_vel] -> http://ubuntu:45373/ ['http://ubuntu:35341/', 'http://ubuntu:34001/']
+[rosmaster.master][INFO] 2017-08-10 21:50:39,472: publisherUpdate[/turtle1/cmd_vel] -> http://ubuntu:45373/ ['http://ubuntu:35341/', 'http://ubuntu:34001/']: sec=0.02, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-08-10 21:51:18,984: -PUB [/turtle1/cmd_vel] /rostopic_18636_1502427039003 http://ubuntu:34001/
+[rosmaster.master][INFO] 2017-08-10 21:51:18,984: -SERVICE [/rostopic_18636_1502427039003/set_logger_level] /rostopic_18636_1502427039003 rosrpc://ubuntu:45193
+[rosmaster.master][INFO] 2017-08-10 21:51:18,984: -SERVICE [/rostopic_18636_1502427039003/get_loggers] /rostopic_18636_1502427039003 rosrpc://ubuntu:45193
+[rosmaster.master][INFO] 2017-08-10 21:51:19,010: publisherUpdate[/turtle1/cmd_vel] -> http://ubuntu:45373/ ['http://ubuntu:35341/']
+[rosmaster.master][INFO] 2017-08-10 21:51:19,012: publisherUpdate[/turtle1/cmd_vel] -> http://ubuntu:45373/ ['http://ubuntu:35341/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-08-10 22:10:29,093: -PUB [/rosout] /rqt_gui_py_node_18314 http://ubuntu:43560/
+[rosmaster.master][INFO] 2017-08-10 22:10:29,100: -SERVICE [/rqt_gui_py_node_18314/get_loggers] /rqt_gui_py_node_18314 rosrpc://ubuntu:46007
+[rosmaster.master][INFO] 2017-08-10 22:10:29,101: -SERVICE [/rqt_gui_py_node_18314/set_logger_level] /rqt_gui_py_node_18314 rosrpc://ubuntu:46007
+[rosmaster.master][INFO] 2017-08-10 22:10:29,121: publisherUpdate[/rosout] -> http://ubuntu:43959/ ['http://ubuntu:35341/', 'http://ubuntu:38219/', 'http://ubuntu:45373/']
+[rosmaster.master][INFO] 2017-08-10 22:10:29,134: publisherUpdate[/rosout] -> http://ubuntu:43959/ ['http://ubuntu:35341/', 'http://ubuntu:38219/', 'http://ubuntu:45373/']: sec=0.01, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-08-10 22:10:33,153: -SUB [/rosout_agg] /rqt_gui_py_node_18277 http://ubuntu:38219/
+[rosmaster.master][INFO] 2017-08-10 22:10:33,404: -PUB [/rosout] /rqt_gui_py_node_18277 http://ubuntu:38219/
+[rosmaster.master][INFO] 2017-08-10 22:10:33,405: -SERVICE [/rqt_gui_py_node_18277/get_loggers] /rqt_gui_py_node_18277 rosrpc://ubuntu:39085
+[rosmaster.master][INFO] 2017-08-10 22:10:33,405: -SERVICE [/rqt_gui_py_node_18277/set_logger_level] /rqt_gui_py_node_18277 rosrpc://ubuntu:39085
+[rosmaster.master][INFO] 2017-08-10 22:10:33,448: publisherUpdate[/rosout] -> http://ubuntu:43959/ ['http://ubuntu:35341/', 'http://ubuntu:45373/']
+[rosmaster.master][INFO] 2017-08-10 22:10:33,453: publisherUpdate[/rosout] -> http://ubuntu:43959/ ['http://ubuntu:35341/', 'http://ubuntu:45373/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-08-10 22:25:45,714: -PUB [/rosout_agg] /rosout http://ubuntu:43959/
+[rosmaster.master][INFO] 2017-08-10 22:25:45,733: -SUB [/rosout] /rosout http://ubuntu:43959/
+[rosmaster.master][INFO] 2017-08-10 22:25:45,737: -SERVICE [/rosout/get_loggers] /rosout rosrpc://ubuntu:56951
+[rosmaster.master][INFO] 2017-08-10 22:25:45,738: -SERVICE [/rosout/set_logger_level] /rosout rosrpc://ubuntu:56951
+[rosmaster.main][INFO] 2017-08-10 22:25:45,911: keyboard interrupt, will exit
+[rosmaster.main][INFO] 2017-08-10 22:25:45,917: stopping master...
+[rospy.core][INFO] 2017-08-10 22:25:45,958: signal_shutdown [atexit]

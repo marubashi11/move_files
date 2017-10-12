@@ -1,0 +1,5 @@
+
+
+1505287057.001378635  Node Startup
+1505287057.217244373 WARN [/tmp/binarydeb/ros-kinetic-image-view2-2.2.2/image_view2_node.cpp:46(main) [topics: /rosout] image_view: image has not been remapped! Typical command-line usage:
+	$ ./image_view image:=<image topic> [transport]

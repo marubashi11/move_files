@@ -1,0 +1,93 @@
+[rosmaster.main][INFO] 2017-09-13 16:34:02,869: initialization complete, waiting for shutdown
+[rosmaster.main][INFO] 2017-09-13 16:34:02,869: Starting ROS Master Node
+[xmlrpc][INFO] 2017-09-13 16:34:02,870: XML-RPC server binding to 0.0.0.0:11311
+[xmlrpc][INFO] 2017-09-13 16:34:02,870: Started XML-RPC server [http://ubuntu:11311/]
+[xmlrpc][INFO] 2017-09-13 16:34:02,870: xml rpc node: starting XML-RPC server
+[rosmaster.master][INFO] 2017-09-13 16:34:02,871: Master initialized: port[11311], uri[http://ubuntu:11311/]
+[rosmaster.master][INFO] 2017-09-13 16:34:02,976: +PARAM [/run_id] by /roslaunch
+[rosmaster.master][INFO] 2017-09-13 16:34:03,001: +PARAM [/roslaunch/uris/host_ubuntu__39129] by /roslaunch
+[rosmaster.master][INFO] 2017-09-13 16:34:03,056: +PARAM [/rosversion] by /roslaunch
+[rosmaster.master][INFO] 2017-09-13 16:34:03,056: +PARAM [/rosdistro] by /roslaunch
+[rosmaster.master][INFO] 2017-09-13 16:34:03,140: +SERVICE [/rosout/get_loggers] /rosout http://ubuntu:35703/
+[rosmaster.master][INFO] 2017-09-13 16:34:03,141: +SERVICE [/rosout/set_logger_level] /rosout http://ubuntu:35703/
+[rosmaster.master][INFO] 2017-09-13 16:34:03,142: +PUB [/rosout_agg] /rosout http://ubuntu:35703/
+[rosmaster.master][INFO] 2017-09-13 16:34:03,146: +SUB [/rosout] /rosout http://ubuntu:35703/
+[rosmaster.master][INFO] 2017-09-13 16:34:21,789: +PUB [/rosout] /cv_camera http://ubuntu:38469/
+[rosmaster.master][INFO] 2017-09-13 16:34:21,790: +SERVICE [/cv_camera/get_loggers] /cv_camera http://ubuntu:38469/
+[rosmaster.master][INFO] 2017-09-13 16:34:21,791: +SERVICE [/cv_camera/set_logger_level] /cv_camera http://ubuntu:38469/
+[rosmaster.master][INFO] 2017-09-13 16:34:21,818: +SERVICE [/cv_camera/set_camera_info] /cv_camera http://ubuntu:38469/
+[rosmaster.master][INFO] 2017-09-13 16:34:21,821: -SERVICE [/cv_camera/set_camera_info] /cv_camera rosrpc://ubuntu:51974
+[rosmaster.master][INFO] 2017-09-13 16:34:21,861: publisherUpdate[/rosout] -> http://ubuntu:35703/ ['http://ubuntu:38469/']
+[rosmaster.master][INFO] 2017-09-13 16:34:21,863: publisherUpdate[/rosout] -> http://ubuntu:35703/ ['http://ubuntu:38469/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-09-13 16:34:21,966: -PUB [/rosout] /cv_camera http://ubuntu:38469/
+[rosmaster.master][INFO] 2017-09-13 16:34:21,968: -SERVICE [/cv_camera/get_loggers] /cv_camera rosrpc://ubuntu:51974
+[rosmaster.master][INFO] 2017-09-13 16:34:21,971: -SERVICE [/cv_camera/set_logger_level] /cv_camera rosrpc://ubuntu:51974
+[rosmaster.master][INFO] 2017-09-13 16:34:22,065: publisherUpdate[/rosout] -> http://ubuntu:35703/ []
+[rosmaster.master][INFO] 2017-09-13 16:34:22,066: publisherUpdate[/rosout] -> http://ubuntu:35703/ []: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-09-13 16:36:06,637: +PUB [/rosout] /cv_camera http://ubuntu:41840/
+[rosmaster.master][INFO] 2017-09-13 16:36:06,638: +SERVICE [/cv_camera/get_loggers] /cv_camera http://ubuntu:41840/
+[rosmaster.master][INFO] 2017-09-13 16:36:06,639: +SERVICE [/cv_camera/set_logger_level] /cv_camera http://ubuntu:41840/
+[rosmaster.master][INFO] 2017-09-13 16:36:06,715: publisherUpdate[/rosout] -> http://ubuntu:35703/ ['http://ubuntu:41840/']
+[rosmaster.master][INFO] 2017-09-13 16:36:06,717: publisherUpdate[/rosout] -> http://ubuntu:35703/ ['http://ubuntu:41840/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-09-13 16:36:06,745: +SERVICE [/cv_camera/set_camera_info] /cv_camera http://ubuntu:41840/
+[rosmaster.master][INFO] 2017-09-13 16:36:08,162: +PUB [/cv_camera/image_raw/compressedDepth] /cv_camera http://ubuntu:41840/
+[rosmaster.master][INFO] 2017-09-13 16:36:08,163: +SERVICE [/cv_camera/image_raw/compressedDepth/set_parameters] /cv_camera http://ubuntu:41840/
+[rosmaster.master][INFO] 2017-09-13 16:36:08,164: +PUB [/cv_camera/image_raw/compressedDepth/parameter_descriptions] /cv_camera http://ubuntu:41840/
+[rosmaster.master][INFO] 2017-09-13 16:36:08,165: +PUB [/cv_camera/image_raw/compressedDepth/parameter_updates] /cv_camera http://ubuntu:41840/
+[rosmaster.master][INFO] 2017-09-13 16:36:08,168: +PARAM [/cv_camera/image_raw/compressedDepth/depth_max] by /cv_camera
+[rosmaster.master][INFO] 2017-09-13 16:36:08,168: +PARAM [/cv_camera/image_raw/compressedDepth/depth_quantization] by /cv_camera
+[rosmaster.master][INFO] 2017-09-13 16:36:08,169: +PARAM [/cv_camera/image_raw/compressedDepth/png_level] by /cv_camera
+[rosmaster.master][INFO] 2017-09-13 16:36:08,170: +PARAM [/cv_camera/image_raw/compressedDepth/depth_max] by /cv_camera
+[rosmaster.master][INFO] 2017-09-13 16:36:08,170: +PARAM [/cv_camera/image_raw/compressedDepth/depth_quantization] by /cv_camera
+[rosmaster.master][INFO] 2017-09-13 16:36:08,171: +PARAM [/cv_camera/image_raw/compressedDepth/png_level] by /cv_camera
+[rosmaster.master][INFO] 2017-09-13 16:36:08,200: +PUB [/cv_camera/image_raw/compressed] /cv_camera http://ubuntu:41840/
+[rosmaster.master][INFO] 2017-09-13 16:36:08,201: +SERVICE [/cv_camera/image_raw/compressed/set_parameters] /cv_camera http://ubuntu:41840/
+[rosmaster.master][INFO] 2017-09-13 16:36:08,202: +PUB [/cv_camera/image_raw/compressed/parameter_descriptions] /cv_camera http://ubuntu:41840/
+[rosmaster.master][INFO] 2017-09-13 16:36:08,202: +PUB [/cv_camera/image_raw/compressed/parameter_updates] /cv_camera http://ubuntu:41840/
+[rosmaster.master][INFO] 2017-09-13 16:36:08,205: +PARAM [/cv_camera/image_raw/compressed/format] by /cv_camera
+[rosmaster.master][INFO] 2017-09-13 16:36:08,205: +PARAM [/cv_camera/image_raw/compressed/jpeg_quality] by /cv_camera
+[rosmaster.master][INFO] 2017-09-13 16:36:08,206: +PARAM [/cv_camera/image_raw/compressed/png_level] by /cv_camera
+[rosmaster.master][INFO] 2017-09-13 16:36:08,207: +PARAM [/cv_camera/image_raw/compressed/format] by /cv_camera
+[rosmaster.master][INFO] 2017-09-13 16:36:08,208: +PARAM [/cv_camera/image_raw/compressed/jpeg_quality] by /cv_camera
+[rosmaster.master][INFO] 2017-09-13 16:36:08,208: +PARAM [/cv_camera/image_raw/compressed/png_level] by /cv_camera
+[rosmaster.master][INFO] 2017-09-13 16:36:08,239: +PUB [/cv_camera/image_raw] /cv_camera http://ubuntu:41840/
+[rosmaster.master][INFO] 2017-09-13 16:36:08,271: +PUB [/cv_camera/image_raw/theora] /cv_camera http://ubuntu:41840/
+[rosmaster.master][INFO] 2017-09-13 16:36:08,272: +SERVICE [/cv_camera/image_raw/theora/set_parameters] /cv_camera http://ubuntu:41840/
+[rosmaster.master][INFO] 2017-09-13 16:36:08,273: +PUB [/cv_camera/image_raw/theora/parameter_descriptions] /cv_camera http://ubuntu:41840/
+[rosmaster.master][INFO] 2017-09-13 16:36:08,274: +PUB [/cv_camera/image_raw/theora/parameter_updates] /cv_camera http://ubuntu:41840/
+[rosmaster.master][INFO] 2017-09-13 16:36:08,276: +PARAM [/cv_camera/image_raw/theora/optimize_for] by /cv_camera
+[rosmaster.master][INFO] 2017-09-13 16:36:08,277: +PARAM [/cv_camera/image_raw/theora/target_bitrate] by /cv_camera
+[rosmaster.master][INFO] 2017-09-13 16:36:08,278: +PARAM [/cv_camera/image_raw/theora/quality] by /cv_camera
+[rosmaster.master][INFO] 2017-09-13 16:36:08,278: +PARAM [/cv_camera/image_raw/theora/keyframe_frequency] by /cv_camera
+[rosmaster.master][INFO] 2017-09-13 16:36:08,279: +PARAM [/cv_camera/image_raw/theora/optimize_for] by /cv_camera
+[rosmaster.master][INFO] 2017-09-13 16:36:08,280: +PARAM [/cv_camera/image_raw/theora/target_bitrate] by /cv_camera
+[rosmaster.master][INFO] 2017-09-13 16:36:08,280: +PARAM [/cv_camera/image_raw/theora/quality] by /cv_camera
+[rosmaster.master][INFO] 2017-09-13 16:36:08,281: +PARAM [/cv_camera/image_raw/theora/keyframe_frequency] by /cv_camera
+[rosmaster.master][INFO] 2017-09-13 16:36:08,282: +PUB [/cv_camera/camera_info] /cv_camera http://ubuntu:41840/
+[rosmaster.master][INFO] 2017-09-13 16:36:08,773: -PUB [/rosout] /cv_camera http://ubuntu:41840/
+[rosmaster.master][INFO] 2017-09-13 16:36:08,777: -PUB [/cv_camera/image_raw/compressedDepth] /cv_camera http://ubuntu:41840/
+[rosmaster.master][INFO] 2017-09-13 16:36:08,780: -PUB [/cv_camera/image_raw/compressedDepth/parameter_descriptions] /cv_camera http://ubuntu:41840/
+[rosmaster.master][INFO] 2017-09-13 16:36:08,783: -PUB [/cv_camera/image_raw/compressedDepth/parameter_updates] /cv_camera http://ubuntu:41840/
+[rosmaster.master][INFO] 2017-09-13 16:36:08,786: -PUB [/cv_camera/image_raw/compressed] /cv_camera http://ubuntu:41840/
+[rosmaster.master][INFO] 2017-09-13 16:36:08,788: -PUB [/cv_camera/image_raw/compressed/parameter_descriptions] /cv_camera http://ubuntu:41840/
+[rosmaster.master][INFO] 2017-09-13 16:36:08,791: -PUB [/cv_camera/image_raw/compressed/parameter_updates] /cv_camera http://ubuntu:41840/
+[rosmaster.master][INFO] 2017-09-13 16:36:08,793: -PUB [/cv_camera/image_raw] /cv_camera http://ubuntu:41840/
+[rosmaster.master][INFO] 2017-09-13 16:36:08,796: -PUB [/cv_camera/image_raw/theora] /cv_camera http://ubuntu:41840/
+[rosmaster.master][INFO] 2017-09-13 16:36:08,799: -PUB [/cv_camera/image_raw/theora/parameter_descriptions] /cv_camera http://ubuntu:41840/
+[rosmaster.master][INFO] 2017-09-13 16:36:08,801: -PUB [/cv_camera/image_raw/theora/parameter_updates] /cv_camera http://ubuntu:41840/
+[rosmaster.master][INFO] 2017-09-13 16:36:08,802: -PUB [/cv_camera/camera_info] /cv_camera http://ubuntu:41840/
+[rosmaster.master][INFO] 2017-09-13 16:36:08,804: -SERVICE [/cv_camera/get_loggers] /cv_camera rosrpc://ubuntu:43812
+[rosmaster.master][INFO] 2017-09-13 16:36:08,805: -SERVICE [/cv_camera/set_logger_level] /cv_camera rosrpc://ubuntu:43812
+[rosmaster.master][INFO] 2017-09-13 16:36:08,807: -SERVICE [/cv_camera/set_camera_info] /cv_camera rosrpc://ubuntu:43812
+[rosmaster.master][INFO] 2017-09-13 16:36:08,808: -SERVICE [/cv_camera/image_raw/compressedDepth/set_parameters] /cv_camera rosrpc://ubuntu:43812
+[rosmaster.master][INFO] 2017-09-13 16:36:08,809: -SERVICE [/cv_camera/image_raw/compressed/set_parameters] /cv_camera rosrpc://ubuntu:43812
+[rosmaster.master][INFO] 2017-09-13 16:36:08,810: -SERVICE [/cv_camera/image_raw/theora/set_parameters] /cv_camera rosrpc://ubuntu:43812
+[rosmaster.master][INFO] 2017-09-13 16:36:08,858: publisherUpdate[/rosout] -> http://ubuntu:35703/ []
+[rosmaster.master][INFO] 2017-09-13 16:36:08,860: publisherUpdate[/rosout] -> http://ubuntu:35703/ []: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-09-13 16:36:10,782: -PUB [/rosout_agg] /rosout http://ubuntu:35703/
+[rosmaster.master][INFO] 2017-09-13 16:36:10,783: -SUB [/rosout] /rosout http://ubuntu:35703/
+[rosmaster.master][INFO] 2017-09-13 16:36:10,784: -SERVICE [/rosout/get_loggers] /rosout rosrpc://ubuntu:55693
+[rosmaster.master][INFO] 2017-09-13 16:36:10,785: -SERVICE [/rosout/set_logger_level] /rosout rosrpc://ubuntu:55693
+[rosmaster.main][INFO] 2017-09-13 16:36:10,884: keyboard interrupt, will exit
+[rosmaster.main][INFO] 2017-09-13 16:36:10,884: stopping master...
+[rospy.core][INFO] 2017-09-13 16:36:10,885: signal_shutdown [atexit]

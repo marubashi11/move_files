@@ -1,0 +1,2 @@
+[33m[ WARN] [1505988820.204578911]: image_view: image has not been remapped! Typical command-line usage:
+	$ ./image_view image:=<image topic> [transport][0m

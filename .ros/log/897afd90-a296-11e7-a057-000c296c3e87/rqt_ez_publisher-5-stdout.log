@@ -1,0 +1,8 @@
+[INFO] [1506415316.475946]: PluginContainerWidget; /camera/image_raw/data[0] is already exists
+[INFO] [1506415471.068540]: header/seq is not created
+[INFO] [1506415471.559349]: PluginContainerWidget; /camera/image_raw/header/frame_id is already exists
+[INFO] [1506415471.561924]: PluginContainerWidget; /camera/image_raw/height is already exists
+[INFO] [1506415471.562680]: PluginContainerWidget; /camera/image_raw/width is already exists
+[INFO] [1506415471.564974]: PluginContainerWidget; /camera/image_raw/encoding is already exists
+[INFO] [1506415471.573832]: PluginContainerWidget; /camera/image_raw/is_bigendian is already exists
+[INFO] [1506415471.577380]: PluginContainerWidget; /camera/image_raw/step is already exists

@@ -1,0 +1,4 @@
+[0m[ INFO] [1505989076.886716574]: using default calibration URL[0m
+[0m[ INFO] [1505989076.887677760]: camera calibration URL: file:///home/marubashi/.ros/camera_info/camera.yaml[0m
+[0m[ INFO] [1505989076.888243690]: Unable to open camera calibration file [/home/marubashi/.ros/camera_info/camera.yaml][0m
+[33m[ WARN] [1505989076.891915612]: Camera calibration file /home/marubashi/.ros/camera_info/camera.yaml not found.[0m

@@ -1,0 +1,13 @@
+[rospy.client][INFO] 2017-07-14 21:33:50,070: init_node, name[/rostopic_6070_1500093230036], pid[6070]
+[xmlrpc][INFO] 2017-07-14 21:33:50,070: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2017-07-14 21:33:50,071: Started XML-RPC server [http://ubuntu:40494/]
+[rospy.init][INFO] 2017-07-14 21:33:50,071: ROS Slave URI: [http://ubuntu:40494/]
+[rospy.impl.masterslave][INFO] 2017-07-14 21:33:50,071: _ready: http://ubuntu:40494/
+[xmlrpc][INFO] 2017-07-14 21:33:50,071: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2017-07-14 21:33:50,071: Registering with master node http://localhost:11311
+[rospy.init][INFO] 2017-07-14 21:33:50,172: registered with master
+[rospy.internal][INFO] 2017-07-14 21:33:50,423: topic[/turtle1/cmd_vel] adding connection to [/turtlesim], count 0
+[rospy.core][INFO] 2017-07-14 21:33:55,471: signal_shutdown [signal-2]
+[rospy.internal][INFO] 2017-07-14 21:33:55,479: topic[/turtle1/cmd_vel] removing connection to /turtlesim
+[rospy.impl.masterslave][INFO] 2017-07-14 21:33:55,479: signal-2
+[rospy.core][INFO] 2017-07-14 21:33:55,616: signal_shutdown [atexit]

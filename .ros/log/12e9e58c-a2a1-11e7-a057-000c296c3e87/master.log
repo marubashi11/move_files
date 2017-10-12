@@ -1,0 +1,449 @@
+[rosmaster.main][INFO] 2017-09-26 18:57:15,261: initialization complete, waiting for shutdown
+[rosmaster.main][INFO] 2017-09-26 18:57:15,261: Starting ROS Master Node
+[xmlrpc][INFO] 2017-09-26 18:57:15,262: XML-RPC server binding to 0.0.0.0:11311
+[xmlrpc][INFO] 2017-09-26 18:57:15,262: Started XML-RPC server [http://ubuntu:11311/]
+[xmlrpc][INFO] 2017-09-26 18:57:15,262: xml rpc node: starting XML-RPC server
+[rosmaster.master][INFO] 2017-09-26 18:57:15,262: Master initialized: port[11311], uri[http://ubuntu:11311/]
+[rosmaster.master][INFO] 2017-09-26 18:57:15,295: +PARAM [/run_id] by /roslaunch
+[rosmaster.master][INFO] 2017-09-26 18:57:15,297: +PARAM [/roslaunch/uris/host_ubuntu__40318] by /roslaunch
+[rosmaster.master][INFO] 2017-09-26 18:57:15,386: +PARAM [/rosversion] by /roslaunch
+[rosmaster.master][INFO] 2017-09-26 18:57:15,386: +PARAM [/rosdistro] by /roslaunch
+[rosmaster.master][INFO] 2017-09-26 18:57:15,386: +PARAM [/camera/device_id] by /roslaunch
+[rosmaster.master][INFO] 2017-09-26 18:57:15,416: +SERVICE [/rosout/get_loggers] /rosout http://ubuntu:40356/
+[rosmaster.master][INFO] 2017-09-26 18:57:15,420: +SERVICE [/rosout/set_logger_level] /rosout http://ubuntu:40356/
+[rosmaster.master][INFO] 2017-09-26 18:57:15,423: +PUB [/rosout_agg] /rosout http://ubuntu:40356/
+[rosmaster.master][INFO] 2017-09-26 18:57:15,447: +SUB [/rosout] /rosout http://ubuntu:40356/
+[rosmaster.master][INFO] 2017-09-26 18:57:15,574: +PUB [/rosout] /mask_orange http://ubuntu:37442/
+[rosmaster.master][INFO] 2017-09-26 18:57:15,580: +SERVICE [/mask_orange/get_loggers] /mask_orange http://ubuntu:37442/
+[rosmaster.master][INFO] 2017-09-26 18:57:15,580: +SERVICE [/mask_orange/set_logger_level] /mask_orange http://ubuntu:37442/
+[rosmaster.master][INFO] 2017-09-26 18:57:15,663: publisherUpdate[/rosout] -> http://ubuntu:40356/ ['http://ubuntu:37442/']
+[rosmaster.master][INFO] 2017-09-26 18:57:15,665: publisherUpdate[/rosout] -> http://ubuntu:40356/ ['http://ubuntu:37442/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-09-26 18:57:15,675: +PUB [/rosout] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:15,679: +SERVICE [/view/get_loggers] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:15,680: +SERVICE [/view/set_logger_level] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:15,684: +PUB [/rosout] /camera http://ubuntu:44627/
+[rosmaster.master][INFO] 2017-09-26 18:57:15,686: +SERVICE [/camera/get_loggers] /camera http://ubuntu:44627/
+[rosmaster.master][INFO] 2017-09-26 18:57:15,691: +SERVICE [/camera/set_logger_level] /camera http://ubuntu:44627/
+[rosmaster.master][INFO] 2017-09-26 18:57:15,700: +SUB [/tf] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:15,724: +SUB [/tf_static] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:15,764: publisherUpdate[/rosout] -> http://ubuntu:40356/ ['http://ubuntu:37442/', 'http://ubuntu:39396/']
+[rosmaster.master][INFO] 2017-09-26 18:57:15,765: publisherUpdate[/rosout] -> http://ubuntu:40356/ ['http://ubuntu:37442/', 'http://ubuntu:39396/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-09-26 18:57:15,765: publisherUpdate[/rosout] -> http://ubuntu:40356/ ['http://ubuntu:37442/', 'http://ubuntu:39396/', 'http://ubuntu:44627/']
+[rosmaster.master][INFO] 2017-09-26 18:57:15,766: publisherUpdate[/rosout] -> http://ubuntu:40356/ ['http://ubuntu:37442/', 'http://ubuntu:39396/', 'http://ubuntu:44627/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-09-26 18:57:15,782: +SUB [/camera/image_raw] /mask_orange http://ubuntu:37442/
+[rosmaster.master][INFO] 2017-09-26 18:57:15,799: +SERVICE [/camera/set_camera_info] /camera http://ubuntu:44627/
+[rosmaster.master][INFO] 2017-09-26 18:57:15,811: +PUB [/image/screenpoint] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:15,812: +PUB [/image/screenpoint_array] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:15,813: +PUB [/image/screenrectangle] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:15,814: +PUB [/image/screenrectangle_image] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:15,815: +PUB [/image/movepoint] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:15,816: +PUB [/image/foreground] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:15,818: +PUB [/image/background] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:15,824: +PUB [/image/foreground_rect] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:15,829: +PUB [/image/background_rect] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:15,831: +PUB [/image/line] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:15,836: +PUB [/image/poly] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:15,919: +PUB [/image/compressedDepth] /mask_orange http://ubuntu:37442/
+[rosmaster.master][INFO] 2017-09-26 18:57:15,920: +SERVICE [/image/compressedDepth/set_parameters] /mask_orange http://ubuntu:37442/
+[rosmaster.master][INFO] 2017-09-26 18:57:15,921: +PUB [/image/compressedDepth/parameter_descriptions] /mask_orange http://ubuntu:37442/
+[rosmaster.master][INFO] 2017-09-26 18:57:15,922: +PUB [/image/compressedDepth/parameter_updates] /mask_orange http://ubuntu:37442/
+[rosmaster.master][INFO] 2017-09-26 18:57:15,932: +PARAM [/image/compressedDepth/depth_max] by /mask_orange
+[rosmaster.master][INFO] 2017-09-26 18:57:15,932: +PARAM [/image/compressedDepth/depth_quantization] by /mask_orange
+[rosmaster.master][INFO] 2017-09-26 18:57:15,935: +PARAM [/image/compressedDepth/png_level] by /mask_orange
+[rosmaster.master][INFO] 2017-09-26 18:57:15,939: +PARAM [/image/compressedDepth/depth_max] by /mask_orange
+[rosmaster.master][INFO] 2017-09-26 18:57:15,942: +PARAM [/image/compressedDepth/depth_quantization] by /mask_orange
+[rosmaster.master][INFO] 2017-09-26 18:57:15,943: +PARAM [/image/compressedDepth/png_level] by /mask_orange
+[rosmaster.master][INFO] 2017-09-26 18:57:15,983: +PUB [/image_marked/compressedDepth] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:15,987: +SERVICE [/image_marked/compressedDepth/set_parameters] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:15,988: +PUB [/image_marked/compressedDepth/parameter_descriptions] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:15,991: +PUB [/image_marked/compressedDepth/parameter_updates] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:15,993: +PARAM [/image_marked/compressedDepth/depth_max] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:15,996: +PARAM [/image_marked/compressedDepth/depth_quantization] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:15,997: +PARAM [/image_marked/compressedDepth/png_level] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:16,000: +PARAM [/image_marked/compressedDepth/depth_max] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:16,004: +PARAM [/image_marked/compressedDepth/depth_quantization] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:16,006: +PARAM [/image_marked/compressedDepth/png_level] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:16,060: +PUB [/image/compressed] /mask_orange http://ubuntu:37442/
+[rosmaster.master][INFO] 2017-09-26 18:57:16,060: +SERVICE [/image/compressed/set_parameters] /mask_orange http://ubuntu:37442/
+[rosmaster.master][INFO] 2017-09-26 18:57:16,061: +PUB [/image/compressed/parameter_descriptions] /mask_orange http://ubuntu:37442/
+[rosmaster.master][INFO] 2017-09-26 18:57:16,062: +PUB [/image/compressed/parameter_updates] /mask_orange http://ubuntu:37442/
+[rosmaster.master][INFO] 2017-09-26 18:57:16,072: +PARAM [/image/compressed/format] by /mask_orange
+[rosmaster.master][INFO] 2017-09-26 18:57:16,079: +PARAM [/image/compressed/jpeg_quality] by /mask_orange
+[rosmaster.master][INFO] 2017-09-26 18:57:16,080: +PARAM [/image/compressed/png_level] by /mask_orange
+[rosmaster.master][INFO] 2017-09-26 18:57:16,081: +PARAM [/image/compressed/format] by /mask_orange
+[rosmaster.master][INFO] 2017-09-26 18:57:16,085: +PARAM [/image/compressed/jpeg_quality] by /mask_orange
+[rosmaster.master][INFO] 2017-09-26 18:57:16,091: +PARAM [/image/compressed/png_level] by /mask_orange
+[rosmaster.master][INFO] 2017-09-26 18:57:16,129: +PUB [/camera/image_raw/compressedDepth] /camera http://ubuntu:44627/
+[rosmaster.master][INFO] 2017-09-26 18:57:16,131: +PUB [/image_marked/compressed] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:16,132: +SERVICE [/image_marked/compressed/set_parameters] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:16,133: +SERVICE [/camera/image_raw/compressedDepth/set_parameters] /camera http://ubuntu:44627/
+[rosmaster.master][INFO] 2017-09-26 18:57:16,134: +PUB [/image_marked/compressed/parameter_descriptions] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:16,134: +PUB [/camera/image_raw/compressedDepth/parameter_descriptions] /camera http://ubuntu:44627/
+[rosmaster.master][INFO] 2017-09-26 18:57:16,139: +PUB [/camera/image_raw/compressedDepth/parameter_updates] /camera http://ubuntu:44627/
+[rosmaster.master][INFO] 2017-09-26 18:57:16,141: +PUB [/image_marked/compressed/parameter_updates] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:16,156: +PARAM [/camera/image_raw/compressedDepth/depth_max] by /camera
+[rosmaster.master][INFO] 2017-09-26 18:57:16,156: +PARAM [/image_marked/compressed/format] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:16,161: +PARAM [/camera/image_raw/compressedDepth/depth_quantization] by /camera
+[rosmaster.master][INFO] 2017-09-26 18:57:16,162: +PARAM [/image_marked/compressed/jpeg_quality] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:16,166: +PARAM [/camera/image_raw/compressedDepth/png_level] by /camera
+[rosmaster.master][INFO] 2017-09-26 18:57:16,170: +PARAM [/image_marked/compressed/png_level] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:16,171: +PARAM [/camera/image_raw/compressedDepth/depth_max] by /camera
+[rosmaster.master][INFO] 2017-09-26 18:57:16,173: +PARAM [/image_marked/compressed/format] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:16,177: +PARAM [/camera/image_raw/compressedDepth/depth_quantization] by /camera
+[rosmaster.master][INFO] 2017-09-26 18:57:16,178: +PARAM [/image_marked/compressed/jpeg_quality] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:16,182: +PARAM [/camera/image_raw/compressedDepth/png_level] by /camera
+[rosmaster.master][INFO] 2017-09-26 18:57:16,192: +PARAM [/image_marked/compressed/png_level] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:16,202: +PUB [/image] /mask_orange http://ubuntu:37442/
+[rosmaster.master][INFO] 2017-09-26 18:57:16,300: +PUB [/camera/image_raw/compressed] /camera http://ubuntu:44627/
+[rosmaster.master][INFO] 2017-09-26 18:57:16,302: +SERVICE [/camera/image_raw/compressed/set_parameters] /camera http://ubuntu:44627/
+[rosmaster.master][INFO] 2017-09-26 18:57:16,304: +PUB [/camera/image_raw/compressed/parameter_descriptions] /camera http://ubuntu:44627/
+[rosmaster.master][INFO] 2017-09-26 18:57:16,306: +PUB [/camera/image_raw/compressed/parameter_updates] /camera http://ubuntu:44627/
+[rosmaster.master][INFO] 2017-09-26 18:57:16,309: +PUB [/image_marked] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:16,323: +PARAM [/camera/image_raw/compressed/format] by /camera
+[rosmaster.master][INFO] 2017-09-26 18:57:16,327: +PARAM [/camera/image_raw/compressed/jpeg_quality] by /camera
+[rosmaster.master][INFO] 2017-09-26 18:57:16,331: +PARAM [/camera/image_raw/compressed/png_level] by /camera
+[rosmaster.master][INFO] 2017-09-26 18:57:16,334: +PUB [/image/theora] /mask_orange http://ubuntu:37442/
+[rosmaster.master][INFO] 2017-09-26 18:57:16,340: +PARAM [/camera/image_raw/compressed/format] by /camera
+[rosmaster.master][INFO] 2017-09-26 18:57:16,343: +SERVICE [/image/theora/set_parameters] /mask_orange http://ubuntu:37442/
+[rosmaster.master][INFO] 2017-09-26 18:57:16,344: +PARAM [/camera/image_raw/compressed/jpeg_quality] by /camera
+[rosmaster.master][INFO] 2017-09-26 18:57:16,345: +PUB [/image/theora/parameter_descriptions] /mask_orange http://ubuntu:37442/
+[rosmaster.master][INFO] 2017-09-26 18:57:16,351: +PARAM [/camera/image_raw/compressed/png_level] by /camera
+[rosmaster.master][INFO] 2017-09-26 18:57:16,357: +PUB [/image/theora/parameter_updates] /mask_orange http://ubuntu:37442/
+[rosmaster.master][INFO] 2017-09-26 18:57:16,372: +PARAM [/image/theora/optimize_for] by /mask_orange
+[rosmaster.master][INFO] 2017-09-26 18:57:16,376: +PARAM [/image/theora/target_bitrate] by /mask_orange
+[rosmaster.master][INFO] 2017-09-26 18:57:16,377: +PARAM [/image/theora/quality] by /mask_orange
+[rosmaster.master][INFO] 2017-09-26 18:57:16,383: +PARAM [/image/theora/keyframe_frequency] by /mask_orange
+[rosmaster.master][INFO] 2017-09-26 18:57:16,388: +PARAM [/image/theora/optimize_for] by /mask_orange
+[rosmaster.master][INFO] 2017-09-26 18:57:16,392: +PARAM [/image/theora/target_bitrate] by /mask_orange
+[rosmaster.master][INFO] 2017-09-26 18:57:16,396: +PARAM [/image/theora/quality] by /mask_orange
+[rosmaster.master][INFO] 2017-09-26 18:57:16,397: +PARAM [/image/theora/keyframe_frequency] by /mask_orange
+[rosmaster.master][INFO] 2017-09-26 18:57:16,404: +PARAM [/low_h] by /mask_orange
+[rosmaster.master][INFO] 2017-09-26 18:57:16,405: +PARAM [/low_s] by /mask_orange
+[rosmaster.master][INFO] 2017-09-26 18:57:16,409: +PARAM [/low_v] by /mask_orange
+[rosmaster.master][INFO] 2017-09-26 18:57:16,416: +PARAM [/high_h] by /mask_orange
+[rosmaster.master][INFO] 2017-09-26 18:57:16,419: +PARAM [/high_s] by /mask_orange
+[rosmaster.master][INFO] 2017-09-26 18:57:16,422: +PARAM [/high_v] by /mask_orange
+[rosmaster.master][INFO] 2017-09-26 18:57:16,435: +PUB [/image_marked/theora] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:16,436: +SERVICE [/image_marked/theora/set_parameters] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:16,437: +PUB [/image_marked/theora/parameter_descriptions] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:16,438: +PUB [/image_marked/theora/parameter_updates] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:16,441: +PARAM [/image_marked/theora/optimize_for] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:16,446: +PARAM [/image_marked/theora/target_bitrate] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:16,447: +PARAM [/image_marked/theora/quality] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:16,451: +PARAM [/image_marked/theora/keyframe_frequency] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:16,452: +PARAM [/image_marked/theora/optimize_for] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:16,453: +PARAM [/image_marked/theora/target_bitrate] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:16,455: +PARAM [/image_marked/theora/quality] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:16,459: +PARAM [/image_marked/theora/keyframe_frequency] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:16,463: +PUB [/camera/image_raw] /camera http://ubuntu:44627/
+[rosmaster.master][INFO] 2017-09-26 18:57:16,471: publisherUpdate[/camera/image_raw] -> http://ubuntu:37442/ ['http://ubuntu:44627/']
+[rosmaster.master][INFO] 2017-09-26 18:57:16,472: publisherUpdate[/camera/image_raw] -> http://ubuntu:37442/ ['http://ubuntu:44627/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-09-26 18:57:16,557: +PUB [/image/marked/compressedDepth] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:16,558: +SERVICE [/image/marked/compressedDepth/set_parameters] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:16,559: +PUB [/image/marked/compressedDepth/parameter_descriptions] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:16,560: +PUB [/image/marked/compressedDepth/parameter_updates] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:16,564: +PARAM [/image/marked/compressedDepth/depth_max] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:16,567: +PARAM [/image/marked/compressedDepth/depth_quantization] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:16,573: +PARAM [/image/marked/compressedDepth/png_level] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:16,574: +PARAM [/image/marked/compressedDepth/depth_max] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:16,575: +PUB [/camera/image_raw/theora] /camera http://ubuntu:44627/
+[rosmaster.master][INFO] 2017-09-26 18:57:16,576: +PARAM [/image/marked/compressedDepth/depth_quantization] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:16,578: +SERVICE [/camera/image_raw/theora/set_parameters] /camera http://ubuntu:44627/
+[rosmaster.master][INFO] 2017-09-26 18:57:16,579: +PARAM [/image/marked/compressedDepth/png_level] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:16,587: +PUB [/camera/image_raw/theora/parameter_descriptions] /camera http://ubuntu:44627/
+[rosmaster.master][INFO] 2017-09-26 18:57:16,589: +PUB [/camera/image_raw/theora/parameter_updates] /camera http://ubuntu:44627/
+[rosmaster.master][INFO] 2017-09-26 18:57:16,600: +PARAM [/camera/image_raw/theora/optimize_for] by /camera
+[rosmaster.master][INFO] 2017-09-26 18:57:16,603: +PARAM [/camera/image_raw/theora/target_bitrate] by /camera
+[rosmaster.master][INFO] 2017-09-26 18:57:16,604: +PARAM [/camera/image_raw/theora/quality] by /camera
+[rosmaster.master][INFO] 2017-09-26 18:57:16,606: +PARAM [/camera/image_raw/theora/keyframe_frequency] by /camera
+[rosmaster.master][INFO] 2017-09-26 18:57:16,607: +PARAM [/camera/image_raw/theora/optimize_for] by /camera
+[rosmaster.master][INFO] 2017-09-26 18:57:16,615: +PARAM [/camera/image_raw/theora/target_bitrate] by /camera
+[rosmaster.master][INFO] 2017-09-26 18:57:16,616: +PARAM [/camera/image_raw/theora/quality] by /camera
+[rosmaster.master][INFO] 2017-09-26 18:57:16,619: +PARAM [/camera/image_raw/theora/keyframe_frequency] by /camera
+[rosmaster.master][INFO] 2017-09-26 18:57:16,621: +PUB [/camera/camera_info] /camera http://ubuntu:44627/
+[rosmaster.master][INFO] 2017-09-26 18:57:16,670: +PUB [/image/marked/compressed] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:16,671: +SERVICE [/image/marked/compressed/set_parameters] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:16,672: +PUB [/image/marked/compressed/parameter_descriptions] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:16,675: +PUB [/image/marked/compressed/parameter_updates] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:16,684: +PARAM [/image/marked/compressed/format] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:16,685: +PARAM [/image/marked/compressed/jpeg_quality] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:16,686: +PARAM [/image/marked/compressed/png_level] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:16,687: +PARAM [/image/marked/compressed/format] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:16,691: +PARAM [/image/marked/compressed/jpeg_quality] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:16,692: +PARAM [/image/marked/compressed/png_level] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:16,772: +PUB [/image/marked] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:16,923: +PUB [/image/marked/theora] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:16,924: +SERVICE [/image/marked/theora/set_parameters] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:16,925: +PUB [/image/marked/theora/parameter_descriptions] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:16,927: +PUB [/image/marked/theora/parameter_updates] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:16,930: +PARAM [/image/marked/theora/optimize_for] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:16,931: +PARAM [/image/marked/theora/target_bitrate] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:16,933: +PARAM [/image/marked/theora/quality] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:16,934: +PARAM [/image/marked/theora/keyframe_frequency] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:16,935: +PARAM [/image/marked/theora/optimize_for] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:16,938: +PARAM [/image/marked/theora/target_bitrate] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:16,939: +PARAM [/image/marked/theora/quality] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:16,940: +PARAM [/image/marked/theora/keyframe_frequency] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:17,012: +SUB [/image] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:17,018: +SUB [/camera_info] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:17,025: +SUB [/image_marker] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:17,032: +SUB [/image/event] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:17,033: +SERVICE [/view/change_mode] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:17,036: +SERVICE [/view/rectangle_mode] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:17,037: +SERVICE [/view/grabcut_mode] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:17,039: +SERVICE [/view/grabcut_rect_mode] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:17,042: +SERVICE [/view/line_mode] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:17,044: +SERVICE [/view/poly_mode] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:17,045: +SERVICE [/view/none_mode] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:17,048: +SERVICE [/view/set_parameters] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:17,049: +PUB [/view/parameter_descriptions] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:17,052: +PUB [/view/parameter_updates] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:57:17,063: +PARAM [/view/grid] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:17,066: +PARAM [/view/fisheye_mode] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:17,068: +PARAM [/view/div_u] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:17,070: +PARAM [/view/div_v] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:17,071: +PARAM [/view/grid_red] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:17,075: +PARAM [/view/grid_green] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:17,076: +PARAM [/view/grid_blue] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:17,077: +PARAM [/view/grid_thickness] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:17,078: +PARAM [/view/grid_space] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:17,080: +PARAM [/view/grid] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:17,081: +PARAM [/view/fisheye_mode] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:17,084: +PARAM [/view/div_u] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:17,088: +PARAM [/view/div_v] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:17,092: +PARAM [/view/grid_red] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:17,096: +PARAM [/view/grid_green] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:17,097: +PARAM [/view/grid_blue] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:17,097: +PARAM [/view/grid_thickness] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:17,100: +PARAM [/view/grid_space] by /view
+[rosmaster.master][INFO] 2017-09-26 18:57:20,089: +PUB [/rosout] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:57:20,090: publisherUpdate[/rosout] -> http://ubuntu:40356/ ['http://ubuntu:37442/', 'http://ubuntu:39396/', 'http://ubuntu:44627/', 'http://ubuntu:36310/']
+[rosmaster.master][INFO] 2017-09-26 18:57:20,091: publisherUpdate[/rosout] -> http://ubuntu:40356/ ['http://ubuntu:37442/', 'http://ubuntu:39396/', 'http://ubuntu:44627/', 'http://ubuntu:36310/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-09-26 18:57:20,099: +SERVICE [/rqt_reconfigure/get_loggers] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:57:20,103: +SERVICE [/rqt_reconfigure/set_logger_level] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:57:20,387: +SUB [/camera/image_raw/compressedDepth/parameter_descriptions] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:57:20,428: +SUB [/camera/image_raw/compressed/parameter_descriptions] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:57:20,439: +SUB [/camera/image_raw/theora/parameter_descriptions] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:57:20,454: +SUB [/image/compressed/parameter_descriptions] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:57:20,466: +SUB [/camera/image_raw/compressedDepth/parameter_updates] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:57:20,521: +SUB [/camera/image_raw/theora/parameter_updates] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:57:20,553: +SUB [/image/compressedDepth/parameter_descriptions] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:57:20,591: +SUB [/image/compressed/parameter_updates] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:57:20,633: +SUB [/camera/image_raw/compressed/parameter_updates] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:57:20,654: +SUB [/image/marked/compressedDepth/parameter_descriptions] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:57:20,676: +SUB [/image/marked/compressedDepth/parameter_updates] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:57:20,691: +SUB [/image/marked/theora/parameter_descriptions] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:57:20,703: +SUB [/image_marked/compressed/parameter_descriptions] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:57:20,726: +SUB [/image_marked/compressed/parameter_updates] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:57:20,749: +SUB [/image_marked/compressedDepth/parameter_descriptions] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:57:20,763: +SUB [/image/compressedDepth/parameter_updates] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:57:20,794: +SUB [/image_marked/theora/parameter_descriptions] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:57:20,819: +SUB [/view/parameter_descriptions] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:57:20,847: +SUB [/view/parameter_updates] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:57:20,868: +SUB [/image/marked/theora/parameter_updates] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:57:20,893: +SUB [/image/theora/parameter_descriptions] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:57:20,911: +SUB [/image/theora/parameter_updates] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:57:20,918: +SUB [/image_marked/compressedDepth/parameter_updates] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:57:20,921: +SUB [/image_marked/theora/parameter_updates] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:57:20,925: +SUB [/image/marked/compressed/parameter_descriptions] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:57:20,928: +SUB [/image/marked/compressed/parameter_updates] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:57:56,400: +PARAM [/high_h] by /rosparam-8127
+[rosmaster.master][INFO] 2017-09-26 18:58:08,528: +PARAM [/high_h] by /rosparam-9919
+[rosmaster.master][INFO] 2017-09-26 18:58:12,552: +PARAM [/high_h] by /rosparam-10573
+[rosmaster.master][INFO] 2017-09-26 18:58:19,740: -PUB [/rosout] /camera http://ubuntu:44627/
+[rosmaster.master][INFO] 2017-09-26 18:58:19,751: -PUB [/camera/image_raw/compressedDepth] /camera http://ubuntu:44627/
+[rosmaster.master][INFO] 2017-09-26 18:58:19,755: -PUB [/camera/image_raw/compressedDepth/parameter_descriptions] /camera http://ubuntu:44627/
+[rosmaster.master][INFO] 2017-09-26 18:58:19,759: -PUB [/camera/image_raw/compressedDepth/parameter_updates] /camera http://ubuntu:44627/
+[rosmaster.master][INFO] 2017-09-26 18:58:19,765: publisherUpdate[/rosout] -> http://ubuntu:40356/ ['http://ubuntu:37442/', 'http://ubuntu:39396/', 'http://ubuntu:36310/']
+[rosmaster.master][INFO] 2017-09-26 18:58:19,769: publisherUpdate[/camera/image_raw/compressedDepth/parameter_descriptions] -> http://ubuntu:36310/ []
+[rosmaster.master][INFO] 2017-09-26 18:58:19,776: publisherUpdate[/rosout] -> http://ubuntu:40356/ ['http://ubuntu:37442/', 'http://ubuntu:39396/', 'http://ubuntu:36310/']: sec=0.01, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-09-26 18:58:19,786: -PUB [/camera/image_raw/compressed] /camera http://ubuntu:44627/
+[rosmaster.master][INFO] 2017-09-26 18:58:19,790: -PUB [/camera/image_raw/compressed/parameter_descriptions] /camera http://ubuntu:44627/
+[rosmaster.master][INFO] 2017-09-26 18:58:19,798: -PUB [/camera/image_raw/compressed/parameter_updates] /camera http://ubuntu:44627/
+[rosmaster.master][INFO] 2017-09-26 18:58:19,812: -PUB [/camera/image_raw] /camera http://ubuntu:44627/
+[rosmaster.master][INFO] 2017-09-26 18:58:19,820: -PUB [/camera/image_raw/theora] /camera http://ubuntu:44627/
+[rosmaster.master][INFO] 2017-09-26 18:58:19,826: -PUB [/camera/image_raw/theora/parameter_descriptions] /camera http://ubuntu:44627/
+[rosmaster.master][INFO] 2017-09-26 18:58:19,842: -PUB [/rosout] /mask_orange http://ubuntu:37442/
+[rosmaster.master][INFO] 2017-09-26 18:58:19,849: publisherUpdate[/camera/image_raw/compressedDepth/parameter_descriptions] -> http://ubuntu:36310/ []: sec=0.08, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-09-26 18:58:19,850: publisherUpdate[/camera/image_raw/compressedDepth/parameter_updates] -> http://ubuntu:36310/ []
+[rosmaster.master][INFO] 2017-09-26 18:58:19,852: -PUB [/camera/image_raw/theora/parameter_updates] /camera http://ubuntu:44627/
+[rosmaster.master][INFO] 2017-09-26 18:58:19,859: -PUB [/image/compressedDepth] /mask_orange http://ubuntu:37442/
+[rosmaster.master][INFO] 2017-09-26 18:58:19,860: -PUB [/camera/camera_info] /camera http://ubuntu:44627/
+[rosmaster.master][INFO] 2017-09-26 18:58:19,874: -PUB [/image/compressedDepth/parameter_descriptions] /mask_orange http://ubuntu:37442/
+[rosmaster.master][INFO] 2017-09-26 18:58:19,886: publisherUpdate[/camera/image_raw] -> http://ubuntu:37442/ []
+[rosmaster.master][INFO] 2017-09-26 18:58:19,886: publisherUpdate[/rosout] -> http://ubuntu:40356/ ['http://ubuntu:39396/', 'http://ubuntu:36310/']
+[rosmaster.master][INFO] 2017-09-26 18:58:19,892: publisherUpdate[/rosout] -> http://ubuntu:40356/ ['http://ubuntu:39396/', 'http://ubuntu:36310/']: sec=0.01, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-09-26 18:58:19,893: publisherUpdate[/camera/image_raw/compressedDepth/parameter_updates] -> http://ubuntu:36310/ []: sec=0.04, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-09-26 18:58:19,901: publisherUpdate[/camera/image_raw/compressed/parameter_descriptions] -> http://ubuntu:36310/ []
+[rosmaster.master][INFO] 2017-09-26 18:58:19,903: publisherUpdate[/camera/image_raw] -> http://ubuntu:37442/ []: sec=0.02, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.master][INFO] 2017-09-26 18:58:19,923: publisherUpdate[/camera/image_raw/compressed/parameter_descriptions] -> http://ubuntu:36310/ []: sec=0.02, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-09-26 18:58:19,923: publisherUpdate[/camera/image_raw/compressed/parameter_updates] -> http://ubuntu:36310/ []
+[rosmaster.master][INFO] 2017-09-26 18:58:19,925: -SERVICE [/camera/get_loggers] /camera rosrpc://ubuntu:37900
+[rosmaster.master][INFO] 2017-09-26 18:58:19,933: -PUB [/image/compressedDepth/parameter_updates] /mask_orange http://ubuntu:37442/
+[rosmaster.master][INFO] 2017-09-26 18:58:19,943: publisherUpdate[/camera/image_raw/compressed/parameter_updates] -> http://ubuntu:36310/ []: sec=0.02, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-09-26 18:58:19,943: publisherUpdate[/camera/image_raw/theora/parameter_descriptions] -> http://ubuntu:36310/ []
+[rosmaster.threadpool][ERROR] 2017-09-26 18:58:19,953: Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2017-09-26 18:58:19,953: -PUB [/image/compressed] /mask_orange http://ubuntu:37442/
+[rosmaster.master][INFO] 2017-09-26 18:58:19,962: publisherUpdate[/camera/image_raw/theora/parameter_descriptions] -> http://ubuntu:36310/ []: sec=0.02, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-09-26 18:58:19,963: publisherUpdate[/camera/image_raw/theora/parameter_updates] -> http://ubuntu:36310/ []
+[rosmaster.master][INFO] 2017-09-26 18:58:19,981: -PUB [/rosout] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:58:19,994: publisherUpdate[/rosout] -> http://ubuntu:40356/ ['http://ubuntu:36310/']
+[rosmaster.master][INFO] 2017-09-26 18:58:20,001: publisherUpdate[/rosout] -> http://ubuntu:40356/ ['http://ubuntu:36310/']: sec=0.01, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-09-26 18:58:20,010: publisherUpdate[/camera/image_raw/theora/parameter_updates] -> http://ubuntu:36310/ []: sec=0.03, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-09-26 18:58:20,010: publisherUpdate[/image/compressedDepth/parameter_descriptions] -> http://ubuntu:36310/ []
+[rosmaster.master][INFO] 2017-09-26 18:58:20,013: -SERVICE [/camera/set_logger_level] /camera rosrpc://ubuntu:37900
+[rosmaster.master][INFO] 2017-09-26 18:58:20,015: -PUB [/image/compressed/parameter_descriptions] /mask_orange http://ubuntu:37442/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,033: publisherUpdate[/image/compressedDepth/parameter_descriptions] -> http://ubuntu:36310/ []: sec=0.02, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-09-26 18:58:20,033: publisherUpdate[/image/compressedDepth/parameter_updates] -> http://ubuntu:36310/ []
+[rosmaster.master][INFO] 2017-09-26 18:58:20,040: -PUB [/image/screenpoint] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,060: -PUB [/image/compressed/parameter_updates] /mask_orange http://ubuntu:37442/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,068: publisherUpdate[/image/compressedDepth/parameter_updates] -> http://ubuntu:36310/ []: sec=0.03, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-09-26 18:58:20,068: publisherUpdate[/image/compressed/parameter_descriptions] -> http://ubuntu:36310/ []
+[rosmaster.master][INFO] 2017-09-26 18:58:20,074: publisherUpdate[/image/compressed/parameter_descriptions] -> http://ubuntu:36310/ []: sec=0.01, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-09-26 18:58:20,075: publisherUpdate[/image/compressed/parameter_updates] -> http://ubuntu:36310/ []
+[rosmaster.master][INFO] 2017-09-26 18:58:20,081: -SUB [/image/marked/compressed/parameter_descriptions] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,081: -SUB [/camera/image_raw/theora/parameter_descriptions] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,081: -SUB [/image/marked/theora/parameter_descriptions] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,093: publisherUpdate[/image/compressed/parameter_updates] -> http://ubuntu:36310/ []: sec=0.02, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-09-26 18:58:20,093: -SERVICE [/camera/set_camera_info] /camera rosrpc://ubuntu:37900
+[rosmaster.master][INFO] 2017-09-26 18:58:20,099: -SUB [/image_marked/theora/parameter_descriptions] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,100: -SUB [/image/compressedDepth/parameter_updates] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,108: -SUB [/image/theora/parameter_descriptions] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,108: -PUB [/image/screenpoint_array] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,108: -SUB [/image_marked/compressedDepth/parameter_descriptions] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,108: -SUB [/image_marked/compressed/parameter_updates] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,109: -SUB [/camera/image_raw/compressed/parameter_descriptions] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,130: -SUB [/image_marked/compressedDepth/parameter_updates] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,130: -SUB [/image/compressed/parameter_descriptions] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,130: -SUB [/image/marked/theora/parameter_updates] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,130: -SUB [/view/parameter_updates] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,130: -SUB [/image/marked/compressedDepth/parameter_descriptions] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,130: -SUB [/camera/image_raw/compressedDepth/parameter_descriptions] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,130: -SUB [/camera/image_raw/compressedDepth/parameter_updates] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,130: -SUB [/camera/image_raw/theora/parameter_updates] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,130: -SUB [/camera/image_raw/compressed/parameter_updates] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,130: -SUB [/image/compressedDepth/parameter_descriptions] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,130: -SUB [/image_marked/theora/parameter_updates] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,130: -SUB [/image/marked/compressed/parameter_updates] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,131: -SUB [/image/marked/compressedDepth/parameter_updates] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,131: -SUB [/view/parameter_descriptions] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,131: -SUB [/image/compressed/parameter_updates] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,131: -SUB [/image_marked/compressed/parameter_descriptions] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,131: -SUB [/image/theora/parameter_updates] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,137: -PUB [/image] /mask_orange http://ubuntu:37442/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,153: -SERVICE [/camera/image_raw/compressedDepth/set_parameters] /camera rosrpc://ubuntu:37900
+[rosmaster.master][INFO] 2017-09-26 18:58:20,153: -PUB [/rosout] /rqt_reconfigure http://ubuntu:36310/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,153: -SERVICE [/rqt_reconfigure/set_logger_level] /rqt_reconfigure rosrpc://ubuntu:42572
+[rosmaster.master][INFO] 2017-09-26 18:58:20,153: -SERVICE [/rqt_reconfigure/get_loggers] /rqt_reconfigure rosrpc://ubuntu:42572
+[rosmaster.master][INFO] 2017-09-26 18:58:20,162: publisherUpdate[/image] -> http://ubuntu:39396/ []
+[rosmaster.master][INFO] 2017-09-26 18:58:20,175: -PUB [/image/screenrectangle] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,176: -SERVICE [/camera/image_raw/compressed/set_parameters] /camera rosrpc://ubuntu:37900
+[rosmaster.master][INFO] 2017-09-26 18:58:20,179: publisherUpdate[/image] -> http://ubuntu:39396/ []: sec=0.02, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.threadpool][ERROR] 2017-09-26 18:58:20,180: Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2017-09-26 18:58:20,180: publisherUpdate[/rosout] -> http://ubuntu:40356/ []
+[rosmaster.master][INFO] 2017-09-26 18:58:20,192: publisherUpdate[/rosout] -> http://ubuntu:40356/ []: sec=0.01, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-09-26 18:58:20,193: -PUB [/image/theora] /mask_orange http://ubuntu:37442/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,197: -PUB [/image/screenrectangle_image] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,198: -SERVICE [/camera/image_raw/theora/set_parameters] /camera rosrpc://ubuntu:37900
+[rosmaster.master][INFO] 2017-09-26 18:58:20,206: -PUB [/image/theora/parameter_descriptions] /mask_orange http://ubuntu:37442/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,224: -PUB [/image/movepoint] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,238: -PUB [/image/foreground] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,238: -PUB [/image/theora/parameter_updates] /mask_orange http://ubuntu:37442/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,242: -PUB [/image/background] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,252: -PUB [/image/foreground_rect] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,254: -PUB [/image/background_rect] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,255: -SUB [/camera/image_raw] /mask_orange http://ubuntu:37442/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,261: -SERVICE [/mask_orange/get_loggers] /mask_orange rosrpc://ubuntu:59867
+[rosmaster.master][INFO] 2017-09-26 18:58:20,261: -PUB [/image/line] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,265: -PUB [/image/poly] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,276: -SERVICE [/mask_orange/set_logger_level] /mask_orange rosrpc://ubuntu:59867
+[rosmaster.master][INFO] 2017-09-26 18:58:20,279: -PUB [/image_marked/compressedDepth] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,281: -PUB [/image_marked/compressedDepth/parameter_descriptions] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,294: -SERVICE [/image/compressedDepth/set_parameters] /mask_orange rosrpc://ubuntu:59867
+[rosmaster.master][INFO] 2017-09-26 18:58:20,295: -SERVICE [/image/compressed/set_parameters] /mask_orange rosrpc://ubuntu:59867
+[rosmaster.master][INFO] 2017-09-26 18:58:20,305: -SERVICE [/image/theora/set_parameters] /mask_orange rosrpc://ubuntu:59867
+[rosmaster.master][INFO] 2017-09-26 18:58:20,309: -PUB [/image_marked/compressedDepth/parameter_updates] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,317: -PUB [/image_marked/compressed] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,320: -PUB [/image_marked/compressed/parameter_descriptions] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,326: -PUB [/image_marked/compressed/parameter_updates] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,338: -PUB [/image_marked] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,340: -PUB [/image_marked/theora] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,342: -PUB [/image_marked/theora/parameter_descriptions] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,344: -PUB [/image_marked/theora/parameter_updates] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,345: -PUB [/image/marked/compressedDepth] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,347: -PUB [/image/marked/compressedDepth/parameter_descriptions] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,348: -PUB [/image/marked/compressedDepth/parameter_updates] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,349: -PUB [/image/marked/compressed] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,351: -PUB [/image/marked/compressed/parameter_descriptions] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,353: -PUB [/image/marked/compressed/parameter_updates] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,355: -PUB [/image/marked] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,356: -PUB [/image/marked/theora] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,359: -PUB [/image/marked/theora/parameter_descriptions] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,360: -PUB [/image/marked/theora/parameter_updates] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,361: -PUB [/view/parameter_descriptions] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,364: -PUB [/view/parameter_updates] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,366: -SUB [/tf] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,368: -SUB [/tf_static] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,370: -SUB [/image] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,371: -SUB [/camera_info] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,373: -SUB [/image_marker] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,378: -SUB [/image/event] /view http://ubuntu:39396/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,382: -SERVICE [/view/get_loggers] /view rosrpc://ubuntu:45659
+[rosmaster.master][INFO] 2017-09-26 18:58:20,392: -SERVICE [/view/set_logger_level] /view rosrpc://ubuntu:45659
+[rosmaster.master][INFO] 2017-09-26 18:58:20,394: -SERVICE [/image_marked/compressedDepth/set_parameters] /view rosrpc://ubuntu:45659
+[rosmaster.master][INFO] 2017-09-26 18:58:20,395: -SERVICE [/image_marked/compressed/set_parameters] /view rosrpc://ubuntu:45659
+[rosmaster.master][INFO] 2017-09-26 18:58:20,396: -SERVICE [/image_marked/theora/set_parameters] /view rosrpc://ubuntu:45659
+[rosmaster.master][INFO] 2017-09-26 18:58:20,398: -SERVICE [/image/marked/compressedDepth/set_parameters] /view rosrpc://ubuntu:45659
+[rosmaster.master][INFO] 2017-09-26 18:58:20,400: -SERVICE [/image/marked/compressed/set_parameters] /view rosrpc://ubuntu:45659
+[rosmaster.master][INFO] 2017-09-26 18:58:20,402: -SERVICE [/image/marked/theora/set_parameters] /view rosrpc://ubuntu:45659
+[rosmaster.master][INFO] 2017-09-26 18:58:20,403: -SERVICE [/view/change_mode] /view rosrpc://ubuntu:45659
+[rosmaster.master][INFO] 2017-09-26 18:58:20,404: -SERVICE [/view/rectangle_mode] /view rosrpc://ubuntu:45659
+[rosmaster.master][INFO] 2017-09-26 18:58:20,406: -SERVICE [/view/grabcut_mode] /view rosrpc://ubuntu:45659
+[rosmaster.master][INFO] 2017-09-26 18:58:20,407: -SERVICE [/view/grabcut_rect_mode] /view rosrpc://ubuntu:45659
+[rosmaster.master][INFO] 2017-09-26 18:58:20,408: -SERVICE [/view/line_mode] /view rosrpc://ubuntu:45659
+[rosmaster.master][INFO] 2017-09-26 18:58:20,411: -SERVICE [/view/poly_mode] /view rosrpc://ubuntu:45659
+[rosmaster.master][INFO] 2017-09-26 18:58:20,411: -SERVICE [/view/none_mode] /view rosrpc://ubuntu:45659
+[rosmaster.master][INFO] 2017-09-26 18:58:20,412: -SERVICE [/view/set_parameters] /view rosrpc://ubuntu:45659
+[rosmaster.master][INFO] 2017-09-26 18:58:20,983: -PUB [/rosout_agg] /rosout http://ubuntu:40356/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,984: -SUB [/rosout] /rosout http://ubuntu:40356/
+[rosmaster.master][INFO] 2017-09-26 18:58:20,985: -SERVICE [/rosout/get_loggers] /rosout rosrpc://ubuntu:53332
+[rosmaster.master][INFO] 2017-09-26 18:58:20,985: -SERVICE [/rosout/set_logger_level] /rosout rosrpc://ubuntu:53332
+[rosmaster.main][INFO] 2017-09-26 18:58:21,074: keyboard interrupt, will exit
+[rosmaster.main][INFO] 2017-09-26 18:58:21,074: stopping master...
+[rospy.core][INFO] 2017-09-26 18:58:21,075: signal_shutdown [atexit]

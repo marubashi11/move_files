@@ -1,0 +1,122 @@
+[rosmaster.main][INFO] 2017-08-10 22:26:18,699: initialization complete, waiting for shutdown
+[rosmaster.main][INFO] 2017-08-10 22:26:18,700: Starting ROS Master Node
+[xmlrpc][INFO] 2017-08-10 22:26:18,701: XML-RPC server binding to 0.0.0.0:11311
+[xmlrpc][INFO] 2017-08-10 22:26:18,701: Started XML-RPC server [http://ubuntu:11311/]
+[xmlrpc][INFO] 2017-08-10 22:26:18,701: xml rpc node: starting XML-RPC server
+[rosmaster.master][INFO] 2017-08-10 22:26:18,701: Master initialized: port[11311], uri[http://ubuntu:11311/]
+[rosmaster.master][INFO] 2017-08-10 22:26:18,713: +PARAM [/run_id] by /roslaunch
+[rosmaster.master][INFO] 2017-08-10 22:26:18,714: +PARAM [/roslaunch/uris/host_ubuntu__43516] by /roslaunch
+[rosmaster.master][INFO] 2017-08-10 22:26:18,779: +PARAM [/rosversion] by /roslaunch
+[rosmaster.master][INFO] 2017-08-10 22:26:18,779: +PARAM [/rosdistro] by /roslaunch
+[rosmaster.master][INFO] 2017-08-10 22:26:18,920: +SERVICE [/rosout/get_loggers] /rosout http://ubuntu:36104/
+[rosmaster.master][INFO] 2017-08-10 22:26:18,921: +SERVICE [/rosout/set_logger_level] /rosout http://ubuntu:36104/
+[rosmaster.master][INFO] 2017-08-10 22:26:18,929: +PUB [/rosout_agg] /rosout http://ubuntu:36104/
+[rosmaster.master][INFO] 2017-08-10 22:26:18,931: +PUB [/rosout] /mimic http://ubuntu:41358/
+[rosmaster.master][INFO] 2017-08-10 22:26:18,937: +SERVICE [/mimic/get_loggers] /mimic http://ubuntu:41358/
+[rosmaster.master][INFO] 2017-08-10 22:26:18,940: +SERVICE [/mimic/set_logger_level] /mimic http://ubuntu:41358/
+[rosmaster.master][INFO] 2017-08-10 22:26:18,951: +PUB [/turtlesim2/turtle1/cmd_vel] /mimic http://ubuntu:41358/
+[rosmaster.master][INFO] 2017-08-10 22:26:18,966: +SUB [/rosout] /rosout http://ubuntu:36104/
+[rosmaster.master][INFO] 2017-08-10 22:26:18,994: +SUB [/turtlesim1/turtle1/pose] /mimic http://ubuntu:41358/
+[rosmaster.master][INFO] 2017-08-10 22:26:19,620: +PUB [/rosout] /turtlesim1/sim http://ubuntu:39736/
+[rosmaster.master][INFO] 2017-08-10 22:26:19,623: +SERVICE [/turtlesim1/sim/get_loggers] /turtlesim1/sim http://ubuntu:39736/
+[rosmaster.master][INFO] 2017-08-10 22:26:19,623: +SERVICE [/turtlesim1/sim/set_logger_level] /turtlesim1/sim http://ubuntu:39736/
+[rosmaster.master][INFO] 2017-08-10 22:26:19,625: +PUB [/rosout] /turtlesim2/sim http://ubuntu:43607/
+[rosmaster.master][INFO] 2017-08-10 22:26:19,627: +SERVICE [/turtlesim2/sim/get_loggers] /turtlesim2/sim http://ubuntu:43607/
+[rosmaster.master][INFO] 2017-08-10 22:26:19,628: +SERVICE [/turtlesim2/sim/set_logger_level] /turtlesim2/sim http://ubuntu:43607/
+[rosmaster.master][INFO] 2017-08-10 22:26:19,632: +PARAM [/turtlesim1/background_r] by /turtlesim1/sim
+[rosmaster.master][INFO] 2017-08-10 22:26:19,633: +PARAM [/turtlesim2/background_r] by /turtlesim2/sim
+[rosmaster.master][INFO] 2017-08-10 22:26:19,634: +PARAM [/turtlesim1/background_g] by /turtlesim1/sim
+[rosmaster.master][INFO] 2017-08-10 22:26:19,635: +PARAM [/turtlesim2/background_g] by /turtlesim2/sim
+[rosmaster.master][INFO] 2017-08-10 22:26:19,636: +PARAM [/turtlesim1/background_b] by /turtlesim1/sim
+[rosmaster.master][INFO] 2017-08-10 22:26:19,638: +PARAM [/turtlesim2/background_b] by /turtlesim2/sim
+[rosmaster.master][INFO] 2017-08-10 22:26:19,704: publisherUpdate[/rosout] -> http://ubuntu:36104/ ['http://ubuntu:41358/', 'http://ubuntu:39736/']
+[rosmaster.master][INFO] 2017-08-10 22:26:19,713: publisherUpdate[/rosout] -> http://ubuntu:36104/ ['http://ubuntu:41358/', 'http://ubuntu:39736/']: sec=0.01, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-08-10 22:26:19,713: publisherUpdate[/rosout] -> http://ubuntu:36104/ ['http://ubuntu:41358/', 'http://ubuntu:39736/', 'http://ubuntu:43607/']
+[rosmaster.master][INFO] 2017-08-10 22:26:19,714: publisherUpdate[/rosout] -> http://ubuntu:36104/ ['http://ubuntu:41358/', 'http://ubuntu:39736/', 'http://ubuntu:43607/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-08-10 22:26:19,899: +SERVICE [/turtlesim2/clear] /turtlesim2/sim http://ubuntu:43607/
+[rosmaster.master][INFO] 2017-08-10 22:26:19,901: +SERVICE [/turtlesim2/reset] /turtlesim2/sim http://ubuntu:43607/
+[rosmaster.master][INFO] 2017-08-10 22:26:19,906: +SERVICE [/turtlesim2/spawn] /turtlesim2/sim http://ubuntu:43607/
+[rosmaster.master][INFO] 2017-08-10 22:26:19,907: +SERVICE [/turtlesim2/kill] /turtlesim2/sim http://ubuntu:43607/
+[rosmaster.master][INFO] 2017-08-10 22:26:19,912: +SERVICE [/turtlesim1/clear] /turtlesim1/sim http://ubuntu:39736/
+[rosmaster.master][INFO] 2017-08-10 22:26:19,917: +SERVICE [/turtlesim1/reset] /turtlesim1/sim http://ubuntu:39736/
+[rosmaster.master][INFO] 2017-08-10 22:26:19,918: +SERVICE [/turtlesim1/spawn] /turtlesim1/sim http://ubuntu:39736/
+[rosmaster.master][INFO] 2017-08-10 22:26:19,918: +SERVICE [/turtlesim1/kill] /turtlesim1/sim http://ubuntu:39736/
+[rosmaster.master][INFO] 2017-08-10 22:26:19,935: +SUB [/turtlesim1/turtle1/cmd_vel] /turtlesim1/sim http://ubuntu:39736/
+[rosmaster.master][INFO] 2017-08-10 22:26:19,936: +SUB [/turtlesim2/turtle1/cmd_vel] /turtlesim2/sim http://ubuntu:43607/
+[rosmaster.master][INFO] 2017-08-10 22:26:19,937: +PUB [/turtlesim1/turtle1/pose] /turtlesim1/sim http://ubuntu:39736/
+[rosmaster.master][INFO] 2017-08-10 22:26:19,938: +PUB [/turtlesim2/turtle1/pose] /turtlesim2/sim http://ubuntu:43607/
+[rosmaster.master][INFO] 2017-08-10 22:26:19,939: +PUB [/turtlesim1/turtle1/color_sensor] /turtlesim1/sim http://ubuntu:39736/
+[rosmaster.master][INFO] 2017-08-10 22:26:19,940: +PUB [/turtlesim2/turtle1/color_sensor] /turtlesim2/sim http://ubuntu:43607/
+[rosmaster.master][INFO] 2017-08-10 22:26:19,941: +SERVICE [/turtlesim1/turtle1/set_pen] /turtlesim1/sim http://ubuntu:39736/
+[rosmaster.master][INFO] 2017-08-10 22:26:19,942: +SERVICE [/turtlesim2/turtle1/set_pen] /turtlesim2/sim http://ubuntu:43607/
+[rosmaster.master][INFO] 2017-08-10 22:26:19,943: +SERVICE [/turtlesim1/turtle1/teleport_relative] /turtlesim1/sim http://ubuntu:39736/
+[rosmaster.master][INFO] 2017-08-10 22:26:19,943: +SERVICE [/turtlesim2/turtle1/teleport_relative] /turtlesim2/sim http://ubuntu:43607/
+[rosmaster.master][INFO] 2017-08-10 22:26:19,944: +SERVICE [/turtlesim1/turtle1/teleport_absolute] /turtlesim1/sim http://ubuntu:39736/
+[rosmaster.master][INFO] 2017-08-10 22:26:19,945: +SERVICE [/turtlesim2/turtle1/teleport_absolute] /turtlesim2/sim http://ubuntu:43607/
+[rosmaster.master][INFO] 2017-08-10 22:26:20,006: publisherUpdate[/turtlesim1/turtle1/pose] -> http://ubuntu:41358/ ['http://ubuntu:39736/']
+[rosmaster.master][INFO] 2017-08-10 22:26:20,014: publisherUpdate[/turtlesim1/turtle1/pose] -> http://ubuntu:41358/ ['http://ubuntu:39736/']: sec=0.01, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-08-10 23:05:50,709: +SERVICE [/rostopic_19685_1502431550349/get_loggers] /rostopic_19685_1502431550349 http://ubuntu:44885/
+[rosmaster.master][INFO] 2017-08-10 23:05:50,779: +SERVICE [/rostopic_19685_1502431550349/set_logger_level] /rostopic_19685_1502431550349 http://ubuntu:44885/
+[rosmaster.master][INFO] 2017-08-10 23:05:50,785: +PUB [/turtlesim1/turtle1/cmd_vel] /rostopic_19685_1502431550349 http://ubuntu:44885/
+[rosmaster.master][INFO] 2017-08-10 23:05:50,813: publisherUpdate[/turtlesim1/turtle1/cmd_vel] -> http://ubuntu:39736/ ['http://ubuntu:44885/']
+[rosmaster.master][INFO] 2017-08-10 23:05:50,877: publisherUpdate[/turtlesim1/turtle1/cmd_vel] -> http://ubuntu:39736/ ['http://ubuntu:44885/']: sec=0.06, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-08-10 23:08:16,661: +PUB [/rosout] /rqt_gui_py_node_19785 http://ubuntu:37326/
+[rosmaster.master][INFO] 2017-08-10 23:08:16,699: +SERVICE [/rqt_gui_py_node_19785/get_loggers] /rqt_gui_py_node_19785 http://ubuntu:37326/
+[rosmaster.master][INFO] 2017-08-10 23:08:16,701: +SERVICE [/rqt_gui_py_node_19785/set_logger_level] /rqt_gui_py_node_19785 http://ubuntu:37326/
+[rosmaster.master][INFO] 2017-08-10 23:08:16,724: publisherUpdate[/rosout] -> http://ubuntu:36104/ ['http://ubuntu:41358/', 'http://ubuntu:39736/', 'http://ubuntu:43607/', 'http://ubuntu:37326/']
+[rosmaster.master][INFO] 2017-08-10 23:08:16,755: publisherUpdate[/rosout] -> http://ubuntu:36104/ ['http://ubuntu:41358/', 'http://ubuntu:39736/', 'http://ubuntu:43607/', 'http://ubuntu:37326/']: sec=0.03, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-08-10 23:08:16,918: +SUB [/statistics] /rqt_gui_py_node_19785 http://ubuntu:37326/
+[rosmaster.master][INFO] 2017-08-10 23:09:14,809: -SUB [/statistics] /rqt_gui_py_node_19785 http://ubuntu:37326/
+[rosmaster.master][INFO] 2017-08-10 23:09:14,810: -PUB [/rosout] /rqt_gui_py_node_19785 http://ubuntu:37326/
+[rosmaster.master][INFO] 2017-08-10 23:09:14,810: -SERVICE [/rqt_gui_py_node_19785/get_loggers] /rqt_gui_py_node_19785 rosrpc://ubuntu:43806
+[rosmaster.master][INFO] 2017-08-10 23:09:14,810: -SERVICE [/rqt_gui_py_node_19785/set_logger_level] /rqt_gui_py_node_19785 rosrpc://ubuntu:43806
+[rosmaster.master][INFO] 2017-08-10 23:09:14,812: publisherUpdate[/rosout] -> http://ubuntu:36104/ ['http://ubuntu:41358/', 'http://ubuntu:39736/', 'http://ubuntu:43607/']
+[rosmaster.master][INFO] 2017-08-10 23:09:14,816: publisherUpdate[/rosout] -> http://ubuntu:36104/ ['http://ubuntu:41358/', 'http://ubuntu:39736/', 'http://ubuntu:43607/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-08-10 23:09:18,825: -PUB [/turtlesim1/turtle1/cmd_vel] /rostopic_19685_1502431550349 http://ubuntu:44885/
+[rosmaster.master][INFO] 2017-08-10 23:09:18,825: -SERVICE [/rostopic_19685_1502431550349/set_logger_level] /rostopic_19685_1502431550349 rosrpc://ubuntu:44890
+[rosmaster.master][INFO] 2017-08-10 23:09:18,826: -SERVICE [/rostopic_19685_1502431550349/get_loggers] /rostopic_19685_1502431550349 rosrpc://ubuntu:44890
+[rosmaster.master][INFO] 2017-08-10 23:09:18,844: publisherUpdate[/turtlesim1/turtle1/cmd_vel] -> http://ubuntu:39736/ []
+[rosmaster.master][INFO] 2017-08-10 23:09:18,849: publisherUpdate[/turtlesim1/turtle1/cmd_vel] -> http://ubuntu:39736/ []: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-08-10 23:09:27,011: -PUB [/rosout] /mimic http://ubuntu:41358/
+[rosmaster.master][INFO] 2017-08-10 23:09:27,013: -PUB [/turtlesim2/turtle1/cmd_vel] /mimic http://ubuntu:41358/
+[rosmaster.master][INFO] 2017-08-10 23:09:27,014: -SUB [/turtlesim1/turtle1/pose] /mimic http://ubuntu:41358/
+[rosmaster.master][INFO] 2017-08-10 23:09:27,015: -SERVICE [/mimic/get_loggers] /mimic rosrpc://ubuntu:39858
+[rosmaster.master][INFO] 2017-08-10 23:09:27,019: -SERVICE [/mimic/set_logger_level] /mimic rosrpc://ubuntu:39858
+[rosmaster.master][INFO] 2017-08-10 23:09:27,030: publisherUpdate[/rosout] -> http://ubuntu:36104/ ['http://ubuntu:39736/', 'http://ubuntu:43607/']
+[rosmaster.master][INFO] 2017-08-10 23:09:27,031: publisherUpdate[/rosout] -> http://ubuntu:36104/ ['http://ubuntu:39736/', 'http://ubuntu:43607/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-08-10 23:09:27,031: publisherUpdate[/turtlesim2/turtle1/cmd_vel] -> http://ubuntu:43607/ []
+[rosmaster.master][INFO] 2017-08-10 23:09:27,044: publisherUpdate[/turtlesim2/turtle1/cmd_vel] -> http://ubuntu:43607/ []: sec=0.01, exception=[Errno 111] Connection refused
+[rosmaster.threadpool][ERROR] 2017-08-10 23:09:27,083: Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1311, in single_request
+    self.send_content(h, request_body)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1459, in send_content
+    connection.endheaders(request_body)
+  File "/usr/lib/python2.7/httplib.py", line 1053, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python2.7/httplib.py", line 897, in _send_output
+    self.send(msg)
+  File "/usr/lib/python2.7/httplib.py", line 859, in send
+    self.connect()
+  File "/usr/lib/python2.7/httplib.py", line 836, in connect
+    self.timeout, self.source_address)
+  File "/usr/lib/python2.7/socket.py", line 575, in create_connection
+    raise err
+error: [Errno 111] Connection refused
+
+[rosmaster.master][INFO] 2017-08-10 23:09:27,236: -PUB [/rosout_agg] /rosout http://ubuntu:36104/
+[rosmaster.master][INFO] 2017-08-10 23:09:27,240: -SUB [/rosout] /rosout http://ubuntu:36104/
+[rosmaster.master][INFO] 2017-08-10 23:09:27,242: -SERVICE [/rosout/get_loggers] /rosout rosrpc://ubuntu:46298
+[rosmaster.master][INFO] 2017-08-10 23:09:27,243: -SERVICE [/rosout/set_logger_level] /rosout rosrpc://ubuntu:46298
+[rosmaster.main][INFO] 2017-08-10 23:09:27,402: keyboard interrupt, will exit
+[rosmaster.main][INFO] 2017-08-10 23:09:27,405: stopping master...
+[rospy.core][INFO] 2017-08-10 23:09:27,439: signal_shutdown [atexit]

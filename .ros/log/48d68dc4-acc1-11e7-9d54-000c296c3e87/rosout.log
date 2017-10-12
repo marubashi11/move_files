@@ -1,0 +1,9 @@
+
+
+1507533181.383116511  Node Startup
+1507533223.121914831 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [test]
+1507533224.120872306 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [test]
+1507533225.120692780 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [test]
+1507533226.119995989 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [test]
+1507533227.120366681 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [test]
+1507533228.120205532 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [test]

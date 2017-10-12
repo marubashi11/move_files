@@ -1,0 +1,3 @@
+[33m[ WARN] [1504605809.502120653]: Topic 'image' has not been remapped! Typical command-line usage:
+	$ rosrun image_view image_view image:=<image topic> [transport][0m
+[0m[ INFO] [1504605810.421973962]: Using transport "raw"[0m

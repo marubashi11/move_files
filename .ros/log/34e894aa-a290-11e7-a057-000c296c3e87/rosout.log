@@ -1,0 +1,17 @@
+
+
+1506412591.132070147  Node Startup
+1506412768.992016077 INFO [ez_publisher_widget.py:87(add_slider_by_text) [topics: /rosout] header/seq is not created
+1506412769.063615083 WARN [ez_publisher_model.py:165(get_value_type) [topics: /rosout] time is not supported
+1506412769.122580051 WARN [ez_publisher_model.py:165(get_value_type) [topics: /rosout] time is not supported
+1506412847.581478118 INFO [ez_publisher_widget.py:87(add_slider_by_text) [topics: /rosout] header/seq is not created
+1506412847.650487899 WARN [ez_publisher_model.py:165(get_value_type) [topics: /rosout] time is not supported
+1506412847.709485054 WARN [ez_publisher_model.py:165(get_value_type) [topics: /rosout] time is not supported
+1506412847.711800098 INFO [plugin_container_widget.py:106(set_sysmsg) [topics: /rosout] PluginContainerWidget; /rosout/header/frame_id is already exists
+1506412847.712506055 INFO [plugin_container_widget.py:106(set_sysmsg) [topics: /rosout] PluginContainerWidget; /rosout/level is already exists
+1506412847.712970972 INFO [plugin_container_widget.py:106(set_sysmsg) [topics: /rosout] PluginContainerWidget; /rosout/name is already exists
+1506412847.713795900 INFO [plugin_container_widget.py:106(set_sysmsg) [topics: /rosout] PluginContainerWidget; /rosout/msg is already exists
+1506412847.714616060 INFO [plugin_container_widget.py:106(set_sysmsg) [topics: /rosout] PluginContainerWidget; /rosout/file is already exists
+1506412847.715481996 INFO [plugin_container_widget.py:106(set_sysmsg) [topics: /rosout] PluginContainerWidget; /rosout/function is already exists
+1506412847.716181039 INFO [plugin_container_widget.py:106(set_sysmsg) [topics: /rosout] PluginContainerWidget; /rosout/line is already exists
+1506412847.717737913 INFO [plugin_container_widget.py:106(set_sysmsg) [topics: /rosout] PluginContainerWidget; /rosout/topics[0] is already exists

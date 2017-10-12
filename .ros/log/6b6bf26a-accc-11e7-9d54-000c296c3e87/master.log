@@ -1,0 +1,47 @@
+[rosmaster.main][INFO] 2017-10-09 17:32:43,704: initialization complete, waiting for shutdown
+[rosmaster.main][INFO] 2017-10-09 17:32:43,704: Starting ROS Master Node
+[xmlrpc][INFO] 2017-10-09 17:32:43,705: XML-RPC server binding to 0.0.0.0:11311
+[xmlrpc][INFO] 2017-10-09 17:32:43,705: Started XML-RPC server [http://ubuntu:11311/]
+[xmlrpc][INFO] 2017-10-09 17:32:43,705: xml rpc node: starting XML-RPC server
+[rosmaster.master][INFO] 2017-10-09 17:32:43,705: Master initialized: port[11311], uri[http://ubuntu:11311/]
+[rosmaster.master][INFO] 2017-10-09 17:32:43,750: +PARAM [/run_id] by /roslaunch
+[rosmaster.master][INFO] 2017-10-09 17:32:43,752: +PARAM [/roslaunch/uris/host_ubuntu__40954] by /roslaunch
+[rosmaster.master][INFO] 2017-10-09 17:32:43,819: +PARAM [/rosversion] by /roslaunch
+[rosmaster.master][INFO] 2017-10-09 17:32:43,820: +PARAM [/rosdistro] by /roslaunch
+[rosmaster.master][INFO] 2017-10-09 17:32:43,832: +SERVICE [/rosout/get_loggers] /rosout http://ubuntu:36564/
+[rosmaster.master][INFO] 2017-10-09 17:32:43,833: +SERVICE [/rosout/set_logger_level] /rosout http://ubuntu:36564/
+[rosmaster.master][INFO] 2017-10-09 17:32:43,835: +PUB [/rosout_agg] /rosout http://ubuntu:36564/
+[rosmaster.master][INFO] 2017-10-09 17:32:43,838: +SUB [/rosout] /rosout http://ubuntu:36564/
+[rosmaster.master][INFO] 2017-10-09 17:32:43,870: +PUB [/rosout] /janken_out_node http://ubuntu:41621/
+[rosmaster.master][INFO] 2017-10-09 17:32:43,871: +SERVICE [/janken_out_node/get_loggers] /janken_out_node http://ubuntu:41621/
+[rosmaster.master][INFO] 2017-10-09 17:32:43,872: +SERVICE [/janken_out_node/set_logger_level] /janken_out_node http://ubuntu:41621/
+[rosmaster.master][INFO] 2017-10-09 17:32:43,873: +PUB [/janken_topic] /janken_out_node http://ubuntu:41621/
+[rosmaster.master][INFO] 2017-10-09 17:32:43,878: +PUB [/rosout] /janken_get_node http://ubuntu:45709/
+[rosmaster.master][INFO] 2017-10-09 17:32:43,879: +SERVICE [/janken_get_node/get_loggers] /janken_get_node http://ubuntu:45709/
+[rosmaster.master][INFO] 2017-10-09 17:32:43,880: +SERVICE [/janken_get_node/set_logger_level] /janken_get_node http://ubuntu:45709/
+[rosmaster.master][INFO] 2017-10-09 17:32:43,890: +SUB [/janken_topic] /janken_get_node http://ubuntu:45709/
+[rosmaster.master][INFO] 2017-10-09 17:32:43,907: publisherUpdate[/rosout] -> http://ubuntu:36564/ ['http://ubuntu:41621/']
+[rosmaster.master][INFO] 2017-10-09 17:32:43,910: publisherUpdate[/rosout] -> http://ubuntu:36564/ ['http://ubuntu:41621/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-10-09 17:32:43,910: publisherUpdate[/rosout] -> http://ubuntu:36564/ ['http://ubuntu:41621/', 'http://ubuntu:45709/']
+[rosmaster.master][INFO] 2017-10-09 17:32:43,910: publisherUpdate[/rosout] -> http://ubuntu:36564/ ['http://ubuntu:41621/', 'http://ubuntu:45709/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-10-09 17:35:02,959: -PUB [/rosout] /janken_out_node http://ubuntu:41621/
+[rosmaster.master][INFO] 2017-10-09 17:35:02,960: -PUB [/janken_topic] /janken_out_node http://ubuntu:41621/
+[rosmaster.master][INFO] 2017-10-09 17:35:02,961: -SERVICE [/janken_out_node/get_loggers] /janken_out_node rosrpc://ubuntu:60973
+[rosmaster.master][INFO] 2017-10-09 17:35:02,962: -SERVICE [/janken_out_node/set_logger_level] /janken_out_node rosrpc://ubuntu:60973
+[rosmaster.master][INFO] 2017-10-09 17:35:03,005: publisherUpdate[/rosout] -> http://ubuntu:36564/ ['http://ubuntu:45709/']
+[rosmaster.master][INFO] 2017-10-09 17:35:03,006: publisherUpdate[/janken_topic] -> http://ubuntu:45709/ []
+[rosmaster.master][INFO] 2017-10-09 17:35:03,007: publisherUpdate[/rosout] -> http://ubuntu:36564/ ['http://ubuntu:45709/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-10-09 17:35:03,008: publisherUpdate[/janken_topic] -> http://ubuntu:45709/ []: sec=0.00, result=[0, 'Unknown Error', 0]
+[rosmaster.master][INFO] 2017-10-09 17:35:03,109: -PUB [/rosout] /janken_get_node http://ubuntu:45709/
+[rosmaster.master][INFO] 2017-10-09 17:35:03,110: -SUB [/janken_topic] /janken_get_node http://ubuntu:45709/
+[rosmaster.master][INFO] 2017-10-09 17:35:03,111: -SERVICE [/janken_get_node/get_loggers] /janken_get_node rosrpc://ubuntu:55520
+[rosmaster.master][INFO] 2017-10-09 17:35:03,112: -SERVICE [/janken_get_node/set_logger_level] /janken_get_node rosrpc://ubuntu:55520
+[rosmaster.master][INFO] 2017-10-09 17:35:03,208: publisherUpdate[/rosout] -> http://ubuntu:36564/ []
+[rosmaster.master][INFO] 2017-10-09 17:35:03,210: publisherUpdate[/rosout] -> http://ubuntu:36564/ []: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-10-09 17:35:18,042: -PUB [/rosout_agg] /rosout http://ubuntu:36564/
+[rosmaster.master][INFO] 2017-10-09 17:35:18,043: -SUB [/rosout] /rosout http://ubuntu:36564/
+[rosmaster.master][INFO] 2017-10-09 17:35:18,044: -SERVICE [/rosout/get_loggers] /rosout rosrpc://ubuntu:33076
+[rosmaster.master][INFO] 2017-10-09 17:35:18,047: -SERVICE [/rosout/set_logger_level] /rosout rosrpc://ubuntu:33076
+[rosmaster.main][INFO] 2017-10-09 17:35:18,152: keyboard interrupt, will exit
+[rosmaster.main][INFO] 2017-10-09 17:35:18,152: stopping master...
+[rospy.core][INFO] 2017-10-09 17:35:18,152: signal_shutdown [atexit]

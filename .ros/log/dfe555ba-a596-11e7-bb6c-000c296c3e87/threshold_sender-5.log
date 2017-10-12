@@ -1,0 +1,453 @@
+[rospy.client][INFO] 2017-09-30 13:21:51,469: init_node, name[/threshold_sender], pid[6508]
+[xmlrpc][INFO] 2017-09-30 13:21:51,470: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2017-09-30 13:21:51,470: Started XML-RPC server [http://ubuntu:39333/]
+[rospy.impl.masterslave][INFO] 2017-09-30 13:21:51,470: _ready: http://ubuntu:39333/
+[xmlrpc][INFO] 2017-09-30 13:21:51,470: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2017-09-30 13:21:51,471: Registering with master node http://localhost:11311
+[rospy.init][INFO] 2017-09-30 13:21:51,471: ROS Slave URI: [http://ubuntu:39333/]
+[rospy.init][INFO] 2017-09-30 13:21:51,471: registered with master
+[rospy.rosout][INFO] 2017-09-30 13:21:51,471: initializing /rosout core topic
+[rospy.rosout][INFO] 2017-09-30 13:21:51,473: connected to core topic /rosout
+[rospy.simtime][INFO] 2017-09-30 13:21:51,474: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2017-09-30 13:21:51,554: topic[/camera/image_raw/theora/parameter_descriptions] adding connection to [http://ubuntu:46279/], count 0
+[rospy.internal][INFO] 2017-09-30 13:21:51,566: topic[/image/compressed/parameter_descriptions] adding connection to [http://ubuntu:38772/], count 0
+[rospy.internal][INFO] 2017-09-30 13:21:51,576: topic[/image/compressedDepth/parameter_updates] adding connection to [http://ubuntu:38772/], count 0
+[rospy.internal][INFO] 2017-09-30 13:21:51,596: topic[/image/marked/compressedDepth/parameter_descriptions] adding connection to [http://ubuntu:40512/], count 0
+[rospy.internal][INFO] 2017-09-30 13:21:51,609: topic[/image/theora/parameter_descriptions] adding connection to [http://ubuntu:38772/], count 0
+[rospy.internal][INFO] 2017-09-30 13:21:51,631: topic[/image_marked/compressedDepth/parameter_descriptions] adding connection to [http://ubuntu:40512/], count 0
+[rospy.internal][INFO] 2017-09-30 13:21:51,648: topic[/image_marked/theora/parameter_updates] adding connection to [http://ubuntu:40512/], count 0
+[rospy.internal][INFO] 2017-09-30 13:21:51,649: topic[/view/parameter_updates] adding connection to [http://ubuntu:40512/], count 0
+[rospy.internal][INFO] 2017-09-30 13:21:51,650: topic[/view/parameter_descriptions] adding connection to [http://ubuntu:40512/], count 0
+[rospy.internal][INFO] 2017-09-30 13:21:51,654: topic[/mask_orange/parameter_updates] adding connection to [http://ubuntu:38772/], count 0
+[rospy.internal][INFO] 2017-09-30 13:21:51,661: topic[/mask_orange/parameter_descriptions] adding connection to [http://ubuntu:38772/], count 0
+[rospy.internal][INFO] 2017-09-30 13:21:51,664: topic[/image_marked/theora/parameter_descriptions] adding connection to [http://ubuntu:40512/], count 0
+[rospy.internal][INFO] 2017-09-30 13:21:51,668: topic[/image_marked/compressed/parameter_updates] adding connection to [http://ubuntu:40512/], count 0
+[rospy.internal][INFO] 2017-09-30 13:21:51,675: topic[/image_marked/compressedDepth/parameter_updates] adding connection to [http://ubuntu:40512/], count 0
+[rospy.internal][INFO] 2017-09-30 13:21:51,681: topic[/image_marked/compressed/parameter_descriptions] adding connection to [http://ubuntu:40512/], count 0
+[rospy.internal][INFO] 2017-09-30 13:21:51,686: topic[/image/theora/parameter_updates] adding connection to [http://ubuntu:38772/], count 0
+[rospy.internal][INFO] 2017-09-30 13:21:51,691: topic[/image/marked/theora/parameter_updates] adding connection to [http://ubuntu:40512/], count 0
+[rospy.internal][INFO] 2017-09-30 13:21:51,697: topic[/image/marked/theora/parameter_descriptions] adding connection to [http://ubuntu:40512/], count 0
+[rospy.internal][INFO] 2017-09-30 13:21:51,704: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.internal][INFO] 2017-09-30 13:21:51,705: topic[/image/marked/compressed/parameter_updates] adding connection to [http://ubuntu:40512/], count 0
+[rospy.internal][INFO] 2017-09-30 13:21:51,709: topic[/image/marked/compressedDepth/parameter_updates] adding connection to [http://ubuntu:40512/], count 0
+[rospy.internal][INFO] 2017-09-30 13:21:51,717: topic[/image/marked/compressed/parameter_descriptions] adding connection to [http://ubuntu:40512/], count 0
+[rospy.internal][INFO] 2017-09-30 13:21:51,723: topic[/image/compressedDepth/parameter_descriptions] adding connection to [http://ubuntu:38772/], count 0
+[rospy.internal][INFO] 2017-09-30 13:21:51,728: topic[/image/compressed/parameter_updates] adding connection to [http://ubuntu:38772/], count 0
+[rospy.internal][INFO] 2017-09-30 13:21:51,735: topic[/camera/image_raw/theora/parameter_updates] adding connection to [http://ubuntu:46279/], count 0
+[rospy.internal][INFO] 2017-09-30 13:21:51,747: topic[/camera/image_raw/compressedDepth/parameter_updates] adding connection to [http://ubuntu:46279/], count 0
+[rospy.internal][INFO] 2017-09-30 13:21:51,778: topic[/camera/image_raw/compressedDepth/parameter_descriptions] adding connection to [http://ubuntu:46279/], count 0
+[rospy.internal][INFO] 2017-09-30 13:21:51,785: topic[/camera/image_raw/compressed/parameter_updates] adding connection to [http://ubuntu:46279/], count 0
+[rospy.internal][INFO] 2017-09-30 13:21:51,800: topic[/camera/image_raw/compressed/parameter_descriptions] adding connection to [http://ubuntu:46279/], count 0
+[rospy.internal][WARNING] 2017-09-30 13:24:12,002: Unknown error initiating TCP/IP socket to ubuntu:57367 (http://ubuntu:46279/): Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 557, in connect
+    self.read_header()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 650, in read_header
+    self._validate_header(read_ros_handshake_header(sock, self.read_buff, self.protocol.buff_size))
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/network.py", line 362, in read_ros_handshake_header
+    d = sock.recv(buff_size)
+error: [Errno 104] 接続が相手からリセットされました
+
+[rospy.internal][INFO] 2017-09-30 13:24:12,003: topic[/camera/image_raw/compressedDepth/parameter_descriptions] removing connection to http://ubuntu:46279/
+[rospy.internal][WARNING] 2017-09-30 13:24:12,003: Unknown error initiating TCP/IP socket to ubuntu:57367 (http://ubuntu:46279/): Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 557, in connect
+    self.read_header()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 650, in read_header
+    self._validate_header(read_ros_handshake_header(sock, self.read_buff, self.protocol.buff_size))
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/network.py", line 362, in read_ros_handshake_header
+    d = sock.recv(buff_size)
+error: [Errno 104] 接続が相手からリセットされました
+
+[rospy.internal][INFO] 2017-09-30 13:24:12,003: topic[/camera/image_raw/compressedDepth/parameter_updates] removing connection to http://ubuntu:46279/
+[rospy.internal][WARNING] 2017-09-30 13:24:12,003: Unknown error initiating TCP/IP socket to ubuntu:57367 (http://ubuntu:46279/): Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 557, in connect
+    self.read_header()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 650, in read_header
+    self._validate_header(read_ros_handshake_header(sock, self.read_buff, self.protocol.buff_size))
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/network.py", line 362, in read_ros_handshake_header
+    d = sock.recv(buff_size)
+error: [Errno 104] 接続が相手からリセットされました
+
+[rospy.internal][INFO] 2017-09-30 13:24:12,004: topic[/camera/image_raw/compressed/parameter_updates] removing connection to http://ubuntu:46279/
+[rospy.internal][WARNING] 2017-09-30 13:24:12,004: Unknown error initiating TCP/IP socket to ubuntu:57367 (http://ubuntu:46279/): Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 557, in connect
+    self.read_header()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 650, in read_header
+    self._validate_header(read_ros_handshake_header(sock, self.read_buff, self.protocol.buff_size))
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/network.py", line 362, in read_ros_handshake_header
+    d = sock.recv(buff_size)
+error: [Errno 104] 接続が相手からリセットされました
+
+[rospy.internal][INFO] 2017-09-30 13:24:12,004: topic[/camera/image_raw/theora/parameter_descriptions] removing connection to http://ubuntu:46279/
+[rospy.internal][WARNING] 2017-09-30 13:24:12,004: Unknown error initiating TCP/IP socket to ubuntu:57367 (http://ubuntu:46279/): Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 557, in connect
+    self.read_header()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 650, in read_header
+    self._validate_header(read_ros_handshake_header(sock, self.read_buff, self.protocol.buff_size))
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/network.py", line 362, in read_ros_handshake_header
+    d = sock.recv(buff_size)
+error: [Errno 104] 接続が相手からリセットされました
+
+[rospy.internal][INFO] 2017-09-30 13:24:12,004: topic[/camera/image_raw/theora/parameter_updates] removing connection to http://ubuntu:46279/
+[rospy.internal][WARNING] 2017-09-30 13:24:12,004: Unknown error initiating TCP/IP socket to ubuntu:57367 (http://ubuntu:46279/): Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 557, in connect
+    self.read_header()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 650, in read_header
+    self._validate_header(read_ros_handshake_header(sock, self.read_buff, self.protocol.buff_size))
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/network.py", line 362, in read_ros_handshake_header
+    d = sock.recv(buff_size)
+error: [Errno 104] 接続が相手からリセットされました
+
+[rospy.internal][INFO] 2017-09-30 13:24:12,004: topic[/camera/image_raw/compressed/parameter_descriptions] removing connection to http://ubuntu:46279/
+[rospy.internal][INFO] 2017-09-30 13:24:12,219: topic impl's ref count is zero, deleting topic /mask_orange/parameter_descriptions...
+[rospy.internal][WARNING] 2017-09-30 13:24:12,219: Unknown error initiating TCP/IP socket to ubuntu:37048 (http://ubuntu:38772/): Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 557, in connect
+    self.read_header()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 650, in read_header
+    self._validate_header(read_ros_handshake_header(sock, self.read_buff, self.protocol.buff_size))
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/network.py", line 364, in read_ros_handshake_header
+    raise ROSHandshakeException("connection from sender terminated before handshake header received. %s bytes were received. Please check sender for additional details."%b.tell())
+ROSHandshakeException: connection from sender terminated before handshake header received. 0 bytes were received. Please check sender for additional details.
+
+[rospy.internal][INFO] 2017-09-30 13:24:12,224: topic[/mask_orange/parameter_descriptions] removing connection to http://ubuntu:38772/
+[rospy.internal][INFO] 2017-09-30 13:24:12,224: topic[/mask_orange/parameter_descriptions] removing connection to http://ubuntu:38772/
+[rospy.topics][ERROR] 2017-09-30 13:24:12,224: Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 326, in close
+    c.close()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 838, in close
+    self.socket.close()
+AttributeError: 'NoneType' object has no attribute 'close'
+
+[rospy.internal][INFO] 2017-09-30 13:24:12,230: topic impl's ref count is zero, deleting topic /mask_orange/parameter_updates...
+[rospy.internal][WARNING] 2017-09-30 13:24:12,230: Unknown error initiating TCP/IP socket to ubuntu:37048 (http://ubuntu:38772/): Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 557, in connect
+    self.read_header()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 650, in read_header
+    self._validate_header(read_ros_handshake_header(sock, self.read_buff, self.protocol.buff_size))
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/network.py", line 364, in read_ros_handshake_header
+    raise ROSHandshakeException("connection from sender terminated before handshake header received. %s bytes were received. Please check sender for additional details."%b.tell())
+ROSHandshakeException: connection from sender terminated before handshake header received. 0 bytes were received. Please check sender for additional details.
+
+[rospy.internal][INFO] 2017-09-30 13:24:12,230: topic[/mask_orange/parameter_updates] removing connection to http://ubuntu:38772/
+[rospy.internal][INFO] 2017-09-30 13:24:12,237: topic[/mask_orange/parameter_updates] removing connection to http://ubuntu:38772/
+[rospy.topics][ERROR] 2017-09-30 13:24:12,237: Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 326, in close
+    c.close()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 838, in close
+    self.socket.close()
+AttributeError: 'NoneType' object has no attribute 'close'
+
+[rospy.internal][WARNING] 2017-09-30 13:24:12,365: Unknown error initiating TCP/IP socket to ubuntu:37048 (http://ubuntu:38772/): Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 557, in connect
+    self.read_header()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 650, in read_header
+    self._validate_header(read_ros_handshake_header(sock, self.read_buff, self.protocol.buff_size))
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/network.py", line 362, in read_ros_handshake_header
+    d = sock.recv(buff_size)
+error: [Errno 104] 接続が相手からリセットされました
+
+[rospy.internal][INFO] 2017-09-30 13:24:12,365: topic[/image/compressedDepth/parameter_descriptions] removing connection to http://ubuntu:38772/
+[rospy.internal][WARNING] 2017-09-30 13:24:12,365: Unknown error initiating TCP/IP socket to ubuntu:37048 (http://ubuntu:38772/): Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 557, in connect
+    self.read_header()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 650, in read_header
+    self._validate_header(read_ros_handshake_header(sock, self.read_buff, self.protocol.buff_size))
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/network.py", line 362, in read_ros_handshake_header
+    d = sock.recv(buff_size)
+error: [Errno 104] 接続が相手からリセットされました
+
+[rospy.internal][INFO] 2017-09-30 13:24:12,365: topic[/image/compressedDepth/parameter_updates] removing connection to http://ubuntu:38772/
+[rospy.internal][WARNING] 2017-09-30 13:24:12,373: Unknown error initiating TCP/IP socket to ubuntu:37048 (http://ubuntu:38772/): Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 557, in connect
+    self.read_header()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 650, in read_header
+    self._validate_header(read_ros_handshake_header(sock, self.read_buff, self.protocol.buff_size))
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/network.py", line 362, in read_ros_handshake_header
+    d = sock.recv(buff_size)
+error: [Errno 104] 接続が相手からリセットされました
+
+[rospy.internal][INFO] 2017-09-30 13:24:12,374: topic[/image/compressed/parameter_descriptions] removing connection to http://ubuntu:38772/
+[rospy.internal][WARNING] 2017-09-30 13:24:12,374: Unknown error initiating TCP/IP socket to ubuntu:37048 (http://ubuntu:38772/): Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 557, in connect
+    self.read_header()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 650, in read_header
+    self._validate_header(read_ros_handshake_header(sock, self.read_buff, self.protocol.buff_size))
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/network.py", line 362, in read_ros_handshake_header
+    d = sock.recv(buff_size)
+error: [Errno 104] 接続が相手からリセットされました
+
+[rospy.internal][INFO] 2017-09-30 13:24:12,374: topic[/image/compressed/parameter_updates] removing connection to http://ubuntu:38772/
+[rospy.internal][WARNING] 2017-09-30 13:24:12,374: Unknown error initiating TCP/IP socket to ubuntu:37048 (http://ubuntu:38772/): Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 557, in connect
+    self.read_header()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 650, in read_header
+    self._validate_header(read_ros_handshake_header(sock, self.read_buff, self.protocol.buff_size))
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/network.py", line 362, in read_ros_handshake_header
+    d = sock.recv(buff_size)
+error: [Errno 104] 接続が相手からリセットされました
+
+[rospy.internal][INFO] 2017-09-30 13:24:12,374: topic[/image/theora/parameter_descriptions] removing connection to http://ubuntu:38772/
+[rospy.internal][WARNING] 2017-09-30 13:24:12,374: Unknown error initiating TCP/IP socket to ubuntu:37048 (http://ubuntu:38772/): Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 557, in connect
+    self.read_header()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 650, in read_header
+    self._validate_header(read_ros_handshake_header(sock, self.read_buff, self.protocol.buff_size))
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/network.py", line 362, in read_ros_handshake_header
+    d = sock.recv(buff_size)
+error: [Errno 104] 接続が相手からリセットされました
+
+[rospy.internal][INFO] 2017-09-30 13:24:12,374: topic[/image/theora/parameter_updates] removing connection to http://ubuntu:38772/
+[rospy.core][INFO] 2017-09-30 13:24:12,388: signal_shutdown [atexit]
+[rospy.internal][INFO] 2017-09-30 13:24:12,452: topic[/rosout] removing connection to /rosout
+[rospy.internal][WARNING] 2017-09-30 13:24:12,453: Unknown error initiating TCP/IP socket to ubuntu:42572 (http://ubuntu:40512/): Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 557, in connect
+    self.read_header()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 650, in read_header
+    self._validate_header(read_ros_handshake_header(sock, self.read_buff, self.protocol.buff_size))
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/network.py", line 364, in read_ros_handshake_header
+    raise ROSHandshakeException("connection from sender terminated before handshake header received. %s bytes were received. Please check sender for additional details."%b.tell())
+ROSHandshakeException: connection from sender terminated before handshake header received. 0 bytes were received. Please check sender for additional details.
+
+[rospy.internal][INFO] 2017-09-30 13:24:12,454: topic[/image/marked/compressed/parameter_descriptions] removing connection to http://ubuntu:40512/
+[rospy.internal][INFO] 2017-09-30 13:24:12,461: topic[/image/marked/compressed/parameter_descriptions] removing connection to http://ubuntu:40512/
+[rospy.topics][ERROR] 2017-09-30 13:24:12,461: Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 326, in close
+    c.close()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 838, in close
+    self.socket.close()
+AttributeError: 'NoneType' object has no attribute 'close'
+
+[rospy.internal][WARNING] 2017-09-30 13:24:12,462: Unknown error initiating TCP/IP socket to ubuntu:42572 (http://ubuntu:40512/): Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 557, in connect
+    self.read_header()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 650, in read_header
+    self._validate_header(read_ros_handshake_header(sock, self.read_buff, self.protocol.buff_size))
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/network.py", line 364, in read_ros_handshake_header
+    raise ROSHandshakeException("connection from sender terminated before handshake header received. %s bytes were received. Please check sender for additional details."%b.tell())
+ROSHandshakeException: connection from sender terminated before handshake header received. 0 bytes were received. Please check sender for additional details.
+
+[rospy.internal][INFO] 2017-09-30 13:24:12,462: topic[/image/marked/theora/parameter_descriptions] removing connection to http://ubuntu:40512/
+[rospy.internal][INFO] 2017-09-30 13:24:12,462: topic[/image/marked/theora/parameter_descriptions] removing connection to http://ubuntu:40512/
+[rospy.topics][ERROR] 2017-09-30 13:24:12,462: Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 326, in close
+    c.close()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 838, in close
+    self.socket.close()
+AttributeError: 'NoneType' object has no attribute 'close'
+
+[rospy.internal][WARNING] 2017-09-30 13:24:12,462: Unknown error initiating TCP/IP socket to ubuntu:42572 (http://ubuntu:40512/): Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 557, in connect
+    self.read_header()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 650, in read_header
+    self._validate_header(read_ros_handshake_header(sock, self.read_buff, self.protocol.buff_size))
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/network.py", line 364, in read_ros_handshake_header
+    raise ROSHandshakeException("connection from sender terminated before handshake header received. %s bytes were received. Please check sender for additional details."%b.tell())
+ROSHandshakeException: connection from sender terminated before handshake header received. 0 bytes were received. Please check sender for additional details.
+
+[rospy.internal][INFO] 2017-09-30 13:24:12,462: topic[/image/marked/compressedDepth/parameter_descriptions] removing connection to http://ubuntu:40512/
+[rospy.internal][INFO] 2017-09-30 13:24:12,475: topic[/image/marked/compressedDepth/parameter_descriptions] removing connection to http://ubuntu:40512/
+[rospy.topics][ERROR] 2017-09-30 13:24:12,475: Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 326, in close
+    c.close()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 838, in close
+    self.socket.close()
+AttributeError: 'NoneType' object has no attribute 'close'
+
+[rospy.internal][WARNING] 2017-09-30 13:24:12,476: Unknown error initiating TCP/IP socket to ubuntu:42572 (http://ubuntu:40512/): Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 557, in connect
+    self.read_header()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 650, in read_header
+    self._validate_header(read_ros_handshake_header(sock, self.read_buff, self.protocol.buff_size))
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/network.py", line 364, in read_ros_handshake_header
+    raise ROSHandshakeException("connection from sender terminated before handshake header received. %s bytes were received. Please check sender for additional details."%b.tell())
+ROSHandshakeException: connection from sender terminated before handshake header received. 0 bytes were received. Please check sender for additional details.
+
+[rospy.internal][INFO] 2017-09-30 13:24:12,476: topic[/image_marked/theora/parameter_descriptions] removing connection to http://ubuntu:40512/
+[rospy.internal][INFO] 2017-09-30 13:24:12,476: topic[/image_marked/theora/parameter_descriptions] removing connection to http://ubuntu:40512/
+[rospy.topics][ERROR] 2017-09-30 13:24:12,478: Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 326, in close
+    c.close()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 838, in close
+    self.socket.close()
+AttributeError: 'NoneType' object has no attribute 'close'
+
+[rospy.internal][WARNING] 2017-09-30 13:24:12,479: Unknown error initiating TCP/IP socket to ubuntu:42572 (http://ubuntu:40512/): Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 557, in connect
+    self.read_header()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 650, in read_header
+    self._validate_header(read_ros_handshake_header(sock, self.read_buff, self.protocol.buff_size))
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/network.py", line 364, in read_ros_handshake_header
+    raise ROSHandshakeException("connection from sender terminated before handshake header received. %s bytes were received. Please check sender for additional details."%b.tell())
+ROSHandshakeException: connection from sender terminated before handshake header received. 0 bytes were received. Please check sender for additional details.
+
+[rospy.internal][INFO] 2017-09-30 13:24:12,479: topic[/image_marked/compressed/parameter_updates] removing connection to http://ubuntu:40512/
+[rospy.internal][INFO] 2017-09-30 13:24:12,479: topic[/image_marked/compressed/parameter_updates] removing connection to http://ubuntu:40512/
+[rospy.topics][ERROR] 2017-09-30 13:24:12,479: Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 326, in close
+    c.close()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 838, in close
+    self.socket.close()
+AttributeError: 'NoneType' object has no attribute 'close'
+
+[rospy.internal][WARNING] 2017-09-30 13:24:12,479: Unknown error initiating TCP/IP socket to ubuntu:42572 (http://ubuntu:40512/): Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 557, in connect
+    self.read_header()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 650, in read_header
+    self._validate_header(read_ros_handshake_header(sock, self.read_buff, self.protocol.buff_size))
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/network.py", line 364, in read_ros_handshake_header
+    raise ROSHandshakeException("connection from sender terminated before handshake header received. %s bytes were received. Please check sender for additional details."%b.tell())
+ROSHandshakeException: connection from sender terminated before handshake header received. 0 bytes were received. Please check sender for additional details.
+
+[rospy.internal][INFO] 2017-09-30 13:24:12,479: topic[/image_marked/compressedDepth/parameter_descriptions] removing connection to http://ubuntu:40512/
+[rospy.internal][INFO] 2017-09-30 13:24:12,479: topic[/image_marked/compressedDepth/parameter_descriptions] removing connection to http://ubuntu:40512/
+[rospy.topics][ERROR] 2017-09-30 13:24:12,479: Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 326, in close
+    c.close()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 838, in close
+    self.socket.close()
+AttributeError: 'NoneType' object has no attribute 'close'
+
+[rospy.internal][WARNING] 2017-09-30 13:24:12,482: Unknown error initiating TCP/IP socket to ubuntu:42572 (http://ubuntu:40512/): Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 557, in connect
+    self.read_header()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 650, in read_header
+    self._validate_header(read_ros_handshake_header(sock, self.read_buff, self.protocol.buff_size))
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/network.py", line 364, in read_ros_handshake_header
+    raise ROSHandshakeException("connection from sender terminated before handshake header received. %s bytes were received. Please check sender for additional details."%b.tell())
+ROSHandshakeException: connection from sender terminated before handshake header received. 0 bytes were received. Please check sender for additional details.
+
+[rospy.internal][INFO] 2017-09-30 13:24:12,483: topic[/image_marked/compressedDepth/parameter_updates] removing connection to http://ubuntu:40512/
+[rospy.internal][INFO] 2017-09-30 13:24:12,483: topic[/image_marked/compressedDepth/parameter_updates] removing connection to http://ubuntu:40512/
+[rospy.topics][ERROR] 2017-09-30 13:24:12,483: Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 326, in close
+    c.close()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 838, in close
+    self.socket.close()
+AttributeError: 'NoneType' object has no attribute 'close'
+
+[rospy.internal][WARNING] 2017-09-30 13:24:12,483: Unknown error initiating TCP/IP socket to ubuntu:42572 (http://ubuntu:40512/): Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 557, in connect
+    self.read_header()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 650, in read_header
+    self._validate_header(read_ros_handshake_header(sock, self.read_buff, self.protocol.buff_size))
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/network.py", line 364, in read_ros_handshake_header
+    raise ROSHandshakeException("connection from sender terminated before handshake header received. %s bytes were received. Please check sender for additional details."%b.tell())
+ROSHandshakeException: connection from sender terminated before handshake header received. 0 bytes were received. Please check sender for additional details.
+
+[rospy.internal][INFO] 2017-09-30 13:24:12,483: topic[/image/marked/theora/parameter_updates] removing connection to http://ubuntu:40512/
+[rospy.internal][INFO] 2017-09-30 13:24:12,483: topic[/image/marked/theora/parameter_updates] removing connection to http://ubuntu:40512/
+[rospy.topics][ERROR] 2017-09-30 13:24:12,483: Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 326, in close
+    c.close()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 838, in close
+    self.socket.close()
+AttributeError: 'NoneType' object has no attribute 'close'
+
+[rospy.internal][WARNING] 2017-09-30 13:24:12,483: Unknown error initiating TCP/IP socket to ubuntu:42572 (http://ubuntu:40512/): Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 557, in connect
+    self.read_header()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 650, in read_header
+    self._validate_header(read_ros_handshake_header(sock, self.read_buff, self.protocol.buff_size))
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/network.py", line 364, in read_ros_handshake_header
+    raise ROSHandshakeException("connection from sender terminated before handshake header received. %s bytes were received. Please check sender for additional details."%b.tell())
+ROSHandshakeException: connection from sender terminated before handshake header received. 0 bytes were received. Please check sender for additional details.
+
+[rospy.internal][INFO] 2017-09-30 13:24:12,483: topic[/view/parameter_updates] removing connection to http://ubuntu:40512/
+[rospy.internal][INFO] 2017-09-30 13:24:12,483: topic[/view/parameter_updates] removing connection to http://ubuntu:40512/
+[rospy.topics][ERROR] 2017-09-30 13:24:12,484: Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 326, in close
+    c.close()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 838, in close
+    self.socket.close()
+AttributeError: 'NoneType' object has no attribute 'close'
+
+[rospy.internal][WARNING] 2017-09-30 13:24:12,484: Unknown error initiating TCP/IP socket to ubuntu:42572 (http://ubuntu:40512/): Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 557, in connect
+    self.read_header()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 650, in read_header
+    self._validate_header(read_ros_handshake_header(sock, self.read_buff, self.protocol.buff_size))
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/network.py", line 364, in read_ros_handshake_header
+    raise ROSHandshakeException("connection from sender terminated before handshake header received. %s bytes were received. Please check sender for additional details."%b.tell())
+ROSHandshakeException: connection from sender terminated before handshake header received. 0 bytes were received. Please check sender for additional details.
+
+[rospy.internal][INFO] 2017-09-30 13:24:12,484: topic[/image_marked/theora/parameter_updates] removing connection to http://ubuntu:40512/
+[rospy.internal][INFO] 2017-09-30 13:24:12,485: topic[/image_marked/theora/parameter_updates] removing connection to http://ubuntu:40512/
+[rospy.topics][ERROR] 2017-09-30 13:24:12,486: Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 326, in close
+    c.close()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 838, in close
+    self.socket.close()
+AttributeError: 'NoneType' object has no attribute 'close'
+
+[rospy.internal][WARNING] 2017-09-30 13:24:12,486: Unknown error initiating TCP/IP socket to ubuntu:42572 (http://ubuntu:40512/): Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 557, in connect
+    self.read_header()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 650, in read_header
+    self._validate_header(read_ros_handshake_header(sock, self.read_buff, self.protocol.buff_size))
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/network.py", line 364, in read_ros_handshake_header
+    raise ROSHandshakeException("connection from sender terminated before handshake header received. %s bytes were received. Please check sender for additional details."%b.tell())
+ROSHandshakeException: connection from sender terminated before handshake header received. 0 bytes were received. Please check sender for additional details.
+
+[rospy.internal][INFO] 2017-09-30 13:24:12,486: topic[/image/marked/compressed/parameter_updates] removing connection to http://ubuntu:40512/
+[rospy.internal][INFO] 2017-09-30 13:24:12,486: topic[/image/marked/compressed/parameter_updates] removing connection to http://ubuntu:40512/
+[rospy.topics][ERROR] 2017-09-30 13:24:12,486: Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 326, in close
+    c.close()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 838, in close
+    self.socket.close()
+AttributeError: 'NoneType' object has no attribute 'close'
+
+[rospy.internal][WARNING] 2017-09-30 13:24:12,486: Unknown error initiating TCP/IP socket to ubuntu:42572 (http://ubuntu:40512/): Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 557, in connect
+    self.read_header()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 650, in read_header
+    self._validate_header(read_ros_handshake_header(sock, self.read_buff, self.protocol.buff_size))
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/network.py", line 364, in read_ros_handshake_header
+    raise ROSHandshakeException("connection from sender terminated before handshake header received. %s bytes were received. Please check sender for additional details."%b.tell())
+ROSHandshakeException: connection from sender terminated before handshake header received. 0 bytes were received. Please check sender for additional details.
+
+[rospy.internal][INFO] 2017-09-30 13:24:12,486: topic[/image/marked/compressedDepth/parameter_updates] removing connection to http://ubuntu:40512/
+[rospy.internal][INFO] 2017-09-30 13:24:12,486: topic[/image/marked/compressedDepth/parameter_updates] removing connection to http://ubuntu:40512/
+[rospy.topics][ERROR] 2017-09-30 13:24:12,487: Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 326, in close
+    c.close()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 838, in close
+    self.socket.close()
+AttributeError: 'NoneType' object has no attribute 'close'
+
+[rospy.internal][WARNING] 2017-09-30 13:24:12,493: Unknown error initiating TCP/IP socket to ubuntu:42572 (http://ubuntu:40512/): Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 557, in connect
+    self.read_header()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 650, in read_header
+    self._validate_header(read_ros_handshake_header(sock, self.read_buff, self.protocol.buff_size))
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/network.py", line 364, in read_ros_handshake_header
+    raise ROSHandshakeException("connection from sender terminated before handshake header received. %s bytes were received. Please check sender for additional details."%b.tell())
+ROSHandshakeException: connection from sender terminated before handshake header received. 0 bytes were received. Please check sender for additional details.
+
+[rospy.internal][INFO] 2017-09-30 13:24:12,494: topic[/view/parameter_descriptions] removing connection to http://ubuntu:40512/
+[rospy.internal][INFO] 2017-09-30 13:24:12,499: topic[/view/parameter_descriptions] removing connection to http://ubuntu:40512/
+[rospy.topics][ERROR] 2017-09-30 13:24:12,499: Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 326, in close
+    c.close()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 838, in close
+    self.socket.close()
+AttributeError: 'NoneType' object has no attribute 'close'
+
+[rospy.internal][WARNING] 2017-09-30 13:24:12,502: Unknown error initiating TCP/IP socket to ubuntu:42572 (http://ubuntu:40512/): Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 557, in connect
+    self.read_header()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 650, in read_header
+    self._validate_header(read_ros_handshake_header(sock, self.read_buff, self.protocol.buff_size))
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/network.py", line 364, in read_ros_handshake_header
+    raise ROSHandshakeException("connection from sender terminated before handshake header received. %s bytes were received. Please check sender for additional details."%b.tell())
+ROSHandshakeException: connection from sender terminated before handshake header received. 0 bytes were received. Please check sender for additional details.
+
+[rospy.internal][INFO] 2017-09-30 13:24:12,502: topic[/image_marked/compressed/parameter_descriptions] removing connection to http://ubuntu:40512/
+[rospy.internal][INFO] 2017-09-30 13:24:12,502: topic[/image_marked/compressed/parameter_descriptions] removing connection to http://ubuntu:40512/
+[rospy.topics][ERROR] 2017-09-30 13:24:12,502: Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 326, in close
+    c.close()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 838, in close
+    self.socket.close()
+AttributeError: 'NoneType' object has no attribute 'close'
+
+[rospy.impl.masterslave][INFO] 2017-09-30 13:24:12,502: atexit

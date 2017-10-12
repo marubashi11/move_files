@@ -1,0 +1,5 @@
+
+
+1507619464.757125056  Node Startup
+1507619499.979611978 INFO [/home/marubashi/ros_practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [hello]
+1507619571.358129682 INFO [/home/marubashi/ros_practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [world]

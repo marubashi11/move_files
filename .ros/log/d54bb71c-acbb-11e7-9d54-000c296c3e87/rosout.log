@@ -1,0 +1,514 @@
+
+
+1507530840.033934728  Node Startup
+1507531220.542575919 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test0
+1507531221.542837978 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test1
+1507531222.543703205 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test2
+1507531223.543010475 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test3
+1507531224.543652662 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test4
+1507531225.542990872 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test5
+1507531226.542903400 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test6
+1507531227.543438645 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test7
+1507531228.543179846 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test8
+1507531229.543327681 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test9
+1507531230.543256572 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test10
+1507531231.543612781 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test11
+1507531232.542876188 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test12
+1507531233.542823917 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test13
+1507531234.543145639 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test14
+1507531235.543595388 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test15
+1507531236.543377325 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test16
+1507531237.542826627 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test17
+1507531238.543606239 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test18
+1507531239.543682119 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test19
+1507531240.543173627 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test20
+1507531241.543546988 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test21
+1507531242.543215739 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test22
+1507531243.542783219 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test23
+1507531244.543078440 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test24
+1507531245.542747030 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test25
+1507531246.542919955 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test26
+1507531247.543377180 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test27
+1507531248.543789770 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test28
+1507531249.543688016 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test29
+1507531250.543543556 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test30
+1507531251.543545511 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test31
+1507531252.543313443 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test32
+1507531253.542760779 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test33
+1507531254.543214638 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test34
+1507531255.543782243 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test35
+1507531256.543522492 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test36
+1507531257.543294495 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test37
+1507531258.543597990 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test38
+1507531259.543326913 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test39
+1507531260.543728541 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test40
+1507531261.543543409 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test41
+1507531262.543280254 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test42
+1507531263.543791222 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test43
+1507531264.543611373 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test44
+1507531265.542672260 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test45
+1507531266.544406686 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test46
+1507531267.543795064 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test47
+1507531268.543780867 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test48
+1507531269.542741103 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test49
+1507531270.543740576 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test50
+1507531271.542682323 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test51
+1507531272.543160612 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test52
+1507531273.542689719 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test53
+1507531274.543593505 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test54
+1507531275.543061712 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test55
+1507531276.543731072 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test56
+1507531277.543462190 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test57
+1507531278.543759599 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test58
+1507531279.542739759 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test59
+1507531280.543762082 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test60
+1507531281.543512569 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test61
+1507531282.543651021 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test62
+1507531283.542790000 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test63
+1507531284.543800779 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test64
+1507531285.543697837 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test65
+1507531286.543332867 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test66
+1507531287.542730027 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test67
+1507531288.543213817 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test68
+1507531289.543127895 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test69
+1507531290.543158320 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test70
+1507531291.543034908 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test71
+1507531292.543122170 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test72
+1507531293.542943364 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test73
+1507531294.542774459 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test74
+1507531295.542910386 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test75
+1507531296.542613512 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test76
+1507531297.542876150 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test77
+1507531298.543414754 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test78
+1507531299.542652324 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test79
+1507531300.543893040 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test80
+1507531301.542690370 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test81
+1507531302.542913351 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test82
+1507531303.542564691 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test83
+1507531304.542741637 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test84
+1507531305.542938197 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test85
+1507531306.542654813 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test86
+1507531307.542838951 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test87
+1507531308.543376017 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test88
+1507531309.543402309 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test89
+1507531310.543267063 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test90
+1507531311.542717575 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test91
+1507531312.542881749 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test92
+1507531313.542618867 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test93
+1507531314.542620580 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test94
+1507531315.543227199 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test95
+1507531316.543494183 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test96
+1507531317.543422676 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test97
+1507531318.543741982 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test98
+1507531319.542899769 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test99
+1507531320.542810963 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test100
+1507531321.543465369 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test101
+1507531322.543276976 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test102
+1507531323.543143074 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test103
+1507531324.543312424 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test104
+1507531325.542751252 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test105
+1507531326.543071224 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test106
+1507531327.543294092 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test107
+1507531328.543449947 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test108
+1507531329.543540361 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test109
+1507531330.542847016 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test110
+1507531331.543158192 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test111
+1507531332.543882857 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test112
+1507531333.543303402 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test113
+1507531334.542712537 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test114
+1507531335.544200744 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test115
+1507531336.543377326 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test116
+1507531337.542664823 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test117
+1507531338.543239448 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test118
+1507531339.542792257 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test119
+1507531340.542699055 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test120
+1507531341.543397929 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test121
+1507531342.543205865 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test122
+1507531343.543532364 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test123
+1507531344.542821369 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test124
+1507531345.543262846 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test125
+1507531346.543442401 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test126
+1507531347.543630076 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test127
+1507531348.543214316 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test128
+1507531349.543546095 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test129
+1507531350.543788928 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test130
+1507531351.542856358 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test131
+1507531352.543547643 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test132
+1507531353.542807413 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test133
+1507531354.543038135 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test134
+1507531355.543325449 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test135
+1507531356.543416567 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test136
+1507531357.543621078 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test137
+1507531358.543654986 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test138
+1507531359.543179261 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test139
+1507531360.543528840 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test140
+1507531361.543028808 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test141
+1507531362.543386965 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test142
+1507531363.543522517 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test143
+1507531364.543493777 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test144
+1507531365.543211465 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test145
+1507531366.542964963 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test146
+1507531367.543518005 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test147
+1507531368.543054208 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test148
+1507531369.542674242 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test149
+1507531370.543753173 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test150
+1507531371.543802810 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test151
+1507531372.543579559 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test152
+1507531373.543614512 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test153
+1507531374.543661436 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test154
+1507531375.543576284 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test155
+1507531376.543501723 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test156
+1507531377.543314390 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test157
+1507531378.543073579 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test158
+1507531379.543755166 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test159
+1507531380.543520490 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test160
+1507531381.542942933 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test161
+1507531382.543554266 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test162
+1507531383.542881887 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test163
+1507531384.543612464 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test164
+1507531385.542839577 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test165
+1507531386.542695521 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test166
+1507531387.543581482 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test167
+1507531388.543194807 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test168
+1507531389.542999742 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test169
+1507531390.543592927 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test170
+1507531391.543318681 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test171
+1507531392.543619373 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test172
+1507531393.543443091 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test173
+1507531394.543456329 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test174
+1507531395.543220915 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test175
+1507531396.542982716 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test176
+1507531397.543304318 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test177
+1507531398.542723930 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test178
+1507531399.543202813 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test179
+1507531400.543218087 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test180
+1507531401.543137423 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test181
+1507531401.544148720 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test181]
+1507531402.542688351 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test182
+1507531402.543301057 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test182]
+1507531403.543373187 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test183
+1507531403.543928959 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test183]
+1507531404.543367829 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test184
+1507531404.544103536 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test184]
+1507531405.543080500 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test185
+1507531405.543622909 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test185]
+1507531406.543316314 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test186
+1507531406.543880758 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test186]
+1507531407.542659528 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test187
+1507531407.543159651 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test187]
+1507531408.543126137 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test188
+1507531408.543675023 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test188]
+1507531409.542969080 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test189
+1507531409.543494670 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test189]
+1507531410.543587663 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test190
+1507531410.544238579 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test190]
+1507531411.542673270 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test191
+1507531411.543239243 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test191]
+1507531412.543404020 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test192
+1507531412.543967493 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test192]
+1507531413.543392340 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test193
+1507531413.543887766 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test193]
+1507531414.543682990 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test194
+1507531414.544249869 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test194]
+1507531415.543404707 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test195
+1507531415.543666385 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test195]
+1507531416.543500955 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test196
+1507531416.544060575 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test196]
+1507531417.542740801 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test197
+1507531417.543361623 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test197]
+1507531418.542933835 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test198
+1507531418.543497549 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test198]
+1507531419.542953526 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test199
+1507531419.543689824 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test199]
+1507531420.543506092 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test200
+1507531420.544397952 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test200]
+1507531421.543427799 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test201
+1507531421.544118635 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test201]
+1507531422.542845868 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test202
+1507531422.543424494 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test202]
+1507531423.543131755 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test203
+1507531423.543835095 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test203]
+1507531424.543057080 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test204
+1507531424.543534128 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test204]
+1507531425.543009172 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test205
+1507531425.543194633 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test205]
+1507531426.543487170 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test206
+1507531426.544161081 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test206]
+1507531427.543203976 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test207
+1507531427.543408413 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test207]
+1507531428.543385908 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test208
+1507531428.544301874 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test208]
+1507531429.544053739 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test209
+1507531429.544699968 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test209]
+1507531430.543123769 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test210
+1507531430.544024528 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test210]
+1507531431.543224026 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test211
+1507531431.544116671 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test211]
+1507531432.543085026 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test212
+1507531432.543917371 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test212]
+1507531433.543562265 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test213
+1507531433.543794233 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test213]
+1507531434.543202148 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test214
+1507531434.544122247 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test214]
+1507531435.542562252 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test215
+1507531435.542773339 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test215]
+1507531436.543184767 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test216
+1507531436.543595217 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test216]
+1507531437.543000394 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test217
+1507531437.543242709 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test217]
+1507531438.543380443 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test218
+1507531438.543594429 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test218]
+1507531439.543569776 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test219
+1507531439.544225734 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test219]
+1507531440.542619704 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test220
+1507531440.542947632 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test220]
+1507531441.543690777 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test221
+1507531441.544581884 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test221]
+1507531442.543436435 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test222
+1507531442.543669152 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test222]
+1507531443.543688759 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test223
+1507531443.544455307 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test223]
+1507531444.542920553 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test224
+1507531444.543488538 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test224]
+1507531445.542969288 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test225
+1507531445.543529438 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test225]
+1507531446.543705860 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test226
+1507531446.544359811 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test226]
+1507531447.543127922 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test227
+1507531447.543690320 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test227]
+1507531448.542823144 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test228
+1507531448.543379983 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test228]
+1507531449.543412706 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test229
+1507531449.544104238 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test229]
+1507531450.543616577 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test230
+1507531450.544174184 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test230]
+1507531451.542681283 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test231
+1507531451.543171937 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test231]
+1507531452.543470327 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test232
+1507531452.543907313 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test232]
+1507531453.542851798 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test233
+1507531453.543372467 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test233]
+1507531454.542750772 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test234
+1507531454.543252433 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test234]
+1507531455.542782674 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test235
+1507531455.543118777 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test235]
+1507531456.543186711 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test236
+1507531456.543857532 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test236]
+1507531457.542971834 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test237
+1507531457.543670894 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test237]
+1507531458.543417365 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test238
+1507531458.544175439 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test238]
+1507531459.543668954 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test239
+1507531459.544229476 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test239]
+1507531460.543098936 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test240
+1507531460.543657173 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test240]
+1507531461.543186079 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test241
+1507531461.543742532 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test241]
+1507531462.543552669 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test242
+1507531462.544118909 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test242]
+1507531463.542922139 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test243
+1507531463.543425516 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test243]
+1507531464.543167326 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test244
+1507531464.543725560 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test244]
+1507531465.543090473 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test245
+1507531465.543652694 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test245]
+1507531466.542804973 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test246
+1507531466.543427634 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test246]
+1507531467.543541127 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test247
+1507531467.544103440 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test247]
+1507531468.543383337 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test248
+1507531468.543714274 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test248]
+1507531469.543299542 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test249
+1507531469.543985781 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test249]
+1507531470.543404623 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test250
+1507531470.543966246 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test250]
+1507531471.542656120 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test251
+1507531471.543288954 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test251]
+1507531472.543204060 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test252
+1507531472.543920599 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test252]
+1507531473.543017990 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test253
+1507531473.543743240 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test253]
+1507531474.543284547 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test254
+1507531474.543801035 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test254]
+1507531475.542927331 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test255
+1507531475.543592210 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test255]
+1507531476.543172598 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test256
+1507531476.543734037 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test256]
+1507531477.543662235 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test257
+1507531477.544218549 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test257]
+1507531478.543173894 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test258
+1507531478.543733927 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test258]
+1507531479.543208868 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test259
+1507531479.543816432 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test259]
+1507531480.543121967 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test260
+1507531480.543818679 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test260]
+1507531481.542629402 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test261
+1507531481.543040238 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test261]
+1507531482.542654411 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test262
+1507531482.542889973 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test262]
+1507531483.543274199 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test263
+1507531483.543708850 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test263]
+1507531484.542941073 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test264
+1507531484.543385600 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test264]
+1507531485.542680490 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test265
+1507531485.543140820 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test265]
+1507531486.542880678 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test266
+1507531486.543067893 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test266]
+1507531487.543136495 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test267
+1507531487.543418146 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test267]
+1507531488.542981306 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test268
+1507531488.544056029 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test268]
+1507531489.543514971 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test269
+1507531489.544288782 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test269]
+1507531490.543471704 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test270
+1507531490.544198611 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test270]
+1507531491.543630402 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test271
+1507531491.544286000 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test271]
+1507531492.543088595 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test272
+1507531492.543833686 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test272]
+1507531493.543809879 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test273
+1507531493.544390118 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test273]
+1507531494.543076406 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test274
+1507531494.543856210 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test274]
+1507531495.542745550 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test275
+1507531495.543380523 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test275]
+1507531496.542714056 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test276
+1507531496.543283747 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test276]
+1507531497.542954489 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test277
+1507531497.543623319 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test277]
+1507531498.543285504 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test278
+1507531498.544008310 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test278]
+1507531499.543713447 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test279
+1507531499.544267563 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test279]
+1507531500.543632428 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test280
+1507531500.544280727 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test280]
+1507531501.542915576 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test281
+1507531501.543485725 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test281]
+1507531502.542844406 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test282
+1507531502.543474368 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test282]
+1507531503.543641347 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test283
+1507531503.544410585 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test283]
+1507531504.543474868 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test284
+1507531504.544224513 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test284]
+1507531505.543339921 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test285
+1507531505.544085918 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test285]
+1507531506.543515314 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test286
+1507531506.544273927 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test286]
+1507531507.543771668 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test287
+1507531507.544516524 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test287]
+1507531508.542953258 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test288
+1507531508.543260834 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test288]
+1507531509.543156517 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test289
+1507531509.543960822 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test289]
+1507531510.543637677 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test290
+1507531510.545030273 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test290]
+1507531511.543152843 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test291
+1507531511.543588945 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test291]
+1507531512.543160561 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test292
+1507531512.543910813 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test292]
+1507531513.543367779 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test293
+1507531513.543611009 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test293]
+1507531514.542545178 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test294
+1507531514.542736587 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test294]
+1507531515.542538837 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test295
+1507531515.542736369 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test295]
+1507531516.543059607 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test296
+1507531516.543274109 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test296]
+1507531517.542868298 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test297
+1507531517.543067433 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test297]
+1507531518.543405845 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test298
+1507531518.543851597 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test298]
+1507531519.542739911 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test299
+1507531519.543099109 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test299]
+1507531520.542739722 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test300
+1507531520.542939373 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test300]
+1507531521.543460150 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test301
+1507531521.544022634 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test301]
+1507531522.543833320 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test302
+1507531522.544725713 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test302]
+1507531523.542933318 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test303
+1507531523.543433521 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test303]
+1507531524.542694780 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test304
+1507531524.543240425 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test304]
+1507531525.543557833 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test305
+1507531525.544255069 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test305]
+1507531526.543602177 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test306
+1507531526.543885160 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test306]
+1507531527.543752287 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test307
+1507531527.544346789 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test307]
+1507531528.542602664 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test308
+1507531528.542816608 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test308]
+1507531529.543554382 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test309
+1507531529.544141186 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test309]
+1507531530.543833856 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test310
+1507531530.544526359 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test310]
+1507531531.542604141 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test311
+1507531531.543031084 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test311]
+1507531532.543486302 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test312
+1507531532.544257200 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test312]
+1507531533.543302447 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test313
+1507531533.544075957 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test313]
+1507531534.543834409 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test314
+1507531534.544577492 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test314]
+1507531535.543519094 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test315
+1507531535.544246580 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test315]
+1507531536.543390390 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test316
+1507531536.544260412 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test316]
+1507531537.543342760 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test317
+1507531537.543998689 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test317]
+1507531538.543532730 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test318
+1507531538.544206863 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test318]
+1507531539.543120673 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test319
+1507531539.543415211 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test319]
+1507531540.543770422 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test320
+1507531540.544412255 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test320]
+1507531541.543024891 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test321
+1507531541.543253953 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test321]
+1507531542.543297711 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test322
+1507531542.543859917 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test322]
+1507531543.543384366 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test323
+1507531543.544210450 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test323]
+1507531544.543163335 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test324
+1507531544.543835894 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test324]
+1507531545.543475970 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test325
+1507531545.544167365 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test325]
+1507531546.543371553 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test326
+1507531546.544046222 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test326]
+1507531547.543475169 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test327
+1507531547.543746005 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test327]
+1507531548.542789041 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test328
+1507531548.543327067 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test328]
+1507531549.543151529 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test329
+1507531549.543844725 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test329]
+1507531550.543338556 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test330
+1507531550.544066844 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test330]
+1507531551.543296241 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test331
+1507531551.543857927 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test331]
+1507531552.543483418 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test332
+1507531552.544128956 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test332]
+1507531553.543330676 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test333
+1507531553.544010171 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test333]
+1507531554.542789095 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test334
+1507531554.543436233 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test334]
+1507531555.542948452 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test335
+1507531555.543509105 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test335]
+1507531556.543564209 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test336
+1507531556.544579090 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test336]
+1507531557.543110032 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test337
+1507531557.543664676 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test337]
+1507531558.543335782 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test338
+1507531558.543889346 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test338]
+1507531559.543496770 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test339
+1507531559.544274322 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test339]
+1507531560.543051670 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test340
+1507531560.543754586 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test340]
+1507531561.543200536 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test341
+1507531561.543908477 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test341]
+1507531562.543143007 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test342
+1507531562.543643303 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test342]
+1507531563.543455343 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test343
+1507531563.544163112 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test343]
+1507531564.543525368 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test344
+1507531564.544035464 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/listener.cpp:6(chatterCallback) [topics: /rosout] I heard: [mic test, mic test344]
+1507531565.542792279 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test345
+1507531566.542598540 INFO [/home/marubashi/practice_ws/src/janken_pkg/src/talker.cpp:20(main) [topics: /rosout, /janken_topic] mic test, mic test346

@@ -1,0 +1,5 @@
+
+
+1504605809.313906865  Node Startup
+1504605809.693939757 ERROR [/tmp/binarydeb/ros-kinetic-cv-camera-0.1.0/src/cv_camera_node.cpp:22(main) [topics: /rosout] cv camera open failed: device_id 0 cannot be opened
+1504605810.421995083 INFO [/tmp/binarydeb/ros-kinetic-image-view-1.12.20/src/nodes/image_view.cpp:195(main) [topics: /rosout] Using transport "raw"

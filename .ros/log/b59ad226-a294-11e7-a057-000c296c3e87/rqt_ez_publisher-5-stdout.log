@@ -1,0 +1,7 @@
+[INFO] [1506414709.241146]: header/seq is not created
+[INFO] [1506414709.690031]: PluginContainerWidget; /camera/image_raw/header/frame_id is already exists
+[INFO] [1506414709.690718]: PluginContainerWidget; /camera/image_raw/height is already exists
+[INFO] [1506414709.691094]: PluginContainerWidget; /camera/image_raw/width is already exists
+[INFO] [1506414709.695958]: PluginContainerWidget; /camera/image_raw/encoding is already exists
+[INFO] [1506414709.696781]: PluginContainerWidget; /camera/image_raw/is_bigendian is already exists
+[INFO] [1506414709.697981]: PluginContainerWidget; /camera/image_raw/step is already exists

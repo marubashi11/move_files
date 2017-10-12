@@ -1,0 +1,20 @@
+[rospy.client][INFO] 2017-09-26 17:01:29,402: init_node, name[/rqt_gui_py_node_6053], pid[6053]
+[xmlrpc][INFO] 2017-09-26 17:01:29,402: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2017-09-26 17:01:29,402: Started XML-RPC server [http://ubuntu:42471/]
+[rospy.impl.masterslave][INFO] 2017-09-26 17:01:29,403: _ready: http://ubuntu:42471/
+[xmlrpc][INFO] 2017-09-26 17:01:29,403: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2017-09-26 17:01:29,403: Registering with master node http://localhost:11311
+[rospy.init][INFO] 2017-09-26 17:01:29,403: ROS Slave URI: [http://ubuntu:42471/]
+[rospy.init][INFO] 2017-09-26 17:01:29,504: registered with master
+[rospy.rosout][INFO] 2017-09-26 17:01:29,504: initializing /rosout core topic
+[rospy.rosout][INFO] 2017-09-26 17:01:29,506: connected to core topic /rosout
+[rospy.simtime][INFO] 2017-09-26 17:01:29,509: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2017-09-26 17:01:29,786: topic[/rosout] adding connection to [/rosout], count 0
+[rosout][INFO] 2017-09-26 17:04:37,193: header/seq is not created
+[rospy.internal][INFO] 2017-09-26 17:04:37,409: topic[/camera/image_raw] adding connection to [/mask_orange], count 0
+[rosout][WARNING] 2017-09-26 17:04:37,476: time is not supported
+[rosout][WARNING] 2017-09-26 17:04:37,702: time is not supported
+[rospy.core][INFO] 2017-09-26 17:05:03,871: signal_shutdown [atexit]
+[rospy.internal][INFO] 2017-09-26 17:05:03,880: topic[/camera/image_raw] removing connection to /mask_orange
+[rospy.internal][INFO] 2017-09-26 17:05:03,882: topic[/rosout] removing connection to /rosout
+[rospy.impl.masterslave][INFO] 2017-09-26 17:05:03,882: atexit

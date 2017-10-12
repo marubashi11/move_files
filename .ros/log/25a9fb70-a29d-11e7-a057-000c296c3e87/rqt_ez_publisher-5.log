@@ -1,0 +1,18 @@
+[rospy.client][INFO] 2017-09-26 18:29:14,955: init_node, name[/rqt_ez_publisher], pid[11065]
+[xmlrpc][INFO] 2017-09-26 18:29:14,956: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2017-09-26 18:29:14,956: Started XML-RPC server [http://ubuntu:38894/]
+[rospy.impl.masterslave][INFO] 2017-09-26 18:29:14,956: _ready: http://ubuntu:38894/
+[rospy.init][INFO] 2017-09-26 18:29:14,960: ROS Slave URI: [http://ubuntu:38894/]
+[xmlrpc][INFO] 2017-09-26 18:29:14,960: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2017-09-26 18:29:14,960: Registering with master node http://localhost:11311
+[rospy.init][INFO] 2017-09-26 18:29:15,060: registered with master
+[rospy.rosout][INFO] 2017-09-26 18:29:15,061: initializing /rosout core topic
+[rospy.rosout][INFO] 2017-09-26 18:29:15,065: connected to core topic /rosout
+[rospy.simtime][INFO] 2017-09-26 18:29:15,066: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2017-09-26 18:29:15,311: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.internal][INFO] 2017-09-26 18:29:16,955: topic[/camera/image_raw] adding connection to [/mask_orange], count 0
+[rosout][INFO] 2017-09-26 18:29:17,659: PluginContainerWidget; /camera/image_raw/data[0] is already exists
+[rospy.core][INFO] 2017-09-26 18:30:41,157: signal_shutdown [atexit]
+[rospy.internal][INFO] 2017-09-26 18:30:41,161: topic[/camera/image_raw] removing connection to /mask_orange
+[rospy.internal][INFO] 2017-09-26 18:30:41,164: topic[/rosout] removing connection to /rosout
+[rospy.impl.masterslave][INFO] 2017-09-26 18:30:41,164: atexit

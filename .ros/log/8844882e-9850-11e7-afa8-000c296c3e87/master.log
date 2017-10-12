@@ -1,0 +1,33 @@
+[rosmaster.main][INFO] 2017-09-13 15:55:31,413: initialization complete, waiting for shutdown
+[rosmaster.main][INFO] 2017-09-13 15:55:31,413: Starting ROS Master Node
+[xmlrpc][INFO] 2017-09-13 15:55:31,416: XML-RPC server binding to 0.0.0.0:11311
+[rosmaster.master][INFO] 2017-09-13 15:55:31,416: Master initialized: port[11311], uri[http://ubuntu:11311/]
+[xmlrpc][INFO] 2017-09-13 15:55:31,416: Started XML-RPC server [http://ubuntu:11311/]
+[xmlrpc][INFO] 2017-09-13 15:55:31,416: xml rpc node: starting XML-RPC server
+[rosmaster.master][INFO] 2017-09-13 15:55:31,512: +PARAM [/run_id] by /roslaunch
+[rosmaster.master][INFO] 2017-09-13 15:55:31,516: +PARAM [/roslaunch/uris/host_ubuntu__37322] by /roslaunch
+[rosmaster.master][INFO] 2017-09-13 15:55:31,596: +PARAM [/rosversion] by /roslaunch
+[rosmaster.master][INFO] 2017-09-13 15:55:31,596: +PARAM [/rosdistro] by /roslaunch
+[rosmaster.master][INFO] 2017-09-13 15:55:31,706: +SERVICE [/rosout/get_loggers] /rosout http://ubuntu:46453/
+[rosmaster.master][INFO] 2017-09-13 15:55:31,707: +SERVICE [/rosout/set_logger_level] /rosout http://ubuntu:46453/
+[rosmaster.master][INFO] 2017-09-13 15:55:31,710: +PUB [/rosout_agg] /rosout http://ubuntu:46453/
+[rosmaster.master][INFO] 2017-09-13 15:55:31,728: +SUB [/rosout] /rosout http://ubuntu:46453/
+[rosmaster.master][INFO] 2017-09-13 15:55:31,915: +PUB [/rosout] /camera http://ubuntu:38447/
+[rosmaster.master][INFO] 2017-09-13 15:55:31,915: +SERVICE [/camera/get_loggers] /camera http://ubuntu:38447/
+[rosmaster.master][INFO] 2017-09-13 15:55:31,916: +SERVICE [/camera/set_logger_level] /camera http://ubuntu:38447/
+[rosmaster.master][INFO] 2017-09-13 15:55:31,916: publisherUpdate[/rosout] -> http://ubuntu:46453/ ['http://ubuntu:38447/']
+[rosmaster.master][INFO] 2017-09-13 15:55:31,917: publisherUpdate[/rosout] -> http://ubuntu:46453/ ['http://ubuntu:38447/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-09-13 15:55:31,960: +SERVICE [/camera/set_camera_info] /camera http://ubuntu:38447/
+[rosmaster.master][INFO] 2017-09-13 15:55:31,962: -SERVICE [/camera/set_camera_info] /camera rosrpc://ubuntu:55921
+[rosmaster.master][INFO] 2017-09-13 15:55:32,122: -PUB [/rosout] /camera http://ubuntu:38447/
+[rosmaster.master][INFO] 2017-09-13 15:55:32,126: -SERVICE [/camera/get_loggers] /camera rosrpc://ubuntu:55921
+[rosmaster.master][INFO] 2017-09-13 15:55:32,128: -SERVICE [/camera/set_logger_level] /camera rosrpc://ubuntu:55921
+[rosmaster.master][INFO] 2017-09-13 15:55:32,219: publisherUpdate[/rosout] -> http://ubuntu:46453/ []
+[rosmaster.master][INFO] 2017-09-13 15:55:32,221: publisherUpdate[/rosout] -> http://ubuntu:46453/ []: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-09-13 15:55:40,399: -PUB [/rosout_agg] /rosout http://ubuntu:46453/
+[rosmaster.master][INFO] 2017-09-13 15:55:40,400: -SUB [/rosout] /rosout http://ubuntu:46453/
+[rosmaster.master][INFO] 2017-09-13 15:55:40,400: -SERVICE [/rosout/get_loggers] /rosout rosrpc://ubuntu:40027
+[rosmaster.master][INFO] 2017-09-13 15:55:40,401: -SERVICE [/rosout/set_logger_level] /rosout rosrpc://ubuntu:40027
+[rosmaster.main][INFO] 2017-09-13 15:55:40,476: keyboard interrupt, will exit
+[rosmaster.main][INFO] 2017-09-13 15:55:40,476: stopping master...
+[rospy.core][INFO] 2017-09-13 15:55:40,477: signal_shutdown [atexit]

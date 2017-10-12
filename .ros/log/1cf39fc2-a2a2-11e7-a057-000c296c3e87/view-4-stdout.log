@@ -1,0 +1,8 @@
+[33m[ WARN] [1506420281.962055326]: image_view: image has not been remapped! Typical command-line usage:
+	$ ./image_view image:=<image topic> [transport][0m
+PT_1[489, 390]
+Pt[489, 390]
+[0m[ INFO] [1506420331.154456651]: Publish screen point /image/screenpoint (489.000000 390.000000)[0m
+PT_1[489, 390]
+Pt[489, 390]
+[0m[ INFO] [1506420331.985911641]: Publish screen point /image/screenpoint (489.000000 390.000000)[0m

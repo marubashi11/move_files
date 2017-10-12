@@ -1,0 +1,57 @@
+[rosmaster.main][INFO] 2017-08-15 00:44:09,623: initialization complete, waiting for shutdown
+[rosmaster.main][INFO] 2017-08-15 00:44:09,623: Starting ROS Master Node
+[xmlrpc][INFO] 2017-08-15 00:44:09,624: XML-RPC server binding to 0.0.0.0:11311
+[xmlrpc][INFO] 2017-08-15 00:44:09,624: Started XML-RPC server [http://ubuntu:11311/]
+[xmlrpc][INFO] 2017-08-15 00:44:09,624: xml rpc node: starting XML-RPC server
+[rosmaster.master][INFO] 2017-08-15 00:44:09,624: Master initialized: port[11311], uri[http://ubuntu:11311/]
+[rosmaster.master][INFO] 2017-08-15 00:44:09,737: +PARAM [/run_id] by /roslaunch
+[rosmaster.master][INFO] 2017-08-15 00:44:09,749: +PARAM [/roslaunch/uris/host_ubuntu__37972] by /roslaunch
+[rosmaster.master][INFO] 2017-08-15 00:44:09,833: +PARAM [/rosversion] by /roslaunch
+[rosmaster.master][INFO] 2017-08-15 00:44:09,833: +PARAM [/rosdistro] by /roslaunch
+[rosmaster.master][INFO] 2017-08-15 00:44:09,919: +SERVICE [/rosout/get_loggers] /rosout http://ubuntu:44686/
+[rosmaster.master][INFO] 2017-08-15 00:44:09,920: +SERVICE [/rosout/set_logger_level] /rosout http://ubuntu:44686/
+[rosmaster.master][INFO] 2017-08-15 00:44:09,921: +PUB [/rosout_agg] /rosout http://ubuntu:44686/
+[rosmaster.master][INFO] 2017-08-15 00:44:09,925: +SUB [/rosout] /rosout http://ubuntu:44686/
+[rosmaster.master][INFO] 2017-08-15 00:51:33,740: +PUB [/rosout] /talker http://ubuntu:37817/
+[rosmaster.master][INFO] 2017-08-15 00:51:33,741: publisherUpdate[/rosout] -> http://ubuntu:44686/ ['http://ubuntu:37817/']
+[rosmaster.master][INFO] 2017-08-15 00:51:33,742: publisherUpdate[/rosout] -> http://ubuntu:44686/ ['http://ubuntu:37817/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-08-15 00:51:33,743: +SERVICE [/talker/get_loggers] /talker http://ubuntu:37817/
+[rosmaster.master][INFO] 2017-08-15 00:51:33,743: +SERVICE [/talker/set_logger_level] /talker http://ubuntu:37817/
+[rosmaster.master][INFO] 2017-08-15 00:51:33,745: +PUB [/chatter] /talker http://ubuntu:37817/
+[rosmaster.master][INFO] 2017-08-15 00:52:21,673: +PUB [/rosout] /listener http://ubuntu:38870/
+[rosmaster.master][INFO] 2017-08-15 00:52:21,675: +SERVICE [/listener/get_loggers] /listener http://ubuntu:38870/
+[rosmaster.master][INFO] 2017-08-15 00:52:21,677: +SERVICE [/listener/set_logger_level] /listener http://ubuntu:38870/
+[rosmaster.master][INFO] 2017-08-15 00:52:21,687: +SUB [/chatter] /listener http://ubuntu:38870/
+[rosmaster.master][INFO] 2017-08-15 00:52:21,746: publisherUpdate[/rosout] -> http://ubuntu:44686/ ['http://ubuntu:37817/', 'http://ubuntu:38870/']
+[rosmaster.master][INFO] 2017-08-15 00:52:21,748: publisherUpdate[/rosout] -> http://ubuntu:44686/ ['http://ubuntu:37817/', 'http://ubuntu:38870/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-08-15 00:53:57,745: -PUB [/rosout] /listener http://ubuntu:38870/
+[rosmaster.master][INFO] 2017-08-15 00:53:57,746: -SUB [/chatter] /listener http://ubuntu:38870/
+[rosmaster.master][INFO] 2017-08-15 00:53:57,747: -SERVICE [/listener/get_loggers] /listener rosrpc://ubuntu:43402
+[rosmaster.master][INFO] 2017-08-15 00:53:57,748: -SERVICE [/listener/set_logger_level] /listener rosrpc://ubuntu:43402
+[rosmaster.master][INFO] 2017-08-15 00:53:57,844: publisherUpdate[/rosout] -> http://ubuntu:44686/ ['http://ubuntu:37817/']
+[rosmaster.master][INFO] 2017-08-15 00:53:57,847: publisherUpdate[/rosout] -> http://ubuntu:44686/ ['http://ubuntu:37817/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-08-15 00:54:01,073: -PUB [/rosout] /talker http://ubuntu:37817/
+[rosmaster.master][INFO] 2017-08-15 00:54:01,077: -PUB [/chatter] /talker http://ubuntu:37817/
+[rosmaster.master][INFO] 2017-08-15 00:54:01,081: -SERVICE [/talker/get_loggers] /talker rosrpc://ubuntu:47570
+[rosmaster.master][INFO] 2017-08-15 00:54:01,084: -SERVICE [/talker/set_logger_level] /talker rosrpc://ubuntu:47570
+[rosmaster.master][INFO] 2017-08-15 00:54:01,170: publisherUpdate[/rosout] -> http://ubuntu:44686/ []
+[rosmaster.master][INFO] 2017-08-15 00:54:01,173: publisherUpdate[/rosout] -> http://ubuntu:44686/ []: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-08-15 00:54:07,701: +PUB [/rosout] /listener http://ubuntu:38322/
+[rosmaster.master][INFO] 2017-08-15 00:54:07,702: +SERVICE [/listener/get_loggers] /listener http://ubuntu:38322/
+[rosmaster.master][INFO] 2017-08-15 00:54:07,703: +SERVICE [/listener/set_logger_level] /listener http://ubuntu:38322/
+[rosmaster.master][INFO] 2017-08-15 00:54:07,707: +SUB [/chatter] /listener http://ubuntu:38322/
+[rosmaster.master][INFO] 2017-08-15 00:54:07,734: publisherUpdate[/rosout] -> http://ubuntu:44686/ ['http://ubuntu:38322/']
+[rosmaster.master][INFO] 2017-08-15 00:54:07,735: publisherUpdate[/rosout] -> http://ubuntu:44686/ ['http://ubuntu:38322/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-08-15 00:54:11,377: -PUB [/rosout] /listener http://ubuntu:38322/
+[rosmaster.master][INFO] 2017-08-15 00:54:11,378: -SUB [/chatter] /listener http://ubuntu:38322/
+[rosmaster.master][INFO] 2017-08-15 00:54:11,379: -SERVICE [/listener/get_loggers] /listener rosrpc://ubuntu:36012
+[rosmaster.master][INFO] 2017-08-15 00:54:11,379: -SERVICE [/listener/set_logger_level] /listener rosrpc://ubuntu:36012
+[rosmaster.master][INFO] 2017-08-15 00:54:11,477: publisherUpdate[/rosout] -> http://ubuntu:44686/ []
+[rosmaster.master][INFO] 2017-08-15 00:54:11,479: publisherUpdate[/rosout] -> http://ubuntu:44686/ []: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-08-15 02:29:47,568: -PUB [/rosout_agg] /rosout http://ubuntu:44686/
+[rosmaster.master][INFO] 2017-08-15 02:29:47,581: -SUB [/rosout] /rosout http://ubuntu:44686/
+[rosmaster.master][INFO] 2017-08-15 02:29:47,583: -SERVICE [/rosout/get_loggers] /rosout rosrpc://ubuntu:58680
+[rosmaster.master][INFO] 2017-08-15 02:29:47,585: -SERVICE [/rosout/set_logger_level] /rosout rosrpc://ubuntu:58680
+[rosmaster.main][INFO] 2017-08-15 02:29:47,638: keyboard interrupt, will exit
+[rosmaster.main][INFO] 2017-08-15 02:29:47,638: stopping master...
+[rospy.core][INFO] 2017-08-15 02:29:47,640: signal_shutdown [atexit]

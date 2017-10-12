@@ -1,0 +1,30 @@
+
+
+1506412872.911939489  Node Startup
+1506412873.134993924 WARN [/tmp/binarydeb/ros-kinetic-image-view2-2.2.2/image_view2_node.cpp:46(main) [topics: /rosout] image_view: image has not been remapped! Typical command-line usage:
+	$ ./image_view image:=<image topic> [transport]
+1506412874.876302312 INFO [/tmp/binarydeb/ros-kinetic-camera-info-manager-1.11.12/src/camera_info_manager.cpp:227(CameraInfoManager::loadCalibration) [topics: /rosout, /camera/image_raw/compressedDepth, /camera/image_raw/compressedDepth/parameter_descriptions, /camera/image_raw/compressedDepth/parameter_updates, /camera/image_raw/compressed, /camera/image_raw/compressed/parameter_descriptions, /camera/image_raw/compressed/parameter_updates, /camera/image_raw, /camera/image_raw/theora, /camera/image_raw/theora/parameter_descriptions, /camera/image_raw/theora/parameter_updates, /camera/camera_info] using default calibration URL
+1506412874.877133418 INFO [/tmp/binarydeb/ros-kinetic-camera-info-manager-1.11.12/src/camera_info_manager.cpp:220(CameraInfoManager::loadCalibration) [topics: /rosout, /camera/image_raw/compressedDepth, /camera/image_raw/compressedDepth/parameter_descriptions, /camera/image_raw/compressedDepth/parameter_updates, /camera/image_raw/compressed, /camera/image_raw/compressed/parameter_descriptions, /camera/image_raw/compressed/parameter_updates, /camera/image_raw, /camera/image_raw/theora, /camera/image_raw/theora/parameter_descriptions, /camera/image_raw/theora/parameter_updates, /camera/camera_info] camera calibration URL: file:///home/marubashi/.ros/camera_info/camera.yaml
+1506412874.877671103 INFO [/tmp/binarydeb/ros-kinetic-camera-calibration-parsers-1.11.12/src/parse_yml.cpp:231(readCalibrationYml) [topics: /rosout, /camera/image_raw/compressedDepth, /camera/image_raw/compressedDepth/parameter_descriptions, /camera/image_raw/compressedDepth/parameter_updates, /camera/image_raw/compressed, /camera/image_raw/compressed/parameter_descriptions, /camera/image_raw/compressed/parameter_updates, /camera/image_raw, /camera/image_raw/theora, /camera/image_raw/theora/parameter_descriptions, /camera/image_raw/theora/parameter_updates, /camera/camera_info] Unable to open camera calibration file [/home/marubashi/.ros/camera_info/camera.yaml]
+1506412874.878363520 WARN [/tmp/binarydeb/ros-kinetic-camera-info-manager-1.11.12/src/camera_info_manager.cpp:293(CameraInfoManager::loadCalibrationFile) [topics: /rosout, /camera/image_raw/compressedDepth, /camera/image_raw/compressedDepth/parameter_descriptions, /camera/image_raw/compressedDepth/parameter_updates, /camera/image_raw/compressed, /camera/image_raw/compressed/parameter_descriptions, /camera/image_raw/compressed/parameter_updates, /camera/image_raw, /camera/image_raw/theora, /camera/image_raw/theora/parameter_descriptions, /camera/image_raw/theora/parameter_updates, /camera/camera_info] Camera calibration file /home/marubashi/.ros/camera_info/camera.yaml not found.
+1506412953.308861017 DEBUG [:0() [topics: ] 
+1506412953.326351881 INFO [:0() [topics: ] 
+1506412953.341911077  [:0() [topics: ] 
+1506412953.362763881 	 [:0() [topics: ] 
+1506412953.379456043  [:0() [topics: ] 
+1506412953.393507957  [:0() [topics: ] 
+1506412953.405960083  [:0() [topics: ] 
+1506412953.431602001  [:0() [topics: ] 
+1506412953.445314884  [:0() [topics: ] 
+1506412953.464071035  [:0() [topics: ] 
+1506412953.491637945  [:0() [topics: ] 
+1506412956.940077066  [:0() [topics: ] 
+1506412956.962635040  [:0() [topics: ] 
+1506412956.972649097  [:0() [topics: ] 
+1506412956.981770038  [:0() [topics: ] 
+1506412956.994545936 ERROR [:0() [topics: ] 
+1506412957.010355949  [:0() [topics: ] 
+1506412957.013114929 WARN [:0() [topics: ] 
+1506412957.040652990 1506413077.197067022 INFO [ez_publisher_widget.py:87(add_slider_by_text) [topics: /camera/image_raw, /rosout] header/seq is not created
+1506413077.480016946 WARN [ez_publisher_model.py:165(get_value_type) [topics: /camera/image_raw, /rosout] time is not supported
+1506413077.703119993 WARN [ez_publisher_model.py:165(get_value_type) [topics: /camera/image_raw, /rosout] time is not supported

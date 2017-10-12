@@ -1,0 +1,26 @@
+[rospy.client][INFO] 2017-09-26 17:28:48,264: init_node, name[/rqt_ez_publisher], pid[8247]
+[xmlrpc][INFO] 2017-09-26 17:28:48,265: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2017-09-26 17:28:48,265: Started XML-RPC server [http://ubuntu:40385/]
+[rospy.impl.masterslave][INFO] 2017-09-26 17:28:48,265: _ready: http://ubuntu:40385/
+[xmlrpc][INFO] 2017-09-26 17:28:48,265: xml rpc node: starting XML-RPC server
+[rospy.init][INFO] 2017-09-26 17:28:48,265: ROS Slave URI: [http://ubuntu:40385/]
+[rospy.registration][INFO] 2017-09-26 17:28:48,266: Registering with master node http://localhost:11311
+[rospy.init][INFO] 2017-09-26 17:28:48,367: registered with master
+[rospy.rosout][INFO] 2017-09-26 17:28:48,367: initializing /rosout core topic
+[rospy.rosout][INFO] 2017-09-26 17:28:48,372: connected to core topic /rosout
+[rospy.simtime][INFO] 2017-09-26 17:28:48,375: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2017-09-26 17:28:48,666: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.internal][INFO] 2017-09-26 17:28:49,468: topic[/camera/image_raw] adding connection to [/mask_orange], count 0
+[rosout][INFO] 2017-09-26 17:31:49,240: header/seq is not created
+[rosout][WARNING] 2017-09-26 17:31:49,463: time is not supported
+[rosout][WARNING] 2017-09-26 17:31:49,675: time is not supported
+[rosout][INFO] 2017-09-26 17:31:49,689: PluginContainerWidget; /camera/image_raw/header/frame_id is already exists
+[rosout][INFO] 2017-09-26 17:31:49,690: PluginContainerWidget; /camera/image_raw/height is already exists
+[rosout][INFO] 2017-09-26 17:31:49,691: PluginContainerWidget; /camera/image_raw/width is already exists
+[rosout][INFO] 2017-09-26 17:31:49,695: PluginContainerWidget; /camera/image_raw/encoding is already exists
+[rosout][INFO] 2017-09-26 17:31:49,696: PluginContainerWidget; /camera/image_raw/is_bigendian is already exists
+[rosout][INFO] 2017-09-26 17:31:49,697: PluginContainerWidget; /camera/image_raw/step is already exists
+[rospy.core][INFO] 2017-09-26 17:31:52,339: signal_shutdown [atexit]
+[rospy.internal][INFO] 2017-09-26 17:31:52,342: topic[/camera/image_raw] removing connection to /mask_orange
+[rospy.internal][INFO] 2017-09-26 17:31:52,354: topic[/rosout] removing connection to /rosout
+[rospy.impl.masterslave][INFO] 2017-09-26 17:31:52,354: atexit

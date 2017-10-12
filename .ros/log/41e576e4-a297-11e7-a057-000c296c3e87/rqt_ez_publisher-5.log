@@ -1,0 +1,27 @@
+[rospy.client][INFO] 2017-09-26 17:47:02,563: init_node, name[/rqt_ez_publisher], pid[9846]
+[xmlrpc][INFO] 2017-09-26 17:47:02,564: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2017-09-26 17:47:02,564: Started XML-RPC server [http://ubuntu:41556/]
+[rospy.impl.masterslave][INFO] 2017-09-26 17:47:02,564: _ready: http://ubuntu:41556/
+[rospy.init][INFO] 2017-09-26 17:47:02,567: ROS Slave URI: [http://ubuntu:41556/]
+[xmlrpc][INFO] 2017-09-26 17:47:02,567: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2017-09-26 17:47:02,569: Registering with master node http://localhost:11311
+[rospy.init][INFO] 2017-09-26 17:47:02,668: registered with master
+[rospy.rosout][INFO] 2017-09-26 17:47:02,668: initializing /rosout core topic
+[rospy.rosout][INFO] 2017-09-26 17:47:02,670: connected to core topic /rosout
+[rospy.simtime][INFO] 2017-09-26 17:47:02,677: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2017-09-26 17:47:02,870: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.internal][INFO] 2017-09-26 17:47:03,935: topic[/camera/image_raw] adding connection to [/mask_orange], count 0
+[rosout][INFO] 2017-09-26 17:47:04,306: PluginContainerWidget; /camera/image_raw/data[0] is already exists
+[rosout][INFO] 2017-09-26 17:47:16,442: header/seq is not created
+[rosout][WARNING] 2017-09-26 17:47:16,589: time is not supported
+[rosout][WARNING] 2017-09-26 17:47:16,694: time is not supported
+[rosout][INFO] 2017-09-26 17:47:16,726: PluginContainerWidget; /camera/image_raw/header/frame_id is already exists
+[rosout][INFO] 2017-09-26 17:47:16,728: PluginContainerWidget; /camera/image_raw/height is already exists
+[rosout][INFO] 2017-09-26 17:47:16,730: PluginContainerWidget; /camera/image_raw/width is already exists
+[rosout][INFO] 2017-09-26 17:47:16,731: PluginContainerWidget; /camera/image_raw/encoding is already exists
+[rosout][INFO] 2017-09-26 17:47:16,732: PluginContainerWidget; /camera/image_raw/is_bigendian is already exists
+[rosout][INFO] 2017-09-26 17:47:16,736: PluginContainerWidget; /camera/image_raw/step is already exists
+[rospy.core][INFO] 2017-09-26 17:47:40,404: signal_shutdown [atexit]
+[rospy.internal][INFO] 2017-09-26 17:47:40,431: topic[/camera/image_raw] removing connection to /mask_orange
+[rospy.internal][INFO] 2017-09-26 17:47:40,431: topic[/rosout] removing connection to /rosout
+[rospy.impl.masterslave][INFO] 2017-09-26 17:47:40,432: atexit

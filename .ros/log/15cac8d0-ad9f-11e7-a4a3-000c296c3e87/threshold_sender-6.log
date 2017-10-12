@@ -1,0 +1,55 @@
+[rospy.client][INFO] 2017-10-10 18:40:48,772: init_node, name[/threshold_sender], pid[3572]
+[xmlrpc][INFO] 2017-10-10 18:40:48,773: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2017-10-10 18:40:48,773: Started XML-RPC server [http://ubuntu:37944/]
+[rospy.impl.masterslave][INFO] 2017-10-10 18:40:48,773: _ready: http://ubuntu:37944/
+[xmlrpc][INFO] 2017-10-10 18:40:48,773: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2017-10-10 18:40:48,773: Registering with master node http://localhost:11311
+[rospy.init][INFO] 2017-10-10 18:40:48,774: ROS Slave URI: [http://ubuntu:37944/]
+[rospy.init][INFO] 2017-10-10 18:40:48,774: registered with master
+[rospy.rosout][INFO] 2017-10-10 18:40:48,774: initializing /rosout core topic
+[rospy.rosout][INFO] 2017-10-10 18:40:48,776: connected to core topic /rosout
+[rospy.simtime][INFO] 2017-10-10 18:40:48,778: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2017-10-10 18:40:48,928: topic[/image/marked/compressedDepth/parameter_descriptions] adding connection to [http://ubuntu:43736/], count 0
+[rospy.internal][INFO] 2017-10-10 18:40:48,938: topic[/image/marked/theora/parameter_descriptions] adding connection to [http://ubuntu:43736/], count 0
+[rospy.internal][INFO] 2017-10-10 18:40:48,952: topic[/image/marked/theora/parameter_updates] adding connection to [http://ubuntu:43736/], count 0
+[rospy.internal][INFO] 2017-10-10 18:40:48,984: topic[/image_marked/compressed/parameter_descriptions] adding connection to [http://ubuntu:43736/], count 0
+[rospy.internal][INFO] 2017-10-10 18:40:49,016: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.internal][INFO] 2017-10-10 18:40:49,048: topic[/input_image/compressed/parameter_descriptions] adding connection to [http://ubuntu:34294/], count 0
+[rospy.internal][INFO] 2017-10-10 18:40:49,062: topic[/view/parameter_updates] adding connection to [http://ubuntu:43736/], count 0
+[rospy.internal][INFO] 2017-10-10 18:40:49,072: topic[/input_image/compressedDepth/parameter_updates] adding connection to [http://ubuntu:34294/], count 0
+[rospy.internal][INFO] 2017-10-10 18:40:49,091: topic[/view/parameter_descriptions] adding connection to [http://ubuntu:43736/], count 0
+[rospy.internal][INFO] 2017-10-10 18:40:49,108: topic[/input_image/theora/parameter_updates] adding connection to [http://ubuntu:34294/], count 0
+[rospy.internal][INFO] 2017-10-10 18:40:49,128: topic[/input_image/theora/parameter_descriptions] adding connection to [http://ubuntu:34294/], count 0
+[rospy.internal][INFO] 2017-10-10 18:40:49,144: topic[/input_image/compressedDepth/parameter_descriptions] adding connection to [http://ubuntu:34294/], count 0
+[rospy.internal][INFO] 2017-10-10 18:40:49,160: topic[/input_image/compressed/parameter_updates] adding connection to [http://ubuntu:34294/], count 0
+[rospy.internal][INFO] 2017-10-10 18:40:49,177: topic[/image_marked/theora/parameter_updates] adding connection to [http://ubuntu:43736/], count 0
+[rospy.internal][INFO] 2017-10-10 18:40:49,184: topic[/image_marked/theora/parameter_descriptions] adding connection to [http://ubuntu:43736/], count 0
+[rospy.internal][INFO] 2017-10-10 18:40:49,199: topic[/image_marked/compressedDepth/parameter_updates] adding connection to [http://ubuntu:43736/], count 0
+[rospy.internal][INFO] 2017-10-10 18:40:49,209: topic[/image_marked/compressedDepth/parameter_descriptions] adding connection to [http://ubuntu:43736/], count 0
+[rospy.internal][INFO] 2017-10-10 18:40:49,222: topic[/image_marked/compressed/parameter_updates] adding connection to [http://ubuntu:43736/], count 0
+[rospy.internal][INFO] 2017-10-10 18:40:49,242: topic[/image/marked/compressedDepth/parameter_updates] adding connection to [http://ubuntu:43736/], count 0
+[rospy.internal][INFO] 2017-10-10 18:40:49,256: topic[/image/marked/compressed/parameter_updates] adding connection to [http://ubuntu:43736/], count 0
+[rospy.internal][INFO] 2017-10-10 18:40:49,265: topic[/image/marked/compressed/parameter_descriptions] adding connection to [http://ubuntu:43736/], count 0
+[rospy.core][INFO] 2017-10-10 18:40:54,038: signal_shutdown [atexit]
+[rospy.internal][INFO] 2017-10-10 18:40:54,065: topic[/rosout] removing connection to /rosout
+[rospy.internal][INFO] 2017-10-10 18:40:54,068: topic[/view/parameter_descriptions] removing connection to http://ubuntu:43736/
+[rospy.internal][INFO] 2017-10-10 18:40:54,072: topic[/image_marked/compressedDepth/parameter_updates] removing connection to http://ubuntu:43736/
+[rospy.internal][INFO] 2017-10-10 18:40:54,075: topic[/input_image/compressed/parameter_descriptions] removing connection to http://ubuntu:34294/
+[rospy.internal][INFO] 2017-10-10 18:40:54,078: topic[/image/marked/compressedDepth/parameter_descriptions] removing connection to http://ubuntu:43736/
+[rospy.internal][INFO] 2017-10-10 18:40:54,081: topic[/input_image/compressedDepth/parameter_descriptions] removing connection to http://ubuntu:34294/
+[rospy.internal][INFO] 2017-10-10 18:40:54,084: topic[/image_marked/theora/parameter_updates] removing connection to http://ubuntu:43736/
+[rospy.internal][INFO] 2017-10-10 18:40:54,088: topic[/input_image/theora/parameter_updates] removing connection to http://ubuntu:34294/
+[rospy.internal][INFO] 2017-10-10 18:40:54,090: topic[/image/marked/compressed/parameter_descriptions] removing connection to http://ubuntu:43736/
+[rospy.internal][INFO] 2017-10-10 18:40:54,094: topic[/input_image/compressedDepth/parameter_updates] removing connection to http://ubuntu:34294/
+[rospy.internal][INFO] 2017-10-10 18:40:54,097: topic[/image/marked/compressed/parameter_updates] removing connection to http://ubuntu:43736/
+[rospy.internal][INFO] 2017-10-10 18:40:54,099: topic[/input_image/compressed/parameter_updates] removing connection to http://ubuntu:34294/
+[rospy.internal][INFO] 2017-10-10 18:40:54,101: topic[/view/parameter_updates] removing connection to http://ubuntu:43736/
+[rospy.internal][INFO] 2017-10-10 18:40:54,108: topic[/image_marked/theora/parameter_descriptions] removing connection to http://ubuntu:43736/
+[rospy.internal][INFO] 2017-10-10 18:40:54,109: topic[/image/marked/compressedDepth/parameter_updates] removing connection to http://ubuntu:43736/
+[rospy.internal][INFO] 2017-10-10 18:40:54,117: topic[/image/marked/theora/parameter_descriptions] removing connection to http://ubuntu:43736/
+[rospy.internal][INFO] 2017-10-10 18:40:54,123: topic[/image/marked/theora/parameter_updates] removing connection to http://ubuntu:43736/
+[rospy.internal][INFO] 2017-10-10 18:40:54,126: topic[/image_marked/compressedDepth/parameter_descriptions] removing connection to http://ubuntu:43736/
+[rospy.internal][INFO] 2017-10-10 18:40:54,128: topic[/input_image/theora/parameter_descriptions] removing connection to http://ubuntu:34294/
+[rospy.internal][INFO] 2017-10-10 18:40:54,132: topic[/image_marked/compressed/parameter_descriptions] removing connection to http://ubuntu:43736/
+[rospy.internal][INFO] 2017-10-10 18:40:54,135: topic[/image_marked/compressed/parameter_updates] removing connection to http://ubuntu:43736/
+[rospy.impl.masterslave][INFO] 2017-10-10 18:40:54,135: atexit

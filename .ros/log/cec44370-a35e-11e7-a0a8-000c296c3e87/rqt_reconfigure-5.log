@@ -1,0 +1,43 @@
+[rospy.client][INFO] 2017-09-27 17:35:28,958: init_node, name[/rqt_reconfigure], pid[4651]
+[xmlrpc][INFO] 2017-09-27 17:35:28,959: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2017-09-27 17:35:28,959: Started XML-RPC server [http://ubuntu:41237/]
+[rospy.impl.masterslave][INFO] 2017-09-27 17:35:28,959: _ready: http://ubuntu:41237/
+[xmlrpc][INFO] 2017-09-27 17:35:28,959: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2017-09-27 17:35:28,959: Registering with master node http://localhost:11311
+[rospy.init][INFO] 2017-09-27 17:35:28,960: ROS Slave URI: [http://ubuntu:41237/]
+[rospy.init][INFO] 2017-09-27 17:35:28,960: registered with master
+[rospy.rosout][INFO] 2017-09-27 17:35:28,960: initializing /rosout core topic
+[rospy.rosout][INFO] 2017-09-27 17:35:28,961: connected to core topic /rosout
+[rospy.simtime][INFO] 2017-09-27 17:35:28,963: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2017-09-27 17:35:29,103: topic[/image/marked/theora/parameter_descriptions] adding connection to [http://ubuntu:44659/], count 0
+[rospy.internal][INFO] 2017-09-27 17:35:29,123: topic[/image/marked/theora/parameter_updates] adding connection to [http://ubuntu:44659/], count 0
+[rospy.internal][INFO] 2017-09-27 17:35:29,141: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.internal][INFO] 2017-09-27 17:35:29,172: topic[/image_marked/compressed/parameter_descriptions] adding connection to [http://ubuntu:44659/], count 0
+[rospy.internal][INFO] 2017-09-27 17:35:29,188: topic[/view/parameter_updates] adding connection to [http://ubuntu:44659/], count 0
+[rospy.internal][INFO] 2017-09-27 17:35:29,194: topic[/image_marked/theora/parameter_updates] adding connection to [http://ubuntu:44659/], count 0
+[rospy.internal][INFO] 2017-09-27 17:35:29,202: topic[/view/parameter_descriptions] adding connection to [http://ubuntu:44659/], count 0
+[rospy.internal][INFO] 2017-09-27 17:35:29,216: topic[/image_marked/theora/parameter_descriptions] adding connection to [http://ubuntu:44659/], count 0
+[rospy.internal][INFO] 2017-09-27 17:35:29,231: topic[/image_marked/compressedDepth/parameter_updates] adding connection to [http://ubuntu:44659/], count 0
+[rospy.internal][INFO] 2017-09-27 17:35:29,245: topic[/image_marked/compressedDepth/parameter_descriptions] adding connection to [http://ubuntu:44659/], count 0
+[rospy.internal][INFO] 2017-09-27 17:35:29,258: topic[/image_marked/compressed/parameter_updates] adding connection to [http://ubuntu:44659/], count 0
+[rospy.internal][INFO] 2017-09-27 17:35:29,275: topic[/image/marked/compressedDepth/parameter_updates] adding connection to [http://ubuntu:44659/], count 0
+[rospy.internal][INFO] 2017-09-27 17:35:29,288: topic[/image/marked/compressedDepth/parameter_descriptions] adding connection to [http://ubuntu:44659/], count 0
+[rospy.internal][INFO] 2017-09-27 17:35:29,296: topic[/image/marked/compressed/parameter_updates] adding connection to [http://ubuntu:44659/], count 0
+[rospy.internal][INFO] 2017-09-27 17:35:29,314: topic[/image/marked/compressed/parameter_descriptions] adding connection to [http://ubuntu:44659/], count 0
+[rospy.core][INFO] 2017-09-27 17:35:34,129: signal_shutdown [atexit]
+[rospy.internal][INFO] 2017-09-27 17:35:34,147: topic[/rosout] removing connection to /rosout
+[rospy.internal][INFO] 2017-09-27 17:35:34,164: topic[/image_marked/compressedDepth/parameter_updates] removing connection to http://ubuntu:44659/
+[rospy.internal][INFO] 2017-09-27 17:35:34,169: topic[/image/marked/compressedDepth/parameter_descriptions] removing connection to http://ubuntu:44659/
+[rospy.internal][INFO] 2017-09-27 17:35:34,171: topic[/view/parameter_descriptions] removing connection to http://ubuntu:44659/
+[rospy.internal][INFO] 2017-09-27 17:35:34,176: topic[/image_marked/theora/parameter_updates] removing connection to http://ubuntu:44659/
+[rospy.internal][INFO] 2017-09-27 17:35:34,177: topic[/image/marked/compressed/parameter_descriptions] removing connection to http://ubuntu:44659/
+[rospy.internal][INFO] 2017-09-27 17:35:34,178: topic[/image/marked/compressed/parameter_updates] removing connection to http://ubuntu:44659/
+[rospy.internal][INFO] 2017-09-27 17:35:34,179: topic[/view/parameter_updates] removing connection to http://ubuntu:44659/
+[rospy.internal][INFO] 2017-09-27 17:35:34,180: topic[/image_marked/theora/parameter_descriptions] removing connection to http://ubuntu:44659/
+[rospy.internal][INFO] 2017-09-27 17:35:34,190: topic[/image/marked/compressedDepth/parameter_updates] removing connection to http://ubuntu:44659/
+[rospy.internal][INFO] 2017-09-27 17:35:34,193: topic[/image/marked/theora/parameter_descriptions] removing connection to http://ubuntu:44659/
+[rospy.internal][INFO] 2017-09-27 17:35:34,197: topic[/image/marked/theora/parameter_updates] removing connection to http://ubuntu:44659/
+[rospy.internal][INFO] 2017-09-27 17:35:34,200: topic[/image_marked/compressedDepth/parameter_descriptions] removing connection to http://ubuntu:44659/
+[rospy.internal][INFO] 2017-09-27 17:35:34,201: topic[/image_marked/compressed/parameter_descriptions] removing connection to http://ubuntu:44659/
+[rospy.internal][INFO] 2017-09-27 17:35:34,202: topic[/image_marked/compressed/parameter_updates] removing connection to http://ubuntu:44659/
+[rospy.impl.masterslave][INFO] 2017-09-27 17:35:34,205: atexit

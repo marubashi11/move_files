@@ -1,0 +1,81 @@
+[rosmaster.main][INFO] 2017-07-14 21:30:29,129: initialization complete, waiting for shutdown
+[rosmaster.main][INFO] 2017-07-14 21:30:29,130: Starting ROS Master Node
+[xmlrpc][INFO] 2017-07-14 21:30:29,130: XML-RPC server binding to 0.0.0.0:11311
+[xmlrpc][INFO] 2017-07-14 21:30:29,130: Started XML-RPC server [http://ubuntu:11311/]
+[xmlrpc][INFO] 2017-07-14 21:30:29,131: xml rpc node: starting XML-RPC server
+[rosmaster.master][INFO] 2017-07-14 21:30:29,131: Master initialized: port[11311], uri[http://ubuntu:11311/]
+[rosmaster.master][INFO] 2017-07-14 21:30:29,195: +PARAM [/run_id] by /roslaunch
+[rosmaster.master][INFO] 2017-07-14 21:30:29,199: +PARAM [/roslaunch/uris/host_ubuntu__34724] by /roslaunch
+[rosmaster.master][INFO] 2017-07-14 21:30:29,264: +PARAM [/rosversion] by /roslaunch
+[rosmaster.master][INFO] 2017-07-14 21:30:29,264: +PARAM [/rosdistro] by /roslaunch
+[rosmaster.master][INFO] 2017-07-14 21:30:29,339: +SERVICE [/rosout/get_loggers] /rosout http://ubuntu:39033/
+[rosmaster.master][INFO] 2017-07-14 21:30:29,340: +SERVICE [/rosout/set_logger_level] /rosout http://ubuntu:39033/
+[rosmaster.master][INFO] 2017-07-14 21:30:29,342: +PUB [/rosout_agg] /rosout http://ubuntu:39033/
+[rosmaster.master][INFO] 2017-07-14 21:30:29,346: +SUB [/rosout] /rosout http://ubuntu:39033/
+[rosmaster.master][INFO] 2017-07-14 21:31:28,514: +PUB [/rosout] /turtlesim http://ubuntu:39705/
+[rosmaster.master][INFO] 2017-07-14 21:31:28,515: +SERVICE [/turtlesim/get_loggers] /turtlesim http://ubuntu:39705/
+[rosmaster.master][INFO] 2017-07-14 21:31:28,516: +SERVICE [/turtlesim/set_logger_level] /turtlesim http://ubuntu:39705/
+[rosmaster.master][INFO] 2017-07-14 21:31:28,523: +PARAM [/background_r] by /turtlesim
+[rosmaster.master][INFO] 2017-07-14 21:31:28,524: +PARAM [/background_g] by /turtlesim
+[rosmaster.master][INFO] 2017-07-14 21:31:28,524: +PARAM [/background_b] by /turtlesim
+[rosmaster.master][INFO] 2017-07-14 21:31:28,558: +SERVICE [/clear] /turtlesim http://ubuntu:39705/
+[rosmaster.master][INFO] 2017-07-14 21:31:28,558: +SERVICE [/reset] /turtlesim http://ubuntu:39705/
+[rosmaster.master][INFO] 2017-07-14 21:31:28,559: +SERVICE [/spawn] /turtlesim http://ubuntu:39705/
+[rosmaster.master][INFO] 2017-07-14 21:31:28,560: +SERVICE [/kill] /turtlesim http://ubuntu:39705/
+[rosmaster.master][INFO] 2017-07-14 21:31:28,563: +SUB [/turtle1/cmd_vel] /turtlesim http://ubuntu:39705/
+[rosmaster.master][INFO] 2017-07-14 21:31:28,564: +PUB [/turtle1/pose] /turtlesim http://ubuntu:39705/
+[rosmaster.master][INFO] 2017-07-14 21:31:28,564: +PUB [/turtle1/color_sensor] /turtlesim http://ubuntu:39705/
+[rosmaster.master][INFO] 2017-07-14 21:31:28,565: +SERVICE [/turtle1/set_pen] /turtlesim http://ubuntu:39705/
+[rosmaster.master][INFO] 2017-07-14 21:31:28,566: +SERVICE [/turtle1/teleport_relative] /turtlesim http://ubuntu:39705/
+[rosmaster.master][INFO] 2017-07-14 21:31:28,566: +SERVICE [/turtle1/teleport_absolute] /turtlesim http://ubuntu:39705/
+[rosmaster.master][INFO] 2017-07-14 21:31:28,608: publisherUpdate[/rosout] -> http://ubuntu:39033/ ['http://ubuntu:39705/']
+[rosmaster.master][INFO] 2017-07-14 21:31:28,609: publisherUpdate[/rosout] -> http://ubuntu:39033/ ['http://ubuntu:39705/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-07-14 21:31:48,279: +PUB [/rosout] /rostopic_5535_1500093108255 http://ubuntu:45323/
+[rosmaster.master][INFO] 2017-07-14 21:31:48,282: +SERVICE [/rostopic_5535_1500093108255/get_loggers] /rostopic_5535_1500093108255 http://ubuntu:45323/
+[rosmaster.master][INFO] 2017-07-14 21:31:48,283: +SERVICE [/rostopic_5535_1500093108255/set_logger_level] /rostopic_5535_1500093108255 http://ubuntu:45323/
+[rosmaster.master][INFO] 2017-07-14 21:31:48,295: +SUB [/turtle1/pose] /rostopic_5535_1500093108255 http://ubuntu:45323/
+[rosmaster.master][INFO] 2017-07-14 21:31:48,375: publisherUpdate[/rosout] -> http://ubuntu:39033/ ['http://ubuntu:39705/', 'http://ubuntu:45323/']
+[rosmaster.master][INFO] 2017-07-14 21:31:48,377: publisherUpdate[/rosout] -> http://ubuntu:39033/ ['http://ubuntu:39705/', 'http://ubuntu:45323/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-07-14 21:33:22,204: +SERVICE [/rostopic_6041_1500093201839/get_loggers] /rostopic_6041_1500093201839 http://ubuntu:45388/
+[rosmaster.master][INFO] 2017-07-14 21:33:22,206: +SERVICE [/rostopic_6041_1500093201839/set_logger_level] /rostopic_6041_1500093201839 http://ubuntu:45388/
+[rosmaster.master][INFO] 2017-07-14 21:33:22,207: +PUB [/turtle1/cmd_vel] /rostopic_6041_1500093201839 http://ubuntu:45388/
+[rosmaster.master][INFO] 2017-07-14 21:33:22,303: publisherUpdate[/turtle1/cmd_vel] -> http://ubuntu:39705/ ['http://ubuntu:45388/']
+[rosmaster.master][INFO] 2017-07-14 21:33:22,329: publisherUpdate[/turtle1/cmd_vel] -> http://ubuntu:39705/ ['http://ubuntu:45388/']: sec=0.03, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-07-14 21:33:27,146: -PUB [/turtle1/cmd_vel] /rostopic_6041_1500093201839 http://ubuntu:45388/
+[rosmaster.master][INFO] 2017-07-14 21:33:27,146: -SERVICE [/rostopic_6041_1500093201839/set_logger_level] /rostopic_6041_1500093201839 rosrpc://ubuntu:39050
+[rosmaster.master][INFO] 2017-07-14 21:33:27,146: -SERVICE [/rostopic_6041_1500093201839/get_loggers] /rostopic_6041_1500093201839 rosrpc://ubuntu:39050
+[rosmaster.master][INFO] 2017-07-14 21:33:27,166: publisherUpdate[/turtle1/cmd_vel] -> http://ubuntu:39705/ []
+[rosmaster.master][INFO] 2017-07-14 21:33:27,168: publisherUpdate[/turtle1/cmd_vel] -> http://ubuntu:39705/ []: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-07-14 21:33:34,601: +SERVICE [/rostopic_6055_1500093214452/get_loggers] /rostopic_6055_1500093214452 http://ubuntu:35196/
+[rosmaster.master][INFO] 2017-07-14 21:33:34,604: +SERVICE [/rostopic_6055_1500093214452/set_logger_level] /rostopic_6055_1500093214452 http://ubuntu:35196/
+[rosmaster.master][INFO] 2017-07-14 21:33:34,607: +PUB [/turtle1/cmd_vel] /rostopic_6055_1500093214452 http://ubuntu:35196/
+[rosmaster.master][INFO] 2017-07-14 21:33:34,621: publisherUpdate[/turtle1/cmd_vel] -> http://ubuntu:39705/ ['http://ubuntu:35196/']
+[rosmaster.master][INFO] 2017-07-14 21:33:34,624: publisherUpdate[/turtle1/cmd_vel] -> http://ubuntu:39705/ ['http://ubuntu:35196/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-07-14 21:33:46,032: -PUB [/turtle1/cmd_vel] /rostopic_6055_1500093214452 http://ubuntu:35196/
+[rosmaster.master][INFO] 2017-07-14 21:33:46,032: -SERVICE [/rostopic_6055_1500093214452/get_loggers] /rostopic_6055_1500093214452 rosrpc://ubuntu:41156
+[rosmaster.master][INFO] 2017-07-14 21:33:46,032: -SERVICE [/rostopic_6055_1500093214452/set_logger_level] /rostopic_6055_1500093214452 rosrpc://ubuntu:41156
+[rosmaster.master][INFO] 2017-07-14 21:33:46,087: publisherUpdate[/turtle1/cmd_vel] -> http://ubuntu:39705/ []
+[rosmaster.master][INFO] 2017-07-14 21:33:46,089: publisherUpdate[/turtle1/cmd_vel] -> http://ubuntu:39705/ []: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-07-14 21:33:50,177: +SERVICE [/rostopic_6070_1500093230036/get_loggers] /rostopic_6070_1500093230036 http://ubuntu:40494/
+[rosmaster.master][INFO] 2017-07-14 21:33:50,183: +SERVICE [/rostopic_6070_1500093230036/set_logger_level] /rostopic_6070_1500093230036 http://ubuntu:40494/
+[rosmaster.master][INFO] 2017-07-14 21:33:50,190: +PUB [/turtle1/cmd_vel] /rostopic_6070_1500093230036 http://ubuntu:40494/
+[rosmaster.master][INFO] 2017-07-14 21:33:50,218: publisherUpdate[/turtle1/cmd_vel] -> http://ubuntu:39705/ ['http://ubuntu:40494/']
+[rosmaster.master][INFO] 2017-07-14 21:33:50,221: publisherUpdate[/turtle1/cmd_vel] -> http://ubuntu:39705/ ['http://ubuntu:40494/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-07-14 21:33:55,476: -PUB [/turtle1/cmd_vel] /rostopic_6070_1500093230036 http://ubuntu:40494/
+[rosmaster.master][INFO] 2017-07-14 21:33:55,476: -SERVICE [/rostopic_6070_1500093230036/get_loggers] /rostopic_6070_1500093230036 rosrpc://ubuntu:43910
+[rosmaster.master][INFO] 2017-07-14 21:33:55,476: -SERVICE [/rostopic_6070_1500093230036/set_logger_level] /rostopic_6070_1500093230036 rosrpc://ubuntu:43910
+[rosmaster.master][INFO] 2017-07-14 21:33:55,478: publisherUpdate[/turtle1/cmd_vel] -> http://ubuntu:39705/ []
+[rosmaster.master][INFO] 2017-07-14 21:33:55,480: publisherUpdate[/turtle1/cmd_vel] -> http://ubuntu:39705/ []: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-07-14 21:35:17,826: -SUB [/turtle1/pose] /rostopic_5535_1500093108255 http://ubuntu:45323/
+[rosmaster.master][INFO] 2017-07-14 21:35:17,826: -PUB [/rosout] /rostopic_5535_1500093108255 http://ubuntu:45323/
+[rosmaster.master][INFO] 2017-07-14 21:35:17,826: -SERVICE [/rostopic_5535_1500093108255/get_loggers] /rostopic_5535_1500093108255 rosrpc://ubuntu:39267
+[rosmaster.master][INFO] 2017-07-14 21:35:17,826: -SERVICE [/rostopic_5535_1500093108255/set_logger_level] /rostopic_5535_1500093108255 rosrpc://ubuntu:39267
+[rosmaster.master][INFO] 2017-07-14 21:35:17,872: publisherUpdate[/rosout] -> http://ubuntu:39033/ ['http://ubuntu:39705/']
+[rosmaster.master][INFO] 2017-07-14 21:35:17,874: publisherUpdate[/rosout] -> http://ubuntu:39033/ ['http://ubuntu:39705/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-07-14 21:39:33,795: -PUB [/rosout_agg] /rosout http://ubuntu:39033/
+[rosmaster.master][INFO] 2017-07-14 21:39:33,825: -SUB [/rosout] /rosout http://ubuntu:39033/
+[rosmaster.master][INFO] 2017-07-14 21:39:33,829: -SERVICE [/rosout/get_loggers] /rosout rosrpc://ubuntu:50629
+[rosmaster.master][INFO] 2017-07-14 21:39:33,837: -SERVICE [/rosout/set_logger_level] /rosout rosrpc://ubuntu:50629
+[rosmaster.main][INFO] 2017-07-14 21:39:34,008: keyboard interrupt, will exit
+[rosmaster.main][INFO] 2017-07-14 21:39:34,010: stopping master...
+[rospy.core][INFO] 2017-07-14 21:39:34,024: signal_shutdown [atexit]

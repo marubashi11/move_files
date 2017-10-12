@@ -1,0 +1,1 @@
+/home/marubashi/dotfiles/.bashrc

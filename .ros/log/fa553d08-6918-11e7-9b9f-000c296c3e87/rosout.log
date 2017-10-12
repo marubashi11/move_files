@@ -1,0 +1,21 @@
+
+
+1500094166.545499534  Node Startup
+1500094287.362684159 ERROR [/tmp/binarydeb/ros-kinetic-urg-node-0.1.10/src/urg_node.cpp:245(main) [topics: /rosout] Error connecting to Hokuyo: Could not open serial Hokuyo:
+/dev/ttyACM0 @ 115200
+could not open serial device.
+1500094297.371572064 ERROR [/tmp/binarydeb/ros-kinetic-urg-node-0.1.10/src/urg_node.cpp:245(main) [topics: /rosout] Error connecting to Hokuyo: Could not open serial Hokuyo:
+/dev/ttyACM0 @ 115200
+could not open serial device.
+1500094307.379332220 ERROR [/tmp/binarydeb/ros-kinetic-urg-node-0.1.10/src/urg_node.cpp:245(main) [topics: /rosout] Error connecting to Hokuyo: Could not open serial Hokuyo:
+/dev/ttyACM0 @ 115200
+could not open serial device.
+1500094864.259005309 ERROR [/tmp/binarydeb/ros-kinetic-urg-node-0.1.10/src/urg_node.cpp:245(main) [topics: /rosout] Error connecting to Hokuyo: Could not open serial Hokuyo:
+/dev/ttyACM0 @ 115200
+could not open serial device.
+1500095474.805747563 INFO [/tmp/binarydeb/ros-kinetic-urg-node-0.1.10/src/urg_node.cpp:271(main) [topics: /rosout] Connected to serial device with intensity and ID: 00800159
+1500095475.080035173 INFO [/tmp/binarydeb/ros-kinetic-urg-node-0.1.10/src/urg_node.cpp:321(main) [topics: /rosout, /scan, /diagnostics, /urg_node/parameter_descriptions, /urg_node/parameter_updates] Streaming data.
+1500095813.259528587 INFO [/tmp/binarydeb/ros-kinetic-urg-node-0.1.10/src/urg_node.cpp:271(main) [topics: /rosout] Connected to serial device with intensity and ID: 00800159
+1500095813.524380694 INFO [/tmp/binarydeb/ros-kinetic-urg-node-0.1.10/src/urg_node.cpp:321(main) [topics: /rosout, /scan, /diagnostics, /urg_node/parameter_descriptions, /urg_node/parameter_updates] Streaming data.
+1500095988.190017851 INFO [/tmp/binarydeb/ros-kinetic-rviz-1.12.10/src/rviz/ogre_helpers/render_system.cpp:430(RenderWindow* rviz::RenderSystem::makeRenderWindow) [topics: /rosout] Stereo is NOT SUPPORTED
+1500095988.190497715 INFO [/tmp/binarydeb/ros-kinetic-rviz-1.12.10/src/rviz/ogre_helpers/render_system.cpp:211(RenderSystem::detectGlVersion) [topics: /rosout] OpenGl version: 3 (GLSL 1.3).

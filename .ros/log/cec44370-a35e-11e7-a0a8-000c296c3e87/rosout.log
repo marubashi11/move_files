@@ -1,0 +1,6 @@
+
+
+1506501325.562024724  Node Startup
+1506501325.787439579 WARN [/tmp/binarydeb/ros-kinetic-image-view2-2.2.2/image_view2_node.cpp:46(main) [topics: /rosout] image_view: image has not been remapped! Typical command-line usage:
+	$ ./image_view image:=<image topic> [transport]
+1506501325.928200892 ERROR [/tmp/binarydeb/ros-kinetic-cv-camera-0.1.0/src/cv_camera_node.cpp:22(main) [topics: /rosout] cv camera open failed: device_id 0 cannot be opened

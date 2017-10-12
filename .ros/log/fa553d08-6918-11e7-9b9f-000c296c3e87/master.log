@@ -1,0 +1,175 @@
+[rosmaster.main][INFO] 2017-07-14 21:49:26,387: initialization complete, waiting for shutdown
+[rosmaster.main][INFO] 2017-07-14 21:49:26,387: Starting ROS Master Node
+[xmlrpc][INFO] 2017-07-14 21:49:26,394: XML-RPC server binding to 0.0.0.0:11311
+[xmlrpc][INFO] 2017-07-14 21:49:26,395: Started XML-RPC server [http://ubuntu:11311/]
+[xmlrpc][INFO] 2017-07-14 21:49:26,395: xml rpc node: starting XML-RPC server
+[rosmaster.master][INFO] 2017-07-14 21:49:26,395: Master initialized: port[11311], uri[http://ubuntu:11311/]
+[rosmaster.master][INFO] 2017-07-14 21:49:26,409: +PARAM [/run_id] by /roslaunch
+[rosmaster.master][INFO] 2017-07-14 21:49:26,410: +PARAM [/roslaunch/uris/host_ubuntu__41597] by /roslaunch
+[rosmaster.master][INFO] 2017-07-14 21:49:26,473: +PARAM [/rosversion] by /roslaunch
+[rosmaster.master][INFO] 2017-07-14 21:49:26,473: +PARAM [/rosdistro] by /roslaunch
+[rosmaster.master][INFO] 2017-07-14 21:49:26,543: +SERVICE [/rosout/get_loggers] /rosout http://ubuntu:33695/
+[rosmaster.master][INFO] 2017-07-14 21:49:26,544: +SERVICE [/rosout/set_logger_level] /rosout http://ubuntu:33695/
+[rosmaster.master][INFO] 2017-07-14 21:49:26,545: +PUB [/rosout_agg] /rosout http://ubuntu:33695/
+[rosmaster.master][INFO] 2017-07-14 21:49:26,550: +SUB [/rosout] /rosout http://ubuntu:33695/
+[rosmaster.master][INFO] 2017-07-14 21:51:26,348: +PUB [/rosout] /urg_node http://ubuntu:43535/
+[rosmaster.master][INFO] 2017-07-14 21:51:26,350: +SERVICE [/urg_node/get_loggers] /urg_node http://ubuntu:43535/
+[rosmaster.master][INFO] 2017-07-14 21:51:26,351: +SERVICE [/urg_node/set_logger_level] /urg_node http://ubuntu:43535/
+[rosmaster.master][INFO] 2017-07-14 21:51:26,446: publisherUpdate[/rosout] -> http://ubuntu:33695/ ['http://ubuntu:43535/']
+[rosmaster.master][INFO] 2017-07-14 21:51:26,452: publisherUpdate[/rosout] -> http://ubuntu:33695/ ['http://ubuntu:43535/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-07-14 21:51:50,714: -PUB [/rosout] /urg_node http://ubuntu:43535/
+[rosmaster.master][INFO] 2017-07-14 21:51:50,717: -SERVICE [/urg_node/get_loggers] /urg_node rosrpc://ubuntu:40060
+[rosmaster.master][INFO] 2017-07-14 21:51:50,719: -SERVICE [/urg_node/set_logger_level] /urg_node rosrpc://ubuntu:40060
+[rosmaster.master][INFO] 2017-07-14 21:51:50,802: publisherUpdate[/rosout] -> http://ubuntu:33695/ []
+[rosmaster.master][INFO] 2017-07-14 21:51:50,804: publisherUpdate[/rosout] -> http://ubuntu:33695/ []: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-07-14 22:01:03,249: +PUB [/rosout] /urg_node http://ubuntu:36547/
+[rosmaster.master][INFO] 2017-07-14 22:01:03,251: +SERVICE [/urg_node/get_loggers] /urg_node http://ubuntu:36547/
+[rosmaster.master][INFO] 2017-07-14 22:01:03,251: +SERVICE [/urg_node/set_logger_level] /urg_node http://ubuntu:36547/
+[rosmaster.master][INFO] 2017-07-14 22:01:03,296: publisherUpdate[/rosout] -> http://ubuntu:33695/ ['http://ubuntu:36547/']
+[rosmaster.master][INFO] 2017-07-14 22:01:03,298: publisherUpdate[/rosout] -> http://ubuntu:33695/ ['http://ubuntu:36547/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-07-14 22:01:12,081: -PUB [/rosout] /urg_node http://ubuntu:36547/
+[rosmaster.master][INFO] 2017-07-14 22:01:12,083: -SERVICE [/urg_node/get_loggers] /urg_node rosrpc://ubuntu:59540
+[rosmaster.master][INFO] 2017-07-14 22:01:12,088: -SERVICE [/urg_node/set_logger_level] /urg_node rosrpc://ubuntu:59540
+[rosmaster.master][INFO] 2017-07-14 22:01:12,174: publisherUpdate[/rosout] -> http://ubuntu:33695/ []
+[rosmaster.master][INFO] 2017-07-14 22:01:12,176: publisherUpdate[/rosout] -> http://ubuntu:33695/ []: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-07-14 22:11:12,830: +PUB [/rosout] /urg_node http://ubuntu:34634/
+[rosmaster.master][INFO] 2017-07-14 22:11:12,832: +SERVICE [/urg_node/get_loggers] /urg_node http://ubuntu:34634/
+[rosmaster.master][INFO] 2017-07-14 22:11:12,833: +SERVICE [/urg_node/set_logger_level] /urg_node http://ubuntu:34634/
+[rosmaster.master][INFO] 2017-07-14 22:11:12,902: publisherUpdate[/rosout] -> http://ubuntu:33695/ ['http://ubuntu:34634/']
+[rosmaster.master][INFO] 2017-07-14 22:11:12,909: publisherUpdate[/rosout] -> http://ubuntu:33695/ ['http://ubuntu:34634/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-07-14 22:11:14,809: +PUB [/scan] /urg_node http://ubuntu:34634/
+[rosmaster.master][INFO] 2017-07-14 22:11:15,007: +PUB [/diagnostics] /urg_node http://ubuntu:34634/
+[rosmaster.master][INFO] 2017-07-14 22:11:15,032: +SERVICE [/urg_node/set_parameters] /urg_node http://ubuntu:34634/
+[rosmaster.master][INFO] 2017-07-14 22:11:15,035: +PUB [/urg_node/parameter_descriptions] /urg_node http://ubuntu:34634/
+[rosmaster.master][INFO] 2017-07-14 22:11:15,038: +PUB [/urg_node/parameter_updates] /urg_node http://ubuntu:34634/
+[rosmaster.master][INFO] 2017-07-14 22:11:15,054: +PARAM [/urg_node/tf_prefix] by /urg_node
+[rosmaster.master][INFO] 2017-07-14 22:11:15,056: +PARAM [/urg_node/frame_id] by /urg_node
+[rosmaster.master][INFO] 2017-07-14 22:11:15,059: +PARAM [/urg_node/time_offset] by /urg_node
+[rosmaster.master][INFO] 2017-07-14 22:11:15,062: +PARAM [/urg_node/angle_min] by /urg_node
+[rosmaster.master][INFO] 2017-07-14 22:11:15,064: +PARAM [/urg_node/angle_max] by /urg_node
+[rosmaster.master][INFO] 2017-07-14 22:11:15,067: +PARAM [/urg_node/cluster] by /urg_node
+[rosmaster.master][INFO] 2017-07-14 22:11:15,069: +PARAM [/urg_node/skip] by /urg_node
+[rosmaster.master][INFO] 2017-07-14 22:11:15,071: +PARAM [/urg_node/tf_prefix] by /urg_node
+[rosmaster.master][INFO] 2017-07-14 22:11:15,072: +PARAM [/urg_node/frame_id] by /urg_node
+[rosmaster.master][INFO] 2017-07-14 22:11:15,074: +PARAM [/urg_node/time_offset] by /urg_node
+[rosmaster.master][INFO] 2017-07-14 22:11:15,075: +PARAM [/urg_node/angle_min] by /urg_node
+[rosmaster.master][INFO] 2017-07-14 22:11:15,077: +PARAM [/urg_node/angle_max] by /urg_node
+[rosmaster.master][INFO] 2017-07-14 22:11:15,078: +PARAM [/urg_node/cluster] by /urg_node
+[rosmaster.master][INFO] 2017-07-14 22:11:15,079: +PARAM [/urg_node/skip] by /urg_node
+[rosmaster.master][INFO] 2017-07-14 22:16:17,828: -PUB [/rosout] /urg_node http://ubuntu:34634/
+[rosmaster.master][INFO] 2017-07-14 22:16:17,838: -PUB [/scan] /urg_node http://ubuntu:34634/
+[rosmaster.master][INFO] 2017-07-14 22:16:17,842: -PUB [/diagnostics] /urg_node http://ubuntu:34634/
+[rosmaster.master][INFO] 2017-07-14 22:16:17,847: publisherUpdate[/rosout] -> http://ubuntu:33695/ []
+[rosmaster.master][INFO] 2017-07-14 22:16:17,849: publisherUpdate[/rosout] -> http://ubuntu:33695/ []: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-07-14 22:16:17,847: -PUB [/urg_node/parameter_descriptions] /urg_node http://ubuntu:34634/
+[rosmaster.master][INFO] 2017-07-14 22:16:17,852: -PUB [/urg_node/parameter_updates] /urg_node http://ubuntu:34634/
+[rosmaster.master][INFO] 2017-07-14 22:16:17,854: -SERVICE [/urg_node/get_loggers] /urg_node rosrpc://ubuntu:36655
+[rosmaster.master][INFO] 2017-07-14 22:16:17,856: -SERVICE [/urg_node/set_logger_level] /urg_node rosrpc://ubuntu:36655
+[rosmaster.master][INFO] 2017-07-14 22:16:17,857: -SERVICE [/urg_node/set_parameters] /urg_node rosrpc://ubuntu:36655
+[rosmaster.master][INFO] 2017-07-14 22:16:34,133: +PUB [/rosout] /rostopic_7562_1500095793926 http://ubuntu:40891/
+[rosmaster.master][INFO] 2017-07-14 22:16:34,143: +SERVICE [/rostopic_7562_1500095793926/get_loggers] /rostopic_7562_1500095793926 http://ubuntu:40891/
+[rosmaster.master][INFO] 2017-07-14 22:16:34,148: +SERVICE [/rostopic_7562_1500095793926/set_logger_level] /rostopic_7562_1500095793926 http://ubuntu:40891/
+[rosmaster.master][INFO] 2017-07-14 22:16:34,168: publisherUpdate[/rosout] -> http://ubuntu:33695/ ['http://ubuntu:40891/']
+[rosmaster.master][INFO] 2017-07-14 22:16:34,169: publisherUpdate[/rosout] -> http://ubuntu:33695/ ['http://ubuntu:40891/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-07-14 22:16:34,210: +SUB [/scan] /rostopic_7562_1500095793926 http://ubuntu:40891/
+[rosmaster.master][INFO] 2017-07-14 22:16:39,727: -SUB [/scan] /rostopic_7562_1500095793926 http://ubuntu:40891/
+[rosmaster.master][INFO] 2017-07-14 22:16:39,728: -PUB [/rosout] /rostopic_7562_1500095793926 http://ubuntu:40891/
+[rosmaster.master][INFO] 2017-07-14 22:16:39,728: -SERVICE [/rostopic_7562_1500095793926/set_logger_level] /rostopic_7562_1500095793926 rosrpc://ubuntu:32975
+[rosmaster.master][INFO] 2017-07-14 22:16:39,729: -SERVICE [/rostopic_7562_1500095793926/get_loggers] /rostopic_7562_1500095793926 rosrpc://ubuntu:32975
+[rosmaster.master][INFO] 2017-07-14 22:16:39,779: publisherUpdate[/rosout] -> http://ubuntu:33695/ []
+[rosmaster.master][INFO] 2017-07-14 22:16:39,781: publisherUpdate[/rosout] -> http://ubuntu:33695/ []: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-07-14 22:16:51,482: +PUB [/rosout] /urg_node http://ubuntu:42362/
+[rosmaster.master][INFO] 2017-07-14 22:16:51,483: +SERVICE [/urg_node/get_loggers] /urg_node http://ubuntu:42362/
+[rosmaster.master][INFO] 2017-07-14 22:16:51,484: +SERVICE [/urg_node/set_logger_level] /urg_node http://ubuntu:42362/
+[rosmaster.master][INFO] 2017-07-14 22:16:51,508: publisherUpdate[/rosout] -> http://ubuntu:33695/ ['http://ubuntu:42362/']
+[rosmaster.master][INFO] 2017-07-14 22:16:51,508: publisherUpdate[/rosout] -> http://ubuntu:33695/ ['http://ubuntu:42362/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-07-14 22:16:53,261: +PUB [/scan] /urg_node http://ubuntu:42362/
+[rosmaster.master][INFO] 2017-07-14 22:16:53,461: +PUB [/diagnostics] /urg_node http://ubuntu:42362/
+[rosmaster.master][INFO] 2017-07-14 22:16:53,486: +SERVICE [/urg_node/set_parameters] /urg_node http://ubuntu:42362/
+[rosmaster.master][INFO] 2017-07-14 22:16:53,488: +PUB [/urg_node/parameter_descriptions] /urg_node http://ubuntu:42362/
+[rosmaster.master][INFO] 2017-07-14 22:16:53,491: +PUB [/urg_node/parameter_updates] /urg_node http://ubuntu:42362/
+[rosmaster.master][INFO] 2017-07-14 22:16:53,506: +PARAM [/urg_node/tf_prefix] by /urg_node
+[rosmaster.master][INFO] 2017-07-14 22:16:53,508: +PARAM [/urg_node/frame_id] by /urg_node
+[rosmaster.master][INFO] 2017-07-14 22:16:53,510: +PARAM [/urg_node/time_offset] by /urg_node
+[rosmaster.master][INFO] 2017-07-14 22:16:53,512: +PARAM [/urg_node/angle_min] by /urg_node
+[rosmaster.master][INFO] 2017-07-14 22:16:53,513: +PARAM [/urg_node/angle_max] by /urg_node
+[rosmaster.master][INFO] 2017-07-14 22:16:53,515: +PARAM [/urg_node/cluster] by /urg_node
+[rosmaster.master][INFO] 2017-07-14 22:16:53,516: +PARAM [/urg_node/skip] by /urg_node
+[rosmaster.master][INFO] 2017-07-14 22:16:53,517: +PARAM [/urg_node/tf_prefix] by /urg_node
+[rosmaster.master][INFO] 2017-07-14 22:16:53,519: +PARAM [/urg_node/frame_id] by /urg_node
+[rosmaster.master][INFO] 2017-07-14 22:16:53,520: +PARAM [/urg_node/time_offset] by /urg_node
+[rosmaster.master][INFO] 2017-07-14 22:16:53,521: +PARAM [/urg_node/angle_min] by /urg_node
+[rosmaster.master][INFO] 2017-07-14 22:16:53,522: +PARAM [/urg_node/angle_max] by /urg_node
+[rosmaster.master][INFO] 2017-07-14 22:16:53,523: +PARAM [/urg_node/cluster] by /urg_node
+[rosmaster.master][INFO] 2017-07-14 22:16:53,523: +PARAM [/urg_node/skip] by /urg_node
+[rosmaster.master][INFO] 2017-07-14 22:19:47,383: +PUB [/rosout] /rviz_1500095987262894775 http://ubuntu:35755/
+[rosmaster.master][INFO] 2017-07-14 22:19:47,397: +SERVICE [/rviz_1500095987262894775/get_loggers] /rviz_1500095987262894775 http://ubuntu:35755/
+[rosmaster.master][INFO] 2017-07-14 22:19:47,399: +SERVICE [/rviz_1500095987262894775/set_logger_level] /rviz_1500095987262894775 http://ubuntu:35755/
+[rosmaster.master][INFO] 2017-07-14 22:19:47,416: publisherUpdate[/rosout] -> http://ubuntu:33695/ ['http://ubuntu:42362/', 'http://ubuntu:35755/']
+[rosmaster.master][INFO] 2017-07-14 22:19:47,435: publisherUpdate[/rosout] -> http://ubuntu:33695/ ['http://ubuntu:42362/', 'http://ubuntu:35755/']: sec=0.02, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-07-14 22:19:48,279: +SUB [/tf] /rviz_1500095987262894775 http://ubuntu:35755/
+[rosmaster.master][INFO] 2017-07-14 22:19:48,283: +SUB [/tf_static] /rviz_1500095987262894775 http://ubuntu:35755/
+[rosmaster.master][INFO] 2017-07-14 22:19:48,617: +PUB [/initialpose] /rviz_1500095987262894775 http://ubuntu:35755/
+[rosmaster.master][INFO] 2017-07-14 22:19:48,621: +PUB [/goal] /rviz_1500095987262894775 http://ubuntu:35755/
+[rosmaster.master][INFO] 2017-07-14 22:19:48,672: -PUB [/goal] /rviz_1500095987262894775 http://ubuntu:35755/
+[rosmaster.master][INFO] 2017-07-14 22:19:48,674: -PUB [/initialpose] /rviz_1500095987262894775 http://ubuntu:35755/
+[rosmaster.master][INFO] 2017-07-14 22:19:48,679: +PUB [/initialpose] /rviz_1500095987262894775 http://ubuntu:35755/
+[rosmaster.master][INFO] 2017-07-14 22:19:48,680: +PUB [/goal] /rviz_1500095987262894775 http://ubuntu:35755/
+[rosmaster.master][INFO] 2017-07-14 22:19:48,681: +PUB [/move_base_simple/goal] /rviz_1500095987262894775 http://ubuntu:35755/
+[rosmaster.master][INFO] 2017-07-14 22:19:48,682: -PUB [/goal] /rviz_1500095987262894775 http://ubuntu:35755/
+[rosmaster.master][INFO] 2017-07-14 22:19:48,683: +PUB [/clicked_point] /rviz_1500095987262894775 http://ubuntu:35755/
+[rosmaster.master][INFO] 2017-07-14 22:19:48,925: +SERVICE [/rviz_1500095987262894775/reload_shaders] /rviz_1500095987262894775 http://ubuntu:35755/
+[rosmaster.master][INFO] 2017-07-14 22:20:49,774: +PUB [/rosout] /rostopic_7912_1500096049163 http://ubuntu:35125/
+[rosmaster.master][INFO] 2017-07-14 22:20:49,779: +SERVICE [/rostopic_7912_1500096049163/get_loggers] /rostopic_7912_1500096049163 http://ubuntu:35125/
+[rosmaster.master][INFO] 2017-07-14 22:20:49,781: +SERVICE [/rostopic_7912_1500096049163/set_logger_level] /rostopic_7912_1500096049163 http://ubuntu:35125/
+[rosmaster.master][INFO] 2017-07-14 22:20:49,792: publisherUpdate[/rosout] -> http://ubuntu:33695/ ['http://ubuntu:42362/', 'http://ubuntu:35755/', 'http://ubuntu:35125/']
+[rosmaster.master][INFO] 2017-07-14 22:20:49,800: publisherUpdate[/rosout] -> http://ubuntu:33695/ ['http://ubuntu:42362/', 'http://ubuntu:35755/', 'http://ubuntu:35125/']: sec=0.01, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-07-14 22:20:49,874: +SUB [/tf] /rostopic_7912_1500096049163 http://ubuntu:35125/
+[rosmaster.master][INFO] 2017-07-14 22:20:52,026: -SUB [/tf] /rostopic_7912_1500096049163 http://ubuntu:35125/
+[rosmaster.master][INFO] 2017-07-14 22:20:52,027: -PUB [/rosout] /rostopic_7912_1500096049163 http://ubuntu:35125/
+[rosmaster.master][INFO] 2017-07-14 22:20:52,027: -SERVICE [/rostopic_7912_1500096049163/set_logger_level] /rostopic_7912_1500096049163 rosrpc://ubuntu:44054
+[rosmaster.master][INFO] 2017-07-14 22:20:52,027: -SERVICE [/rostopic_7912_1500096049163/get_loggers] /rostopic_7912_1500096049163 rosrpc://ubuntu:44054
+[rosmaster.master][INFO] 2017-07-14 22:20:52,029: publisherUpdate[/rosout] -> http://ubuntu:33695/ ['http://ubuntu:42362/', 'http://ubuntu:35755/']
+[rosmaster.master][INFO] 2017-07-14 22:20:52,033: publisherUpdate[/rosout] -> http://ubuntu:33695/ ['http://ubuntu:42362/', 'http://ubuntu:35755/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-07-14 22:20:59,500: +PUB [/rosout] /rostopic_7944_1500096059429 http://ubuntu:33982/
+[rosmaster.master][INFO] 2017-07-14 22:20:59,505: +SERVICE [/rostopic_7944_1500096059429/get_loggers] /rostopic_7944_1500096059429 http://ubuntu:33982/
+[rosmaster.master][INFO] 2017-07-14 22:20:59,506: +SERVICE [/rostopic_7944_1500096059429/set_logger_level] /rostopic_7944_1500096059429 http://ubuntu:33982/
+[rosmaster.master][INFO] 2017-07-14 22:20:59,528: +SUB [/tf_static] /rostopic_7944_1500096059429 http://ubuntu:33982/
+[rosmaster.master][INFO] 2017-07-14 22:20:59,529: publisherUpdate[/rosout] -> http://ubuntu:33695/ ['http://ubuntu:42362/', 'http://ubuntu:35755/', 'http://ubuntu:33982/']
+[rosmaster.master][INFO] 2017-07-14 22:20:59,533: publisherUpdate[/rosout] -> http://ubuntu:33695/ ['http://ubuntu:42362/', 'http://ubuntu:35755/', 'http://ubuntu:33982/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-07-14 22:21:02,681: -SUB [/tf_static] /rostopic_7944_1500096059429 http://ubuntu:33982/
+[rosmaster.master][INFO] 2017-07-14 22:21:02,682: -PUB [/rosout] /rostopic_7944_1500096059429 http://ubuntu:33982/
+[rosmaster.master][INFO] 2017-07-14 22:21:02,682: -SERVICE [/rostopic_7944_1500096059429/get_loggers] /rostopic_7944_1500096059429 rosrpc://ubuntu:39401
+[rosmaster.master][INFO] 2017-07-14 22:21:02,682: -SERVICE [/rostopic_7944_1500096059429/set_logger_level] /rostopic_7944_1500096059429 rosrpc://ubuntu:39401
+[rosmaster.master][INFO] 2017-07-14 22:21:02,691: publisherUpdate[/rosout] -> http://ubuntu:33695/ ['http://ubuntu:42362/', 'http://ubuntu:35755/']
+[rosmaster.master][INFO] 2017-07-14 22:21:02,693: publisherUpdate[/rosout] -> http://ubuntu:33695/ ['http://ubuntu:42362/', 'http://ubuntu:35755/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-07-14 22:21:42,481: +SUB [/scan] /rviz_1500095987262894775 http://ubuntu:35755/
+[rosmaster.master][INFO] 2017-07-14 22:23:23,069: -SUB [/scan] /rviz_1500095987262894775 http://ubuntu:35755/
+[rosmaster.master][INFO] 2017-07-14 22:23:23,089: -PUB [/clicked_point] /rviz_1500095987262894775 http://ubuntu:35755/
+[rosmaster.master][INFO] 2017-07-14 22:23:23,093: -PUB [/move_base_simple/goal] /rviz_1500095987262894775 http://ubuntu:35755/
+[rosmaster.master][INFO] 2017-07-14 22:23:23,098: -PUB [/initialpose] /rviz_1500095987262894775 http://ubuntu:35755/
+[rosmaster.master][INFO] 2017-07-14 22:23:23,132: -SUB [/tf_static] /rviz_1500095987262894775 http://ubuntu:35755/
+[rosmaster.master][INFO] 2017-07-14 22:23:23,135: -SUB [/tf] /rviz_1500095987262894775 http://ubuntu:35755/
+[rosmaster.master][INFO] 2017-07-14 22:23:23,157: -SERVICE [/rviz_1500095987262894775/reload_shaders] /rviz_1500095987262894775 rosrpc://ubuntu:48799
+[rosmaster.master][INFO] 2017-07-14 22:23:23,368: -PUB [/rosout] /rviz_1500095987262894775 http://ubuntu:35755/
+[rosmaster.master][INFO] 2017-07-14 22:23:23,370: -SERVICE [/rviz_1500095987262894775/get_loggers] /rviz_1500095987262894775 rosrpc://ubuntu:48799
+[rosmaster.master][INFO] 2017-07-14 22:23:23,372: -SERVICE [/rviz_1500095987262894775/set_logger_level] /rviz_1500095987262894775 rosrpc://ubuntu:48799
+[rosmaster.master][INFO] 2017-07-14 22:23:23,462: publisherUpdate[/rosout] -> http://ubuntu:33695/ ['http://ubuntu:42362/']
+[rosmaster.master][INFO] 2017-07-14 22:23:23,464: publisherUpdate[/rosout] -> http://ubuntu:33695/ ['http://ubuntu:42362/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-07-14 22:24:21,962: -PUB [/rosout] /urg_node http://ubuntu:42362/
+[rosmaster.master][INFO] 2017-07-14 22:24:21,963: -PUB [/scan] /urg_node http://ubuntu:42362/
+[rosmaster.master][INFO] 2017-07-14 22:24:21,964: -PUB [/diagnostics] /urg_node http://ubuntu:42362/
+[rosmaster.master][INFO] 2017-07-14 22:24:21,965: -PUB [/urg_node/parameter_descriptions] /urg_node http://ubuntu:42362/
+[rosmaster.master][INFO] 2017-07-14 22:24:21,966: -PUB [/urg_node/parameter_updates] /urg_node http://ubuntu:42362/
+[rosmaster.master][INFO] 2017-07-14 22:24:21,968: -SERVICE [/urg_node/get_loggers] /urg_node rosrpc://ubuntu:38251
+[rosmaster.master][INFO] 2017-07-14 22:24:21,969: -SERVICE [/urg_node/set_logger_level] /urg_node rosrpc://ubuntu:38251
+[rosmaster.master][INFO] 2017-07-14 22:24:21,970: -SERVICE [/urg_node/set_parameters] /urg_node rosrpc://ubuntu:38251
+[rosmaster.master][INFO] 2017-07-14 22:24:22,028: publisherUpdate[/rosout] -> http://ubuntu:33695/ []
+[rosmaster.master][INFO] 2017-07-14 22:24:22,029: publisherUpdate[/rosout] -> http://ubuntu:33695/ []: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-07-14 22:24:26,155: -PUB [/rosout_agg] /rosout http://ubuntu:33695/
+[rosmaster.master][INFO] 2017-07-14 22:24:26,155: -SUB [/rosout] /rosout http://ubuntu:33695/
+[rosmaster.master][INFO] 2017-07-14 22:24:26,156: -SERVICE [/rosout/get_loggers] /rosout rosrpc://ubuntu:43471
+[rosmaster.master][INFO] 2017-07-14 22:24:26,157: -SERVICE [/rosout/set_logger_level] /rosout rosrpc://ubuntu:43471
+[rosmaster.main][INFO] 2017-07-14 22:24:26,214: keyboard interrupt, will exit
+[rosmaster.main][INFO] 2017-07-14 22:24:26,217: stopping master...
+[rospy.core][INFO] 2017-07-14 22:24:26,229: signal_shutdown [atexit]

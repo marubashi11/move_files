@@ -1,0 +1,98 @@
+
+
+1500093585.546785716  Node Startup
+1500093590.055340055 INFO [/tmp/binarydeb/ros-kinetic-rviz-1.12.10/src/rviz/ogre_helpers/render_system.cpp:430(RenderWindow* rviz::RenderSystem::makeRenderWindow) [topics: /rosout] Stereo is NOT SUPPORTED
+1500093590.055577336 INFO [/tmp/binarydeb/ros-kinetic-rviz-1.12.10/src/rviz/ogre_helpers/render_system.cpp:211(RenderSystem::detectGlVersion) [topics: /rosout] OpenGl version: 3 (GLSL 1.3).
+1500093618.325041563 ERROR [/tmp/binarydeb/ros-kinetic-urg-node-0.1.10/src/urg_node.cpp:245(main) [topics: /rosout] Error connecting to Hokuyo: Could not open serial Hokuyo:
+/dev/ttyACM0 @ 115200
+could not open serial device.
+1500093624.823592173 ERROR [/tmp/binarydeb/ros-kinetic-urg-node-0.1.10/src/urg_node.cpp:245(main) [topics: /rosout] Error connecting to Hokuyo: Could not open serial Hokuyo:
+/dev/ttyACM0 @ 115200
+could not open serial device.
+1500093634.831164813 ERROR [/tmp/binarydeb/ros-kinetic-urg-node-0.1.10/src/urg_node.cpp:245(main) [topics: /rosout] Error connecting to Hokuyo: Could not open serial Hokuyo:
+/dev/ttyACM0 @ 115200
+could not open serial device.
+1500093644.837905069 ERROR [/tmp/binarydeb/ros-kinetic-urg-node-0.1.10/src/urg_node.cpp:245(main) [topics: /rosout] Error connecting to Hokuyo: Could not open serial Hokuyo:
+/dev/ttyACM0 @ 115200
+could not open serial device.
+1500093654.845398820 ERROR [/tmp/binarydeb/ros-kinetic-urg-node-0.1.10/src/urg_node.cpp:245(main) [topics: /rosout] Error connecting to Hokuyo: Could not open serial Hokuyo:
+/dev/ttyACM0 @ 115200
+could not open serial device.
+1500093664.851893075 ERROR [/tmp/binarydeb/ros-kinetic-urg-node-0.1.10/src/urg_node.cpp:245(main) [topics: /rosout] Error connecting to Hokuyo: Could not open serial Hokuyo:
+/dev/ttyACM0 @ 115200
+could not open serial device.
+1500093674.858667477 ERROR [/tmp/binarydeb/ros-kinetic-urg-node-0.1.10/src/urg_node.cpp:245(main) [topics: /rosout] Error connecting to Hokuyo: Could not open serial Hokuyo:
+/dev/ttyACM0 @ 115200
+could not open serial device.
+1500093684.864564975 ERROR [/tmp/binarydeb/ros-kinetic-urg-node-0.1.10/src/urg_node.cpp:245(main) [topics: /rosout] Error connecting to Hokuyo: Could not open serial Hokuyo:
+/dev/ttyACM0 @ 115200
+could not open serial device.
+1500093694.872178000 ERROR [/tmp/binarydeb/ros-kinetic-urg-node-0.1.10/src/urg_node.cpp:245(main) [topics: /rosout] Error connecting to Hokuyo: Could not open serial Hokuyo:
+/dev/ttyACM0 @ 115200
+could not open serial device.
+1500093704.878726486 ERROR [/tmp/binarydeb/ros-kinetic-urg-node-0.1.10/src/urg_node.cpp:245(main) [topics: /rosout] Error connecting to Hokuyo: Could not open serial Hokuyo:
+/dev/ttyACM0 @ 115200
+could not open serial device.
+1500093714.885771433 ERROR [/tmp/binarydeb/ros-kinetic-urg-node-0.1.10/src/urg_node.cpp:245(main) [topics: /rosout] Error connecting to Hokuyo: Could not open serial Hokuyo:
+/dev/ttyACM0 @ 115200
+could not open serial device.
+1500093724.892139589 ERROR [/tmp/binarydeb/ros-kinetic-urg-node-0.1.10/src/urg_node.cpp:245(main) [topics: /rosout] Error connecting to Hokuyo: Could not open serial Hokuyo:
+/dev/ttyACM0 @ 115200
+could not open serial device.
+1500093734.898509323 ERROR [/tmp/binarydeb/ros-kinetic-urg-node-0.1.10/src/urg_node.cpp:245(main) [topics: /rosout] Error connecting to Hokuyo: Could not open serial Hokuyo:
+/dev/ttyACM0 @ 115200
+could not open serial device.
+1500093744.906513753 ERROR [/tmp/binarydeb/ros-kinetic-urg-node-0.1.10/src/urg_node.cpp:245(main) [topics: /rosout] Error connecting to Hokuyo: Could not open serial Hokuyo:
+/dev/ttyACM0 @ 115200
+could not open serial device.
+1500093754.914321061 ERROR [/tmp/binarydeb/ros-kinetic-urg-node-0.1.10/src/urg_node.cpp:245(main) [topics: /rosout] Error connecting to Hokuyo: Could not open serial Hokuyo:
+/dev/ttyACM0 @ 115200
+could not open serial device.
+1500093764.921571077 ERROR [/tmp/binarydeb/ros-kinetic-urg-node-0.1.10/src/urg_node.cpp:245(main) [topics: /rosout] Error connecting to Hokuyo: Could not open serial Hokuyo:
+/dev/ttyACM0 @ 115200
+could not open serial device.
+1500093774.927731458 ERROR [/tmp/binarydeb/ros-kinetic-urg-node-0.1.10/src/urg_node.cpp:245(main) [topics: /rosout] Error connecting to Hokuyo: Could not open serial Hokuyo:
+/dev/ttyACM0 @ 115200
+could not open serial device.
+1500093784.934687161 ERROR [/tmp/binarydeb/ros-kinetic-urg-node-0.1.10/src/urg_node.cpp:245(main) [topics: /rosout] Error connecting to Hokuyo: Could not open serial Hokuyo:
+/dev/ttyACM0 @ 115200
+could not open serial device.
+1500093794.942431262 ERROR [/tmp/binarydeb/ros-kinetic-urg-node-0.1.10/src/urg_node.cpp:245(main) [topics: /rosout] Error connecting to Hokuyo: Could not open serial Hokuyo:
+/dev/ttyACM0 @ 115200
+could not open serial device.
+1500093804.947482187 ERROR [/tmp/binarydeb/ros-kinetic-urg-node-0.1.10/src/urg_node.cpp:245(main) [topics: /rosout] Error connecting to Hokuyo: Could not open serial Hokuyo:
+/dev/ttyACM0 @ 115200
+could not open serial device.
+1500093814.955466653 ERROR [/tmp/binarydeb/ros-kinetic-urg-node-0.1.10/src/urg_node.cpp:245(main) [topics: /rosout] Error connecting to Hokuyo: Could not open serial Hokuyo:
+/dev/ttyACM0 @ 115200
+could not open serial device.
+1500093824.962435142 ERROR [/tmp/binarydeb/ros-kinetic-urg-node-0.1.10/src/urg_node.cpp:245(main) [topics: /rosout] Error connecting to Hokuyo: Could not open serial Hokuyo:
+/dev/ttyACM0 @ 115200
+could not open serial device.
+1500093834.970131968 ERROR [/tmp/binarydeb/ros-kinetic-urg-node-0.1.10/src/urg_node.cpp:245(main) [topics: /rosout] Error connecting to Hokuyo: Could not open serial Hokuyo:
+/dev/ttyACM0 @ 115200
+could not open serial device.
+1500093844.975495554 ERROR [/tmp/binarydeb/ros-kinetic-urg-node-0.1.10/src/urg_node.cpp:245(main) [topics: /rosout] Error connecting to Hokuyo: Could not open serial Hokuyo:
+/dev/ttyACM0 @ 115200
+could not open serial device.
+1500093854.981436261 ERROR [/tmp/binarydeb/ros-kinetic-urg-node-0.1.10/src/urg_node.cpp:245(main) [topics: /rosout] Error connecting to Hokuyo: Could not open serial Hokuyo:
+/dev/ttyACM0 @ 115200
+could not open serial device.
+1500093864.988818181 ERROR [/tmp/binarydeb/ros-kinetic-urg-node-0.1.10/src/urg_node.cpp:245(main) [topics: /rosout] Error connecting to Hokuyo: Could not open serial Hokuyo:
+/dev/ttyACM0 @ 115200
+could not open serial device.
+1500093874.994098341 ERROR [/tmp/binarydeb/ros-kinetic-urg-node-0.1.10/src/urg_node.cpp:245(main) [topics: /rosout] Error connecting to Hokuyo: Could not open serial Hokuyo:
+/dev/ttyACM0 @ 115200
+could not open serial device.
+1500093884.999423839 ERROR [/tmp/binarydeb/ros-kinetic-urg-node-0.1.10/src/urg_node.cpp:245(main) [topics: /rosout] Error connecting to Hokuyo: Could not open serial Hokuyo:
+/dev/ttyACM0 @ 115200
+could not open serial device.
+1500093891.216706395 ERROR [/tmp/binarydeb/ros-kinetic-urg-node-0.1.10/src/urg_node.cpp:245(main) [topics: /rosout] Error connecting to Hokuyo: Could not open serial Hokuyo:
+/dev/ttyACM0 @ 115200
+could not open serial device.
+1500093992.175051548 ERROR [/tmp/binarydeb/ros-kinetic-urg-node-0.1.10/src/urg_node.cpp:245(main) [topics: /rosout] Error connecting to Hokuyo: Could not open serial Hokuyo:
+/dev/ttyACM0 @ 115200
+could not open serial device.
+1500094016.872631289 INFO [/tmp/binarydeb/ros-kinetic-urg-node-0.1.10/src/urg_node.cpp:271(main) [topics: /rosout] Connected to serial device with intensity and ID: 00800159
+1500094017.133998602 INFO [/tmp/binarydeb/ros-kinetic-urg-node-0.1.10/src/urg_node.cpp:321(main) [topics: /rosout, /scan, /diagnostics, /urg_node/parameter_descriptions, /urg_node/parameter_updates] Streaming data.
+1500094035.469837707 WARN [/opt/ros/kinetic/include/tf/message_filter.h:496(MessageFilter<M>::checkFailures) [topics: /rosout, /initialpose, /move_base_simple/goal, /clicked_point] MessageFilter [target=tf ]: Dropped 100.00% of messages so far. Please turn the [ros.rviz.message_notifier] rosconsole logger to DEBUG for more information.

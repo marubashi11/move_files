@@ -1,0 +1,31 @@
+[rosmaster.main][INFO] 2017-09-26 16:43:31,065: initialization complete, waiting for shutdown
+[rosmaster.main][INFO] 2017-09-26 16:43:31,065: Starting ROS Master Node
+[xmlrpc][INFO] 2017-09-26 16:43:31,070: XML-RPC server binding to 0.0.0.0:11311
+[xmlrpc][INFO] 2017-09-26 16:43:31,070: Started XML-RPC server [http://ubuntu:11311/]
+[xmlrpc][INFO] 2017-09-26 16:43:31,070: xml rpc node: starting XML-RPC server
+[rosmaster.master][INFO] 2017-09-26 16:43:31,071: Master initialized: port[11311], uri[http://ubuntu:11311/]
+[rosmaster.master][INFO] 2017-09-26 16:43:31,128: +PARAM [/run_id] by /roslaunch
+[rosmaster.master][INFO] 2017-09-26 16:43:31,133: +PARAM [/roslaunch/uris/host_ubuntu__36389] by /roslaunch
+[rosmaster.master][INFO] 2017-09-26 16:43:31,233: +PARAM [/rosversion] by /roslaunch
+[rosmaster.master][INFO] 2017-09-26 16:43:31,233: +PARAM [/rosdistro] by /roslaunch
+[rosmaster.master][INFO] 2017-09-26 16:43:31,240: +SERVICE [/rosout/get_loggers] /rosout http://ubuntu:44595/
+[rosmaster.master][INFO] 2017-09-26 16:43:31,241: +SERVICE [/rosout/set_logger_level] /rosout http://ubuntu:44595/
+[rosmaster.master][INFO] 2017-09-26 16:43:31,243: +PUB [/rosout_agg] /rosout http://ubuntu:44595/
+[rosmaster.master][INFO] 2017-09-26 16:43:31,247: +SUB [/rosout] /rosout http://ubuntu:44595/
+[rosmaster.master][INFO] 2017-09-26 16:43:39,184: +PUB [/rosout] /rqt_gui_py_node_5027 http://ubuntu:34755/
+[rosmaster.master][INFO] 2017-09-26 16:43:39,187: +SERVICE [/rqt_gui_py_node_5027/get_loggers] /rqt_gui_py_node_5027 http://ubuntu:34755/
+[rosmaster.master][INFO] 2017-09-26 16:43:39,188: +SERVICE [/rqt_gui_py_node_5027/set_logger_level] /rqt_gui_py_node_5027 http://ubuntu:34755/
+[rosmaster.master][INFO] 2017-09-26 16:43:39,226: publisherUpdate[/rosout] -> http://ubuntu:44595/ ['http://ubuntu:34755/']
+[rosmaster.master][INFO] 2017-09-26 16:43:39,227: publisherUpdate[/rosout] -> http://ubuntu:44595/ ['http://ubuntu:34755/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-09-26 16:46:06,723: -PUB [/rosout] /rqt_gui_py_node_5027 http://ubuntu:34755/
+[rosmaster.master][INFO] 2017-09-26 16:46:06,723: -SERVICE [/rqt_gui_py_node_5027/get_loggers] /rqt_gui_py_node_5027 rosrpc://ubuntu:38769
+[rosmaster.master][INFO] 2017-09-26 16:46:06,723: -SERVICE [/rqt_gui_py_node_5027/set_logger_level] /rqt_gui_py_node_5027 rosrpc://ubuntu:38769
+[rosmaster.master][INFO] 2017-09-26 16:46:06,736: publisherUpdate[/rosout] -> http://ubuntu:44595/ []
+[rosmaster.master][INFO] 2017-09-26 16:46:06,739: publisherUpdate[/rosout] -> http://ubuntu:44595/ []: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2017-09-26 16:56:00,651: -PUB [/rosout_agg] /rosout http://ubuntu:44595/
+[rosmaster.master][INFO] 2017-09-26 16:56:00,652: -SUB [/rosout] /rosout http://ubuntu:44595/
+[rosmaster.master][INFO] 2017-09-26 16:56:00,652: -SERVICE [/rosout/get_loggers] /rosout rosrpc://ubuntu:43177
+[rosmaster.master][INFO] 2017-09-26 16:56:00,656: -SERVICE [/rosout/set_logger_level] /rosout rosrpc://ubuntu:43177
+[rosmaster.main][INFO] 2017-09-26 16:56:00,813: keyboard interrupt, will exit
+[rosmaster.main][INFO] 2017-09-26 16:56:00,813: stopping master...
+[rospy.core][INFO] 2017-09-26 16:56:00,813: signal_shutdown [atexit]
